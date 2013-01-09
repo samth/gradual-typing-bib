@@ -110,6 +110,49 @@ PhD Dissertation, Northeastern University, January 2010.
 Ryan Culpepper, Sam Tobin-Hochstadt, and Matthew Flatt.  
 In Proceedings of the 2007 Workshop on Scheme and Functional Programming, Universit́e Laval Technical Report DIUL-RT-0701, pages 1–13, 2007
 
+##### Tobias Wrigstad, Francesco Zappa Nardelli, Sylvain Lebresne, Johan Ostlund, and Jan Vitek. In-
+tegrating typed and untyped code in a scripting language. In Symposium on Principles of
+Programming Languages, 2010.
+
+##### Roger Wolff, Ronald Garcia, Eric Tanter, and Jonathan Aldrich. Gradual typestate. In European
+Conference on Object-Oriented Programming, ECOOP’11. Springer-Verlag, 2011.
+
+##### Jeremy G. Siek, Ronald Garcia, and Walid Taha. Exploring the design space of higher-order casts.
+In European Symposium on Programming, March 2009.
+
+##### Jeremy G. Siek and Philip Wadler. Threesomes, with and without blame. In Symposium on Prin-
+ciples of Programming Languages, 2010.
+
+##### Jeremy G. Siek and Walid Taha. Gradual typing for objects. In ECOOP 2007, volume 4609 of
+LCNS, pages 2–27. Springer Verlag, August 2007.
+
+##### Jeremy G. Siek and Ronald Garcia. Interpretations of the gradually-typed lambda calculus. In
+Scheme and Functional Programming Workshop, 2012.
+
+##### Aseem Rastogi, Avik Chaudhuri, and Basil Hosmer. The ins and outs of gradual type inference.
+In Proceedings of the 39th annual ACM SIGPLAN-SIGACT symposium on Principles of pro-
+gramming languages, POPL ’12, 2012.
+
+##### Lintaro Ina and Atsushi Igarashi. Gradual typing for generics. In Proceedings of the 2011 ACM
+international conference on Object oriented programming systems languages and applications,
+OOPSLA ’11, 2011.
+
+##### Gavin Bierman, Erik Meijer, and Mads Torgersen. Adding dynamic types to C#. In European
+Conference on Object-Oriented Programming, ECOOP’10. Springer-Verlag, 2010.
+
+##### M. Bayne, R. Cook, and M.D. Ernst. Always-available static and dynamic feedback. In International
+Conference on Software Engineering, 2011.
+
+##### Amal Ahmed, Robert Bruce Findler, Jeremy G. Siek, and Philip Wadler. Blame for All. In Sympo-
+sium on Principles of Programming Languages, January 2011.
+
+
+
+
+
+
+
+
 # Related
 
 ## Typing Untyped Languages

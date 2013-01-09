@@ -7,7 +7,7 @@ Alexander Aiken and Brian R. Murphy
 In POPL ’91: Proceedings of the 18th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, pages 279–290. ACM Press, 1991.
 
 ##### Soft typing with conditional types. 
-Alexander Aiken, Edward L. Wimmers, and T. K. Lakshman
+Alexander Aiken, Edward L. Wimmers, and T. K. Lakshman   
 In POPL ’94: Proceedings of the 21st ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, pages 163–173. ACM Press, 1994
 
 ##### Pluggable type systems.
@@ -19,7 +19,7 @@ Gilad Bracha and David Griswold.
 In OOPSLA ’93: Proceedings of the 8th annual ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications, pages 215–230. ACM Press, 1993.
 
 ##### User-defined data types as an aid to verifying LISP programs.
-Robert Cartwright.
+Robert Cartwright.  
 In International Conference on Automata, Languages and Programming, pages 228–256, 1976.
 
 ##### Soft typing. 
@@ -27,11 +27,12 @@ Robert Cartwright and Mike Fagan.
 In PLDI ’91: Proceedings of the ACM SIGPLAN 1991 Conference on Programming Language Design and Implementation, pages 278–292. ACM Press, 1991.
 
 ##### Safe polymorphic type inference for a dynamically typed language: translating Scheme to ML. 
-Fritz Henglein and Jakob Rehof.  
+Fritz Henglein and Jakob Rehof.    
 In FPCA ’95: Proceedings of the Seventh International Conference on Functional Programming Languages and Computer Architecture, pages 192–203. ACM Press, 1995.
 
 ##### Dynamic typing: Syntax and proof theory.
-Fritz Henglein. Science of Computer Programming, 22(3):197–230, 1994.
+Fritz Henglein.  
+Science of Computer Programming, 22(3):197–230, 1994.
 
 ##### Thatte
 

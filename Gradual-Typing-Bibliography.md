@@ -1,6 +1,6 @@
-# A bibliography of Gradual Typing and related papers
+x
 
-## Predecessors
+# Predecessors
 
 ##### Quasi-static Typing
 Satish Thatte  
@@ -27,7 +27,7 @@ In OOPSLA ’05: Proceedings of the 20th annual ACM SIGPLAN Conference on Object
 Christopher Anderson, Sophia Drossopoulou  
 Proceedings of Workshop on Object Oriented Developments 2003, Electronic Notes in Theoretical Computer Science, Volume 82, Issue 8, October 2003, Pages 53–81
 
-## Core Gradual Typing
+# Core Gradual Typing
 
 ##### Gradual typing for functional languages.
 Jeremy G. Siek and Walid Taha.  
@@ -106,9 +106,9 @@ PhD Dissertation, Northeastern University, January 2010.
 Ryan Culpepper, Sam Tobin-Hochstadt, and Matthew Flatt.  
 In Proceedings of the 2007 Workshop on Scheme and Functional Programming, Universit́e Laval Technical Report DIUL-RT-0701, pages 1–13, 2007
 
-## Related
+# Related
 
-### Typing Untyped Languages
+## Typing Untyped Languages
 
 ##### A practical subtyping system for Erlang. 
 Simon Marlow and Philip Wadler.  

@@ -47,6 +47,10 @@ In Wrigstad et al. [2009], pages 47–57
 
 ##### Well-typed programs can’t be blamed
 Philip Wadler and Robert Bruce Findler  
+In Scheme Workshop 2007
+
+##### Well-typed programs can’t be blamed
+Philip Wadler and Robert Bruce Findler  
 In ESOP ’09: Proceedings of the Eighteenth European Symposium on Programming, volume 5502 of Lecture Notes in Computer Science, pages 1–16. Springer-Verlag, 2009.
 
 ##### Operational semantics for multi-language programs

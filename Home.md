@@ -1,0 +1,1 @@
+Welcome to the samth.github.com wiki!

@@ -1,12 +1,15 @@
 # A bibliography of Gradual Typing and related papers
 
-## Prehistory
+## Predecessors
 
 ##### Pluggable type systems.
 Gilad Bracha.  
 In OOPSLA Workshop on the Revival of Dynamic Languages, 2004.
 
-##### Thatte
+##### Hybrid type checking. 
+Cormac Flanagan.  
+In Conference Record of POPL ’06: The 33th ACM SIGPLAN-SIGACT Symposium on Principles of Programming
+Languages, pages 245–256. ACM Press, 2006.
 
 ##### Contracts for higher-order functions
 Robert Bruce Findler and Matthias Felleisen  
@@ -97,13 +100,6 @@ In Proceedings of the 2007 Workshop on Scheme and Functional Programming, Univer
 
 ## Related
 
-##### Type Dynamic in Haskell
-
-##### Hybrid type checking. 
-Cormac Flanagan.  
-In Conference Record of POPL ’06: The 33th ACM SIGPLAN-SIGACT Symposium on Principles of Programming
-Languages, pages 245–256. ACM Press, 2006.
-
 ### Typing Untyped Languages
 
 ##### A practical subtyping system for Erlang. 
@@ -149,7 +145,7 @@ In International Conference on Automata, Languages and Programming, pages 228–
 
 ##### Soft typing. 
 Robert Cartwright and Mike Fagan.  
-In PLDI ’91: Proceedings of the ACM SIGPLAN 1991 Conference on Programming Language Design and Implementation, pages 278–292. ACM Press, 1991.
+In PLDI ’91: Proceedings of the ACM SIGPLAN 1991 Conference on Programming Language Design and Implementation, pages 2Cormac Flanagan.78–292. ACM Press, 1991.
 
 ##### Safe polymorphic type inference for a dynamically typed language: translating Scheme to ML. 
 Fritz Henglein and Jakob Rehof.    
@@ -158,3 +154,9 @@ In FPCA ’95: Proceedings of the Seventh International Conference on Functional
 ##### Dynamic typing: Syntax and proof theory.
 Fritz Henglein.  
 Science of Computer Programming, 22(3):197–230, 1994.
+
+##### Thatte
+
+### Other Related Research
+
+##### Type Dynamic in Haskell

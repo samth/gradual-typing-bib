@@ -2,12 +2,12 @@
 
 ## Prehistory
 
-#####  Static type inference in a dynamically typed language. 
-Alexander Aiken and Brian R. Murphy.
+#####  Static type inference in a dynamically typed language
+Alexander Aiken and Brian R. Murphy
 In POPL ’91: Proceedings of the 18th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, pages 279–290. ACM Press, 1991.
 
 ##### Soft typing with conditional types. 
-Alexander Aiken, Edward L. Wimmers, and T. K. Lakshman. 
+Alexander Aiken, Edward L. Wimmers, and T. K. Lakshman
 In POPL ’94: Proceedings of the 21st ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, pages 163–173. ACM Press, 1994
 
 ##### Pluggable type systems.

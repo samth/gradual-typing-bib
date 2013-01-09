@@ -145,7 +145,25 @@ ings for the 1st workshop on Script to Program Evolution
 , New York, NY,
 USA, 2009. ACM Press
 
+##### The Design and Implementation of Typed Scheme
+Sam Tobin-Hochstadt and Matthias Felleisen.
+To appear in Higher-Order and Symbolic Computation. 
 
+##### Complete Monitors for Behavioral Contracts. 
+Christos Dimoulas, Sam Tobin-Hochstadt, and Matthias Felleisen.
+European Symposium on Programming (ESOP), March 2012. 
+
+##### Proceedings of the Third Workshop on Script to Program Evolution. 
+Edited by Sam Tobin-Hochstadt
+NU CCIS Technical Report NU-CCIS-12-02, June 2012. 
+
+##### Gradual Typing for First-class Classes. 
+Asumu Takikawa, T. Stephen Strickland, Christos Dimoulas, Sam Tobin-Hochstadt and Matthias Felleisen.
+Object Oriented Programming, Systems, Languages and Applications (OOPSLA), October 2012. 
+
+##### Typed Scheme: From Scripts to Programs.
+Sam Tobin-Hochstadt
+PhD Dissertation, Northeastern University, January 2010. 
 
 ## Related
 

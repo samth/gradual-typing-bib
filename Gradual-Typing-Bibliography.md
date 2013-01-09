@@ -71,12 +71,50 @@ ming, Systems, Languages, and Applications
 
 ## Core Gradual Typing
 
-##### Gradual Typing
-Siek & Taha, Scheme Workshop 2006
-##### Interlanguage Migration: From Scripts to Programs
-Tobin-Hochstadt & Felleisen, DLS 2006
+##### Jeremy G. Siek and Walid Taha. Gradual typing for functional languages.
+In
+Seventh Workshop on Scheme and Functional Programming, University of
+Chicago Technical Report TR-2006-06
+, pages 81–92, September 2006.
+
+##### Sam Tobin-Hochstadt and Matthias Felleisen. Interlanguage migration: from
+scripts to programs. In
+OOPSLA ’06: Companion to the 21st annual ACM
+SIGPLAN Conference on Object Oriented Programming, Systems, Languages,
+and Applications
+, pages 964–974. ACM Press, 2006.
+
+##### Sam Tobin-Hochstadt and Matthias Felleisen. The design and implementa-
+tion of Typed Scheme. In
+POPL ’08: Proceedings of the 35th ACM SIGPLAN-
+SIGACT Symposium on Principles of Programming Languages
+, pages 395–
+406. ACM Press, 2008
+
+##### Sam Tobin-Hochstadt and Robert Bruce Findler. Cycles without pollution: a
+gradual typing poem. In
+Wrigstad et al.
+[
+2009
+], pages 47–57
+
+##### Philip Wadler and Robert Bruce Findler. Well-typed programs can’t be
+blamed. In
+ESOP ’09: Proceedings of the Eighteenth European Symposium
+on Programming
+, volume 5502 of
+Lecture Notes in Computer Science
+, pages
+1–16. Springer-Verlag, 2009.
+
 ##### ??
 Matthews & Findler, POPL 2007
+
+##### Jacob Matthews and Robert Bruce Findler. Operational semantics for multi-
+language programs.
+ACM Transactions on Programming Languages and
+Systems
+, 31(3):1–44, 2009.
 
 ##### Space-efficient gradual typing. 
 David Herman, Aaron Tomb, and Cormac Flanagan.
@@ -101,22 +139,47 @@ Wrigstad et al.
 2009
 ], pages 14–16.
 
+##### Tobias Wrigstad, Nate Nystrom, and Jan Vitek, editors.
+STOP ’09: Proceed-
+ings for the 1st workshop on Script to Program Evolution
+, New York, NY,
+USA, 2009. ACM Press
+
 
 
 ## Related
 
+##### Simon Marlow and Philip Wadler. A practical subtyping system for Erlang. In
+ICFP ’97: Proceedings of the Second ACM SIGPLAN International Conference
+on Functional Programming
+, pages 136–149. ACM Press, 1997.
+
 ##### Type Dynamic in Haskell
-##### Hybrid Typing
-Flangan, POPL 2006
+
+##### Cormac Flanagan. Hybrid type checking. In
+Conference Record of POPL ’06:
+The 33th ACM SIGPLAN-SIGACT Symposium on Principles of Programming
+Languages
+, pages 245–256. ACM Press, 2006.
 
 ##### Christopher T. Haynes. Infer: A statically-typed dialect of Scheme. Technical
 Report 367, Indiana University, 1995.
 
+##### Gary T. Leavens, Curtis Clifton, and Brian Dorn. A Type Notation for Scheme.
+Technical Report 05-18a, Iowa State University, 2005.
+
 ##### Ryan Culpepper, Sam Tobin-Hochstadt, and Matthew Flatt. Advanced
-Macrology and the Implementation of Typed Scheme. In
-Proceedings of the
-2007 Workshop on Scheme and Functional Programming, Universit
-́
-e Laval
-Technical Report DIUL-RT-0701
-, pages 1–13, 2007
+Macrology and the Implementation of Typed Scheme. In Proceedings of the2007 Workshop on Scheme and Functional Programming, Universit́e Laval Technical Report DIUL-RT-0701, pages 1–13, 2007
+
+##### Drew McDermott. Revised NISP manual. Technical Report YALE/DCS/RR-
+642, Yale University, Department of Computer Science, 2004
+
+##### Michael Salib. Starkiller: A static type inferencer and compiler for Python.
+Master’s thesis, Massachusetts Institute of Technology, Cambridge, Mas-
+sachusetts, 2004.
+
+##### Andrew K. Wright and Robert Cartwright. A practical soft type system for
+Scheme.
+ACM Transactions on Programming Languages and Systems
+, 19
+(1):87–152, 1997

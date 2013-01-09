@@ -37,7 +37,7 @@ Science of Computer Programming, 22(3):197–230, 1994.
 ##### Thatte
 
 ##### Contracts for higher-order functions
-Robert Bruce Findler and Matthias Felleisen
+Robert Bruce Findler and Matthias Felleisen  
 In ICFP ’02: Proceedings of the Seventh ACM SIGPLAN International Conference on Functional Programming, pages 48–59. ACM Press, 2002
 
 ##### Fine-grained interoperability through mirrors and contracts.
@@ -46,50 +46,33 @@ In OOPSLA ’05: Proceedings of the 20th annual ACM SIGPLAN Conference on Object
 
 ## Core Gradual Typing
 
-##### Jeremy G. Siek and Walid Taha. Gradual typing for functional languages.
-In
-Seventh Workshop on Scheme and Functional Programming, University of
-Chicago Technical Report TR-2006-06
-, pages 81–92, September 2006.
+##### Gradual typing for functional languages.
+Jeremy G. Siek and Walid Taha.  
+In Seventh Workshop on Scheme and Functional Programming, University of Chicago Technical Report TR-2006-06, pages 81–92, September 2006.
 
-##### Sam Tobin-Hochstadt and Matthias Felleisen. Interlanguage migration: from
-scripts to programs. In
-OOPSLA ’06: Companion to the 21st annual ACM
-SIGPLAN Conference on Object Oriented Programming, Systems, Languages,
-and Applications
-, pages 964–974. ACM Press, 2006.
+##### Interlanguage migration: from scripts to programs.
+Sam Tobin-Hochstadt and Matthias Felleisen.  
+In OOPSLA ’06: Companion to the 21st annual ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications, pages 964–974. ACM Press, 2006.
 
-##### Sam Tobin-Hochstadt and Matthias Felleisen. The design and implementa-
-tion of Typed Scheme. In
-POPL ’08: Proceedings of the 35th ACM SIGPLAN-
-SIGACT Symposium on Principles of Programming Languages
-, pages 395–
-406. ACM Press, 2008
+##### The design and implementation of Typed Scheme.
+Sam Tobin-Hochstadt and Matthias Felleisen.  
+In POPL ’08: Proceedings of the 35th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, pages 395–406. ACM Press, 2008
 
-##### Sam Tobin-Hochstadt and Robert Bruce Findler. Cycles without pollution: a
-gradual typing poem. In
-Wrigstad et al.
-[
-2009
-], pages 47–57
+##### Cycles without pollution: a gradual typing poem.
+Sam Tobin-Hochstadt and Robert Bruce Findler.  
+In Wrigstad et al. [2009], pages 47–57
 
-##### Philip Wadler and Robert Bruce Findler. Well-typed programs can’t be
-blamed. In
-ESOP ’09: Proceedings of the Eighteenth European Symposium
-on Programming
-, volume 5502 of
-Lecture Notes in Computer Science
-, pages
-1–16. Springer-Verlag, 2009.
+##### Well-typed programs can’t be blamed
+Philip Wadler and Robert Bruce Findler  
+In ESOP ’09: Proceedings of the Eighteenth European Symposium on Programming, volume 5502 of Lecture Notes in Computer Science, pages 1–16. Springer-Verlag, 2009.
 
-##### ??
-Matthews & Findler, POPL 2007
+##### Operational semantics for multi-language programs
+Jacob Matthews and Robert Bruce Findler  
+POPL 2007
 
-##### Jacob Matthews and Robert Bruce Findler. Operational semantics for multi-
-language programs.
-ACM Transactions on Programming Languages and
-Systems
-, 31(3):1–44, 2009.
+##### Operational semantics for multi-language programs
+Jacob Matthews and Robert Bruce Findler  
+ACM Transactions on Programming Languages and Systems, 31(3):1–44, 2009.
 
 ##### Space-efficient gradual typing. 
 David Herman, Aaron Tomb, and Cormac Flanagan.
@@ -100,19 +83,13 @@ Programming, TFP 2007, pages 1–18, 2008.
 Lintaro Ina and Atsushi Igarashi.
 Computer Software, 26(2):18–40, 2009.
 
-##### Michael Furr, Jong-hoon (David) An, Jeffrey S. Foster, and Michael Hicks.
-Static type inference for ruby. In
-SAC ’09: Proceedings of the 2009 ACM
-Symposium on Applied Computing
-, pages 1859–1866. ACM Press, 2009
+##### Static type inference for Ruby
+Michael Furr, Jong-hoon (David) An, Jeffrey S. Foster, and Michael Hicks  
+In SAC ’09: Proceedings of the 2009 ACM Symposium on Applied Computing, pages 1859–1866. ACM Press, 2009
 
-##### Michael Furr, Jong-hoon (David) An, Jeffrey S. Foster, and Michael Hicks.
-Tests to the left of me, types to the right: how not to get stuck in the
-middle of a Ruby execution. In
-Wrigstad et al.
-[
-2009
-], pages 14–16.
+##### Tests to the left of me, types to the right: how not to get stuck in the middle of a Ruby execution.  
+Michael Furr, Jong-hoon (David) An, Jeffrey S. Foster, and Michael Hicks.  
+In Wrigstad et al. [2009], pages 14–16.
 
 ##### Tobias Wrigstad, Nate Nystrom, and Jan Vitek, editors.
 STOP ’09: Proceed-

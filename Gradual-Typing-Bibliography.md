@@ -2,6 +2,10 @@
 
 ## Predecessors
 
+##### Quasi-static Typing
+Satish Thatte  
+In Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages (POPL '90). ACM, New York, NY, USA, 367-381. 
+
 ##### Pluggable type systems.
 Gilad Bracha.  
 In OOPSLA Workshop on the Revival of Dynamic Languages, 2004.
@@ -18,6 +22,10 @@ In ICFP ’02: Proceedings of the Seventh ACM SIGPLAN International Conference o
 ##### Fine-grained interoperability through mirrors and contracts.
 Kathryn E. Gray, Robert Bruce Findler, and Matthew Flatt.  
 In OOPSLA ’05: Proceedings of the 20th annual ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications, pages 231–245. ACM Press, 2005
+
+##### BabyJ: From Object Based to Class Based Programming via Types
+Christopher Anderson, Sophia Drossopoulou  
+Proceedings of Workshop on Object Oriented Developments 2003, Electronic Notes in Theoretical Computer Science, Volume 82, Issue 8, October 2003, Pages 53–81
 
 ## Core Gradual Typing
 
@@ -154,9 +162,3 @@ In FPCA ’95: Proceedings of the Seventh International Conference on Functional
 ##### Dynamic typing: Syntax and proof theory.
 Fritz Henglein.  
 Science of Computer Programming, 22(3):197–230, 1994.
-
-##### Thatte
-
-### Other Related Research
-
-##### Type Dynamic in Haskell

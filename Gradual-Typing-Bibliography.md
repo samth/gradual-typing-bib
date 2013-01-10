@@ -211,13 +211,17 @@ Object Oriented Programming, Systems, Languages and Applications (OOPSLA), Octob
 Asumu Takikawa, T. Stephen Strickland, Sam Tobin-Hochstadt.  
 ESOP 2013. To appear.
 
-##### Gradual Typing for Mutable Objects
-Jeremy G. Siek, Michael M. Vitousek, and Shashank Bharadwaj.  
-Unpublished manuscript, 2012.
+##### The Ruby Type Checker 
+Brianna M. Ren, John Toman, T. Stephen Strickland, Jeffrey S. Foster  
+OOPS 2013
 
 ##### The Design and Implementation of Typed Scheme
 Sam Tobin-Hochstadt and Matthias Felleisen.  
 To appear in Higher-Order and Symbolic Computation. 
+
+##### Gradual Typing for Mutable Objects
+Jeremy G. Siek, Michael M. Vitousek, and Shashank Bharadwaj.  
+Unpublished manuscript, 2012.
 
 ##### Interoperability in a Scripted World
 Kathryn E. Gray  
@@ -321,7 +325,4 @@ Honours thesis, University of Western Australia, 2012
 Jong-hoon (David) An, Avik Chaudhuri, Jeffrey S. Foster, and Michael Hicks  
 In ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL), pages 459–472, Austin, TX, USA, January 2011.
 
-##### The Ruby Type Checker 
-Brianna M. Ren, John Toman, T. Stephen Strickland, Jeffrey S. Foster  
-OOPS 2013
 

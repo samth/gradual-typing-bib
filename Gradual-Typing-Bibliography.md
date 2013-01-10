@@ -216,6 +216,10 @@ To appear in Higher-Order and Symbolic Computation.
 Kathryn E. Gray  
 Unpublished manuscript, 2012
 
+##### A Practical Optional Type System for Clojure
+Ambrose Bonnaire-Sergeant
+Honours thesis, University of Western Australia, 2012
+
 # Related
 
 ## Typing Untyped Languages

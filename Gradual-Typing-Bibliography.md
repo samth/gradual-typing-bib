@@ -74,6 +74,10 @@ Computer Software, 26(2):18–40, 2009.
 Michael Furr, Jong-hoon (David) An, Jeffrey S. Foster, and Michael Hicks  
 In SAC ’09: Proceedings of the 2009 ACM Symposium on Applied Computing, pages 1859–1866. ACM Press, 2009
 
+##### Gradual typing with unification-based inference
+Jeremy G. Siek, Manish Vachharajani  
+DLS '08 Proceedings of the 2008 symposium on Dynamic languages, 2008
+
 ##### Tests to the left of me, types to the right: how not to get stuck in the middle of a Ruby execution.  
 Michael Furr, Jong-hoon (David) An, Jeffrey S. Foster, and Michael Hicks.  
 In Wrigstad et al. [2009], pages 14–16.

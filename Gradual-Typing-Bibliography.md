@@ -2,6 +2,8 @@
 
 # Predecessors
 
+These papers all consider the challenges of interoperability between typed and untyped languages, which is at the core of the gradual typing project.  Papers about type checking untyped languages that do not consider interoperation appear at the bottom of this paper.
+
 ##### Quasi-static Typing
 Satish Thatte  
 In Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages (POPL '90). ACM, New York, NY, USA, 367-381. 

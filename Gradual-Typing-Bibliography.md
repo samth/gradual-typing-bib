@@ -1,4 +1,4 @@
-# X
+# This line here to fix bug in GitHub
 
 # Predecessors
 
@@ -163,9 +163,13 @@ Amal Ahmed, Robert Bruce Findler, Jeremy G. Siek, and Philip Wadler.
 In Symposium on Principles of Programming Languages, January 2011.
 
 
+##### Gradual Typing for Mutable Objects
+Jeremy G. Siek, Michael M. Vitousek, and Shashank Bharadwaj.  
+Unpublished manuscript.
 
-
-
+##### Constraining Delimited Control with Contracts
+Asumu Takikawa, T. Stephen Strickland, Sam Tobin-Hochstadt.  
+ESOP 2013. To appear.
 
 
 

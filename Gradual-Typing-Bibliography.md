@@ -29,6 +29,10 @@ Proceedings of Workshop on Object Oriented Developments 2003, Electronic Notes i
 
 # Core Gradual Typing
 
+## The original papers
+
+These three papers all independently introduce the fundamental idea of gradual typing: dynamic enforcement of types using contracts.
+
 ##### Gradual typing for functional languages.
 Jeremy G. Siek and Walid Taha.  
 In Seventh Workshop on Scheme and Functional Programming, University of Chicago Technical Report TR-2006-06, pages 81–92, September 2006.
@@ -37,38 +41,52 @@ In Seventh Workshop on Scheme and Functional Programming, University of Chicago 
 Sam Tobin-Hochstadt and Matthias Felleisen.  
 In OOPSLA ’06: Companion to the 21st annual ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications, pages 964–974. ACM Press, 2006.
 
-##### The design and implementation of Typed Scheme.
-Sam Tobin-Hochstadt and Matthias Felleisen.  
-In POPL ’08: Proceedings of the 35th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, pages 395–406. ACM Press, 2008
-
-##### Cycles without pollution: a gradual typing poem.
-Sam Tobin-Hochstadt and Robert Bruce Findler.  
-In Wrigstad et al. [2009], pages 47–57
-
-##### Well-typed programs can’t be blamed
-Philip Wadler and Robert Bruce Findler  
-In Scheme Workshop 2007
-
-##### Well-typed programs can’t be blamed
-Philip Wadler and Robert Bruce Findler  
-In ESOP ’09: Proceedings of the Eighteenth European Symposium on Programming, volume 5502 of Lecture Notes in Computer Science, pages 1–16. Springer-Verlag, 2009.
-
-##### Threesomes, with and without blame
-Jeremy G. Siek, Philip Wadler  
-STOP '09 Proceedings for the 1st workshop on Script to Program Evolution, 2009
-
 ##### Operational semantics for multi-language programs
 Jacob Matthews and Robert Bruce Findler  
-POPL 2007
+POPL 2007  
+See subsequent version in TOPLAS 2009.
 
-##### Operational semantics for multi-language programs
-Jacob Matthews and Robert Bruce Findler  
-ACM Transactions on Programming Languages and Systems, 31(3):1–44, 2009.
+## Subsequent work
+
+Every paper below here cites at least one of the 3 original papers.
 
 ##### Space-efficient gradual typing. 
 David Herman, Aaron Tomb, and Cormac Flanagan.
 In Proceedings of the Eighth Symposium on Trends in Functional
 Programming, TFP 2007, pages 1–18, 2008.
+
+##### Gradual typing for objects.
+Jeremy G. Siek and Walid Taha.  
+In ECOOP 2007, volume 4609 of
+LCNS, pages 2–27. Springer Verlag, August 2007.
+
+##### Advanced Macrology and the Implementation of Typed Scheme.
+Ryan Culpepper, Sam Tobin-Hochstadt, and Matthew Flatt.  
+In Proceedings of the 2007 Workshop on Scheme and Functional Programming, Universit́e Laval Technical Report DIUL-RT-0701, pages 1–13, 2007
+
+##### Well-typed programs can’t be blamed
+Philip Wadler and Robert Bruce Findler  
+In Proceedings of the 2007 Workshop on Scheme and Functional Programming, Universit́e Laval Technical Report DIUL-RT-0701, pages 1–13, 2007
+
+##### The design and implementation of Typed Scheme.
+Sam Tobin-Hochstadt and Matthias Felleisen.  
+In POPL ’08: Proceedings of the 35th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, pages 395–406. ACM Press, 2008
+
+##### Gradual typing with unification-based inference
+Jeremy G. Siek, Manish Vachharajani  
+DLS '08 Proceedings of the 2008 symposium on Dynamic languages, 2008
+
+##### Well-typed programs can’t be blamed
+Philip Wadler and Robert Bruce Findler  
+In ESOP ’09: Proceedings of the Eighteenth European Symposium on Programming, volume 5502 of Lecture Notes in Computer Science, pages 1–16. Springer-Verlag, 2009.
+
+##### Exploring the design space of higher-order casts.
+Jeremy G. Siek, Ronald Garcia, and Walid Taha.  
+In European Symposium on Programming, March 2009.
+
+##### Operational semantics for multi-language programs
+Jacob Matthews and Robert Bruce Findler  
+ACM Transactions on Programming Languages and Systems, 31(3):1–44, 2009.
 
 #####  Gradual typing for Featherweight Java.
 Lintaro Ina and Atsushi Igarashi.
@@ -78,108 +96,98 @@ Computer Software, 26(2):18–40, 2009.
 Michael Furr, Jong-hoon (David) An, Jeffrey S. Foster, and Michael Hicks  
 In SAC ’09: Proceedings of the 2009 ACM Symposium on Applied Computing, pages 1859–1866. ACM Press, 2009
 
-##### Gradual typing with unification-based inference
-Jeremy G. Siek, Manish Vachharajani  
-DLS '08 Proceedings of the 2008 symposium on Dynamic languages, 2008
-
-##### Tests to the left of me, types to the right: how not to get stuck in the middle of a Ruby execution.  
-Michael Furr, Jong-hoon (David) An, Jeffrey S. Foster, and Michael Hicks.  
-In Wrigstad et al. [2009], pages 14–16.
-
 ##### STOP ’09: Proceedings for the 1st workshop on Script to Program Evolution
 Tobias Wrigstad, Nate Nystrom, and Jan Vitek, editors.  
 ACM Press 2009
 
-##### The Design and Implementation of Typed Scheme
-Sam Tobin-Hochstadt and Matthias Felleisen.  
-To appear in Higher-Order and Symbolic Computation. 
+##### Threesomes, with and without blame
+Jeremy G. Siek, Philip Wadler  
+STOP '09 Proceedings for the 1st workshop on Script to Program Evolution, 2009  
+See subsequent version in POPL 2010.
 
-##### Complete Monitors for Behavioral Contracts. 
-Christos Dimoulas, Sam Tobin-Hochstadt, and Matthias Felleisen.  
-European Symposium on Programming (ESOP), March 2012. 
+##### Cycles without pollution: a gradual typing poem.
+Sam Tobin-Hochstadt and Robert Bruce Findler.  
+STOP '09 Proceedings for the 1st workshop on Script to Program Evolution, 2009,   pages 47–57
 
-##### Proceedings of the Second Workshop on Script to Program Evolution. 
-Edited by Robert Bruce Findler
-January 2011
-
-##### Proceedings of the Third Workshop on Script to Program Evolution. 
-Edited by Sam Tobin-Hochstadt  
-NU CCIS Technical Report NU-CCIS-12-02, June 2012. 
-
-##### Gradual Typing for First-class Classes. 
-Asumu Takikawa, T. Stephen Strickland, Christos Dimoulas, Sam Tobin-Hochstadt and Matthias Felleisen.  
-Object Oriented Programming, Systems, Languages and Applications (OOPSLA), October 2012. 
+##### Tests to the left of me, types to the right: how not to get stuck in the middle of a Ruby execution.  
+Michael Furr, Jong-hoon (David) An, Jeffrey S. Foster, and Michael Hicks.  
+STOP '09 Proceedings for the 1st workshop on Script to Program Evolution, 2009, pages 14–16.
 
 ##### Typed Scheme: From Scripts to Programs.
 Sam Tobin-Hochstadt  
 PhD Dissertation, Northeastern University, January 2010. 
 
-##### Advanced Macrology and the Implementation of Typed Scheme.
-Ryan Culpepper, Sam Tobin-Hochstadt, and Matthew Flatt.  
-In Proceedings of the 2007 Workshop on Scheme and Functional Programming, Universit́e Laval Technical Report DIUL-RT-0701, pages 1–13, 2007
-
-##### Languages as Libraries
-Sam Tobin-hochstadt, Vincent St-Amour, Ryan Culpepper, Matthew Flatt, and Matthias Felleisen
-PLDI 2011
-
 ##### Integrating typed and untyped code in a scripting language.
 Tobias Wrigstad, Francesco Zappa Nardelli, Sylvain Lebresne, Johan Ostlund, and Jan Vitek.  
 In Symposium on Principles of Programming Languages, 2010.
 
-##### Gradual typestate.
-Roger Wolff, Ronald Garcia, Eric Tanter, and Jonathan Aldrich.  
-In European Conference on Object-Oriented Programming, ECOOP’11. Springer-Verlag, 2011.
-
-##### Exploring the design space of higher-order casts.
-Jeremy G. Siek, Ronald Garcia, and Walid Taha.  
-In European Symposium on Programming, March 2009.
-
 ##### Threesomes, with and without blame.
 Jeremy G. Siek and Philip Wadler.  
-In Symposium on Prin-
-ciples of Programming Languages, 2010.
-
-##### Gradual typing for objects.
-Jeremy G. Siek and Walid Taha.  
-In ECOOP 2007, volume 4609 of
-LCNS, pages 2–27. Springer Verlag, August 2007.
-
-##### Interpretations of the gradually-typed lambda calculus.
-Jeremy G. Siek and Ronald Garcia.  
-In Scheme and Functional Programming Workshop, 2012.
-
-##### The ins and outs of gradual type inference.
-Aseem Rastogi, Avik Chaudhuri, and Basil Hosmer.  
-In Proceedings of the 39th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages, POPL ’12, 2012.
-
-##### Gradual typing for generics.
-Lintaro Ina and Atsushi Igarashi.  
-In Proceedings of the 2011 ACM
-international conference on Object oriented programming systems languages and applications,
-OOPSLA ’11, 2011.
+In Symposium on Principles of Programming Languages, 2010.
 
 #####  Adding dynamic types to C#.
 Gavin Bierman, Erik Meijer, and Mads Torgersen. 
 In European Conference on Object-Oriented Programming, ECOOP’10. Springer-Verlag, 2010.
 
-##### Always-available static and dynamic feedback.
-M. Bayne, R. Cook, and M.D. Ernst.  
-In International Conference on Software Engineering, 2011.
-
 ##### Blame for All.
 Amal Ahmed, Robert Bruce Findler, Jeremy G. Siek, and Philip Wadler.  
 In Symposium on Principles of Programming Languages, January 2011.
 
+##### Proceedings of the Second Workshop on Script to Program Evolution. 
+Edited by Robert Bruce Findler
+January 2011
 
-##### Gradual Typing for Mutable Objects
-Jeremy G. Siek, Michael M. Vitousek, and Shashank Bharadwaj.  
-Unpublished manuscript.
+##### Languages as Libraries
+Sam Tobin-Hochstadt, Vincent St-Amour, Ryan Culpepper, Matthew Flatt, and Matthias Felleisen
+PLDI 2011
+
+
+##### Always-available static and dynamic feedback.
+M. Bayne, R. Cook, and M.D. Ernst.  
+In International Conference on Software Engineering, 2011.
+
+##### Gradual typestate.
+Roger Wolff, Ronald Garcia, Eric Tanter, and Jonathan Aldrich.  
+In European Conference on Object-Oriented Programming, ECOOP’11. Springer-Verlag, 2011.
+
+
+##### Gradual typing for generics.
+Lintaro Ina and Atsushi Igarashi.  
+In Proceedings of the 2011 ACM International conference on Object oriented programming systems languages and applications, OOPSLA ’11, 2011.
+
+##### The ins and outs of gradual type inference.
+Aseem Rastogi, Avik Chaudhuri, and Basil Hosmer.  
+In Proceedings of the 39th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages, POPL ’12, 2012.
+
+##### Complete Monitors for Behavioral Contracts. 
+Christos Dimoulas, Sam Tobin-Hochstadt, and Matthias Felleisen.  
+European Symposium on Programming (ESOP), March 2012. 
+
+##### Proceedings of the Third Workshop on Script to Program Evolution. 
+Edited by Sam Tobin-Hochstadt  
+NU CCIS Technical Report NU-CCIS-12-02, June 2012. 
+
+
+##### Interpretations of the gradually-typed lambda calculus.
+Jeremy G. Siek and Ronald Garcia.  
+In Scheme and Functional Programming Workshop, 2012.
+
+##### Gradual Typing for First-class Classes. 
+Asumu Takikawa, T. Stephen Strickland, Christos Dimoulas, Sam Tobin-Hochstadt and Matthias Felleisen.  
+Object Oriented Programming, Systems, Languages and Applications (OOPSLA), October 2012. 
+
 
 ##### Constraining Delimited Control with Contracts
 Asumu Takikawa, T. Stephen Strickland, Sam Tobin-Hochstadt.  
 ESOP 2013. To appear.
 
+##### Gradual Typing for Mutable Objects
+Jeremy G. Siek, Michael M. Vitousek, and Shashank Bharadwaj.  
+Unpublished manuscript, 2012.
 
+##### The Design and Implementation of Typed Scheme
+Sam Tobin-Hochstadt and Matthias Felleisen.  
+To appear in Higher-Order and Symbolic Computation. 
 
 
 # Related

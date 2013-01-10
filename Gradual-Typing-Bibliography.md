@@ -333,7 +333,11 @@ In IEEE/ACM International Conference on Automated Software Engineering (ASE), pa
 Sam Tobin-Hochstadt and Matthias Felleisen  
 International Conference on Functional Programming (ICFP), September 2010. 
 
-###### Position Paper: Dynamically Inferred Types for Dynamic Languages
+##### Dynamic Inference of Static Types for Ruby
+Jong-hoon (David) An, Avik Chaudhuri, Jeffrey S. Foster, and Michael Hicks  
+In ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL), pages 459–472, Austin, TX, USA, January 2011.
+
+##### Position Paper: Dynamically Inferred Types for Dynamic Languages
 Jong-hoon (David) An, Avik Chaudhuri, Jeffrey S. Foster, and Michael Hicks  
 In 2nd International Workshop on Script to Program Evolution (STOP), Austin, TX, USA, January 2011.
 
@@ -345,8 +349,5 @@ Symposium on Practical Aspects of Declarative Languages (PADL), January 2012.
 Ambrose Bonnaire-Sergeant  
 Honours thesis, University of Western Australia, 2012
 
-##### Dynamic Inference of Static Types for Ruby
-Jong-hoon (David) An, Avik Chaudhuri, Jeffrey S. Foster, and Michael Hicks  
-In ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL), pages 459–472, Austin, TX, USA, January 2011.
 
 

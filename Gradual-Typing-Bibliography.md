@@ -216,9 +216,7 @@ To appear in Higher-Order and Symbolic Computation.
 Kathryn E. Gray  
 Unpublished manuscript, 2012
 
-##### A Practical Optional Type System for Clojure
-Ambrose Bonnaire-Sergeant  
-Honours thesis, University of Western Australia, 2012
+
 
 # Related
 
@@ -291,3 +289,11 @@ Master’s thesis, Massachusetts Institute of Technology, Cambridge, Massachuset
 #####  A Type Notation for Scheme.
 Gary T. Leavens, Curtis Clifton, and Brian Dorn.  
 Technical Report 05-18a, Iowa State University, 2005.
+
+## Type Systems for Gradual-typing
+
+This work presents type systems for untyped languages, influenced by gradual typing work on interoperation.
+
+##### A Practical Optional Type System for Clojure
+Ambrose Bonnaire-Sergeant  
+Honours thesis, University of Western Australia, 2012

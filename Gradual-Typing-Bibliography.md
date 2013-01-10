@@ -303,7 +303,7 @@ Technical Report 05-18a, Iowa State University, 2005.
 
 ## Type Systems for Gradual-typing
 
-This work presents type systems for untyped languages, influenced by gradual typing work on interoperation.
+This work presents type systems for untyped languages, influenced by gradual typing work on interoperation, but doesn't explicitly deal with typed/untyped interoperation.
 
 ##### Practical Variable-Arity Polymorphism
 T. Stephen Strickland, Sam Tobin-Hochstadt, and Matthias Felleisen.  

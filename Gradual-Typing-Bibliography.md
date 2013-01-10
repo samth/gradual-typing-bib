@@ -199,6 +199,9 @@ In Scheme and Functional Programming Workshop, 2012.
 Asumu Takikawa, T. Stephen Strickland, Christos Dimoulas, Sam Tobin-Hochstadt and Matthias Felleisen.  
 Object Oriented Programming, Systems, Languages and Applications (OOPSLA), October 2012. 
 
+##### Chaperones and Impersonators: Runtime support for reasonable interposition
+T. Stephen Strickland, Sam Tobin-Hochstadt, Robert Bruce Findler and Matthew Flatt.  
+Object Oriented Programming, Systems, Languages and Applications (OOPSLA), October 2012. 
 
 ##### Constraining Delimited Control with Contracts
 Asumu Takikawa, T. Stephen Strickland, Sam Tobin-Hochstadt.  
@@ -293,6 +296,18 @@ Technical Report 05-18a, Iowa State University, 2005.
 ## Type Systems for Gradual-typing
 
 This work presents type systems for untyped languages, influenced by gradual typing work on interoperation.
+
+##### Practical Variable-Arity Polymorphism
+T. Stephen Strickland, Sam Tobin-Hochstadt, and Matthias Felleisen.  
+European Symposium on Programming (ESOP), March 2009. 
+
+##### Logical Types for Untyped Languages
+Sam Tobin-Hochstadt and Matthias Felleisen  
+International Conference on Functional Programming (ICFP), September 2010. 
+
+##### Typing the Numeric Tower 
+Vincent St-Amour, Sam Tobin-Hochstadt, Matthew Flatt and Matthias Felleisen  
+Symposium on Practical Aspects of Declarative Languages (PADL), January 2012. 
 
 ##### A Practical Optional Type System for Clojure
 Ambrose Bonnaire-Sergeant  

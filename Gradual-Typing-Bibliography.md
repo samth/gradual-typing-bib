@@ -18,18 +18,24 @@ In ICFP ’02: Proceedings of the Seventh ACM SIGPLAN International Conference o
 Christopher Anderson, Sophia Drossopoulou  
 Proceedings of Workshop on Object Oriented Developments 2003, Electronic Notes in Theoretical Computer Science, Volume 82, Issue 8, October 2003, Pages 53–81
 
+##### Compiling Java to PLT Scheme
+Kathryn E. Gray and Matthew Flatt.  
+In Scheme Workshop 2004
+
 ##### Fine-grained interoperability through mirrors and contracts.
 Kathryn E. Gray, Robert Bruce Findler, and Matthew Flatt.  
 In OOPSLA ’05: Proceedings of the 20th annual ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications, pages 231–245. ACM Press, 2005
-
 
 ##### Hybrid type checking. 
 Cormac Flanagan.  
 In Conference Record of POPL ’06: The 33th ACM SIGPLAN-SIGACT Symposium on Principles of Programming
 Languages, pages 245–256. ACM Press, 2006.
 
+##### Towards Customizable Pedagogic Programming Languages
+Kathryn E. Gray  
+PhD Dissertation, University of Utah, School of Computing, August 2006.
 
-# Core Gradual Typing
+# Gradual Typing
 
 ## The original papers
 
@@ -74,6 +80,10 @@ In Proceedings of the 2007 Workshop on Scheme and Functional Programming, Univer
 Sam Tobin-Hochstadt and Matthias Felleisen.  
 In POPL ’08: Proceedings of the 35th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, pages 395–406. ACM Press, 2008
 
+##### Safe Cross-Language Inheritance
+Kathryn E. Gray  
+In proceedings of ECOOP 2008
+
 ##### Gradual typing with unification-based inference
 Jeremy G. Siek, Manish Vachharajani  
 DLS '08 Proceedings of the 2008 symposium on Dynamic languages, 2008
@@ -85,6 +95,11 @@ In ESOP ’09: Proceedings of the Eighteenth European Symposium on Programming, 
 ##### Exploring the design space of higher-order casts.
 Jeremy G. Siek, Ronald Garcia, and Walid Taha.  
 In European Symposium on Programming, March 2009.
+
+##### A Model of Java/Scheme Interoperability
+Kathryn E. Gray
+Chapter of _Semantics Engineering with PLT Redex_
+Edited by Robert Bruce Findler, Matthew Flatt, and Matthias Felleisen. MIT Press 2009
 
 ##### Operational semantics for multi-language programs
 Jacob Matthews and Robert Bruce Findler  
@@ -130,6 +145,9 @@ In Symposium on Principles of Programming Languages, 2010.
 #####  Adding dynamic types to C#.
 Gavin Bierman, Erik Meijer, and Mads Torgersen. 
 In European Conference on Object-Oriented Programming, ECOOP’10. Springer-Verlag, 2010.
+
+##### Interoperability in a Scripted World: Putting Inheritance and Prototypes Together 	Kathryn E. Gray  
+FOOL 2010
 
 ##### Blame for All.
 Amal Ahmed, Robert Bruce Findler, Jeremy G. Siek, and Philip Wadler.  
@@ -191,6 +209,9 @@ Unpublished manuscript, 2012.
 Sam Tobin-Hochstadt and Matthias Felleisen.  
 To appear in Higher-Order and Symbolic Computation. 
 
+##### Interoperability in a Scripted World
+Kathryn E. Gray  
+Unpublished manuscript, 2012
 
 # Related
 

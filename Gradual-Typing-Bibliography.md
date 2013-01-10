@@ -222,18 +222,59 @@ Unpublished manuscript, 2012
 
 These papers address the challenges of type checking existing untyped programs and programming languages, but do not address the core gradual type checking concern of interoperability.
 
-##### A practical subtyping system for Erlang. 
-Simon Marlow and Philip Wadler.  
-In ICFP ’97: Proceedings of the Second ACM SIGPLAN International Conference
-on Functional Programming, pages 136–149. ACM Press, 1997.
+##### User-defined data types as an aid to verifying LISP programs.
+Robert Cartwright.  
+In International Conference on Automata, Languages and Programming, pages 228–256, 1976.
+
+##### Inferring types in Smalltalk
+Norihisa Suzuki  
+POPL '81 Proceedings of the 8th ACM SIGPLAN-SIGACT symposium on Principles of programming languages 
+
+##### Creating efficient systems for object-oriented languages
+Norihisa Suzuki and Minoru Terada  
+POPL '84 Proceedings of the 11th ACM SIGACT-SIGPLAN symposium on Principles of programming languages 
+
+#####  Static type inference in a dynamically typed language
+Alexander Aiken and Brian R. Murphy  
+In POPL ’91: Proceedings of the 18th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, pages 279–290. ACM Press, 1991.
+
+
+##### Soft typing. 
+Robert Cartwright and Mike Fagan.  
+In PLDI ’91: Proceedings of the ACM SIGPLAN 1991 Conference on Programming Language Design and Implementation, pages 278–292. ACM Press, 1991.
+
+##### Strongtalk: typechecking Smalltalk in a production environment.
+Gilad Bracha and David Griswold.  
+In OOPSLA ’93: Proceedings of the 8th annual ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications, pages 215–230. ACM Press, 1993.
+
+##### Soft typing with conditional types. 
+Alexander Aiken, Edward L. Wimmers, and T. K. Lakshman   
+In POPL ’94: Proceedings of the 21st ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, pages 163–173. ACM Press, 1994
+
+##### Dynamic typing: Syntax and proof theory.
+Fritz Henglein.  
+Science of Computer Programming, 22(3):197–230, 1994.
+
+##### Safe polymorphic type inference for a dynamically typed language: translating Scheme to ML. 
+Fritz Henglein and Jakob Rehof.    
+In FPCA ’95: Proceedings of the Seventh International Conference on Functional Programming Languages and Computer Architecture, pages 192–203. ACM Press, 1995.
+
+
 
 ##### Infer: A statically-typed dialect of Scheme.
 Christopher T. Haynes.  
 Technical Report 367, Indiana University, 1995.
 
-#####  A Type Notation for Scheme.
-Gary T. Leavens, Curtis Clifton, and Brian Dorn.  
-Technical Report 05-18a, Iowa State University, 2005.
+
+##### A practical subtyping system for Erlang. 
+Simon Marlow and Philip Wadler.  
+In ICFP ’97: Proceedings of the Second ACM SIGPLAN International Conference
+on Functional Programming, pages 136–149. ACM Press, 1997.
+
+
+##### A practical soft type system for Scheme.
+Andrew K. Wright and Robert Cartwright. 
+ACM Transactions on Programming Languages and Systems, 19(1):87–152, 1997
 
 ##### Revised NISP manual. 
 Drew McDermott.  
@@ -243,42 +284,6 @@ Technical Report YALE/DCS/RR-642, Yale University, Department of Computer Scienc
 Michael Salib.  
 Master’s thesis, Massachusetts Institute of Technology, Cambridge, Massachusetts, 2004.
 
-##### A practical soft type system for Scheme.
-Andrew K. Wright and Robert Cartwright. 
-ACM Transactions on Programming Languages and Systems, 19(1):87–152, 1997
-
-#####  Static type inference in a dynamically typed language
-Alexander Aiken and Brian R. Murphy  
-In POPL ’91: Proceedings of the 18th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, pages 279–290. ACM Press, 1991.
-
-##### Soft typing with conditional types. 
-Alexander Aiken, Edward L. Wimmers, and T. K. Lakshman   
-In POPL ’94: Proceedings of the 21st ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, pages 163–173. ACM Press, 1994
-
-##### Strongtalk: typechecking Smalltalk in a production environment.
-Gilad Bracha and David Griswold.  
-In OOPSLA ’93: Proceedings of the 8th annual ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications, pages 215–230. ACM Press, 1993.
-
-##### User-defined data types as an aid to verifying LISP programs.
-Robert Cartwright.  
-In International Conference on Automata, Languages and Programming, pages 228–256, 1976.
-
-##### Soft typing. 
-Robert Cartwright and Mike Fagan.  
-In PLDI ’91: Proceedings of the ACM SIGPLAN 1991 Conference on Programming Language Design and Implementation, pages 2Cormac Flanagan.78–292. ACM Press, 1991.
-
-##### Safe polymorphic type inference for a dynamically typed language: translating Scheme to ML. 
-Fritz Henglein and Jakob Rehof.    
-In FPCA ’95: Proceedings of the Seventh International Conference on Functional Programming Languages and Computer Architecture, pages 192–203. ACM Press, 1995.
-
-##### Dynamic typing: Syntax and proof theory.
-Fritz Henglein.  
-Science of Computer Programming, 22(3):197–230, 1994.
-
-##### Inferring types in Smalltalk
-Norihisa Suzuki  
-POPL '81 Proceedings of the 8th ACM SIGPLAN-SIGACT symposium on Principles of programming languages 
-
-##### Creating efficient systems for object-oriented languages
-Norihisa Suzuki and Minoru Terada  
-POPL '84 Proceedings of the 11th ACM SIGACT-SIGPLAN symposium on Principles of programming languages 
+#####  A Type Notation for Scheme.
+Gary T. Leavens, Curtis Clifton, and Brian Dorn.  
+Technical Report 05-18a, Iowa State University, 2005.

@@ -53,6 +53,10 @@ In Scheme Workshop 2007
 Philip Wadler and Robert Bruce Findler  
 In ESOP ’09: Proceedings of the Eighteenth European Symposium on Programming, volume 5502 of Lecture Notes in Computer Science, pages 1–16. Springer-Verlag, 2009.
 
+##### Threesomes, with and without blame
+Jeremy G. Siek, Philip Wadler  
+STOP '09 Proceedings for the 1st workshop on Script to Program Evolution, 2009
+
 ##### Operational semantics for multi-language programs
 Jacob Matthews and Robert Bruce Findler  
 POPL 2007

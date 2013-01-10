@@ -10,22 +10,24 @@ In Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of program
 Gilad Bracha.  
 In OOPSLA Workshop on the Revival of Dynamic Languages, 2004.
 
-##### Hybrid type checking. 
-Cormac Flanagan.  
-In Conference Record of POPL ’06: The 33th ACM SIGPLAN-SIGACT Symposium on Principles of Programming
-Languages, pages 245–256. ACM Press, 2006.
-
 ##### Contracts for higher-order functions
 Robert Bruce Findler and Matthias Felleisen  
 In ICFP ’02: Proceedings of the Seventh ACM SIGPLAN International Conference on Functional Programming, pages 48–59. ACM Press, 2002
+
+##### BabyJ: From Object Based to Class Based Programming via Types
+Christopher Anderson, Sophia Drossopoulou  
+Proceedings of Workshop on Object Oriented Developments 2003, Electronic Notes in Theoretical Computer Science, Volume 82, Issue 8, October 2003, Pages 53–81
 
 ##### Fine-grained interoperability through mirrors and contracts.
 Kathryn E. Gray, Robert Bruce Findler, and Matthew Flatt.  
 In OOPSLA ’05: Proceedings of the 20th annual ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications, pages 231–245. ACM Press, 2005
 
-##### BabyJ: From Object Based to Class Based Programming via Types
-Christopher Anderson, Sophia Drossopoulou  
-Proceedings of Workshop on Object Oriented Developments 2003, Electronic Notes in Theoretical Computer Science, Volume 82, Issue 8, October 2003, Pages 53–81
+
+##### Hybrid type checking. 
+Cormac Flanagan.  
+In Conference Record of POPL ’06: The 33th ACM SIGPLAN-SIGACT Symposium on Principles of Programming
+Languages, pages 245–256. ACM Press, 2006.
+
 
 # Core Gradual Typing
 

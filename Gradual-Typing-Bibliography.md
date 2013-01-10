@@ -119,6 +119,10 @@ In SAC ’09: Proceedings of the 2009 ACM Symposium on Applied Computing, pages 
 Tobias Wrigstad, Nate Nystrom, and Jan Vitek, editors.  
 ACM Press 2009
 
+##### Thorn: Robust, Concurrent, Extensible Scripting on the JVM.
+Bard Bloom, John Field, Nathaniel Nystrom, Johan Ostlund, Gregor Richards, Rok Strnisa, Jan Vitek, and Tobias Wrigstad.  
+In OOPSLA, 2009.
+
 ##### Threesomes, with and without blame
 Jeremy G. Siek, Philip Wadler  
 STOP '09 Proceedings for the 1st workshop on Script to Program Evolution, 2009  

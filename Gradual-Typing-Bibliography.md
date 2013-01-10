@@ -248,3 +248,11 @@ In FPCA ’95: Proceedings of the Seventh International Conference on Functional
 ##### Dynamic typing: Syntax and proof theory.
 Fritz Henglein.  
 Science of Computer Programming, 22(3):197–230, 1994.
+
+##### Inferring types in Smalltalk
+Norihisa Suzuki  
+POPL '81 Proceedings of the 8th ACM SIGPLAN-SIGACT symposium on Principles of programming languages 
+
+##### Creating efficient systems for object-oriented languages
+Norihisa Suzuki and Minoru Terada  
+POPL '84 Proceedings of the 11th ACM SIGACT-SIGPLAN symposium on Principles of programming languages 

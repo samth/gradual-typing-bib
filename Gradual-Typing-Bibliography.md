@@ -148,7 +148,8 @@ In Symposium on Principles of Programming Languages, 2010.
 Gavin Bierman, Erik Meijer, and Mads Torgersen. 
 In European Conference on Object-Oriented Programming, ECOOP’10. Springer-Verlag, 2010.
 
-##### Interoperability in a Scripted World: Putting Inheritance and Prototypes Together 	Kathryn E. Gray  
+##### Interoperability in a Scripted World: Putting Inheritance and Prototypes Together
+Kathryn E. Gray  
 FOOL 2010
 
 ##### Blame for All.

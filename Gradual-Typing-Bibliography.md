@@ -196,6 +196,8 @@ To appear in Higher-Order and Symbolic Computation.
 
 ## Typing Untyped Languages
 
+These papers address the challenges of type checking existing untyped programs and programming languages, but do not address the core gradual type checking concern of interoperability.
+
 ##### A practical subtyping system for Erlang. 
 Simon Marlow and Philip Wadler.  
 In ICFP ’97: Proceedings of the Second ACM SIGPLAN International Conference

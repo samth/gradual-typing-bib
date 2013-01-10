@@ -309,9 +309,33 @@ This work presents type systems for untyped languages, influenced by gradual typ
 T. Stephen Strickland, Sam Tobin-Hochstadt, and Matthias Felleisen.  
 European Symposium on Programming (ESOP), March 2009. 
 
+##### Static Type Inference for Ruby
+Michael Furr, Jong-hoon (David) An, Jeffrey S. Foster, and Michael Hicks  
+In Object-Oriented Program Languages and Systems (OOPS) Track at ACM Symposium on Applied Computing (SAC), pages 1859–1866, Honolulu, Hawaii, March 2009.
+
+##### Tests to the Left of Me, Types to the Right: How Not to Get Stuck in the Middle of a Ruby Execution (A Demo of Diamondback Ruby)
+Michael Furr, Jong-hoon (David) An, Jeffrey S. Foster, and Michael Hicks  
+In 1st International Workshop on Script to Program Evolution (STOP), Genova, Italy, July 2009.
+
+##### Profile-Guided Static Typing for Dynamic Scripting Languages
+Michael Furr, Jong-hoon (David) An, and Jeffrey S. Foster  
+In ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages and Applications (OOPSLA), pages 283–300, Orlando, Floria, October 2009. 
+
+##### Work In Progress: an Empirical Study of Static Typing in Ruby
+Mark T. Daly, Vibha Sazawal, and Jeffrey S. Foster  
+In Workshop on Evaluation and Usability of Programming Languages and Tools (PLATEAU), Orlando, Florida, October 2009.
+
+##### Static Typing for Ruby on Rails
+Jong-hoon (David) An, Avik Chaudhuri, and Jeffrey S. Foster  
+In IEEE/ACM International Conference on Automated Software Engineering (ASE), pages 590–594, Auckland, New Zealand, November 2009. Short paper.
+
 ##### Logical Types for Untyped Languages
 Sam Tobin-Hochstadt and Matthias Felleisen  
 International Conference on Functional Programming (ICFP), September 2010. 
+
+###### Position Paper: Dynamically Inferred Types for Dynamic Languages
+Jong-hoon (David) An, Avik Chaudhuri, Jeffrey S. Foster, and Michael Hicks  
+In 2nd International Workshop on Script to Program Evolution (STOP), Austin, TX, USA, January 2011.
 
 ##### Typing the Numeric Tower 
 Vincent St-Amour, Sam Tobin-Hochstadt, Matthew Flatt and Matthias Felleisen  

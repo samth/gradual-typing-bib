@@ -316,3 +316,12 @@ Symposium on Practical Aspects of Declarative Languages (PADL), January 2012.
 ##### A Practical Optional Type System for Clojure
 Ambrose Bonnaire-Sergeant  
 Honours thesis, University of Western Australia, 2012
+
+##### Dynamic Inference of Static Types for Ruby
+Jong-hoon (David) An, Avik Chaudhuri, Jeffrey S. Foster, and Michael Hicks  
+In ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL), pages 459–472, Austin, TX, USA, January 2011.
+
+##### The Ruby Type Checker 
+Brianna M. Ren, John Toman, T. Stephen Strickland, Jeffrey S. Foster  
+OOPS 2013
+

@@ -128,6 +128,10 @@ Jeremy G. Siek, Philip Wadler
 STOP '09 Proceedings for the 1st workshop on Script to Program Evolution, 2009  
 See subsequent version in POPL 2010.
 
+##### Software Hardening: A Research Agenda
+Wrigstad, Eugster, Field, Nystrom, Vitek  
+STOP '09 Proceedings for the 1st workshop on Script to Program Evolution, 2009  
+
 ##### Cycles without pollution: a gradual typing poem.
 Sam Tobin-Hochstadt and Robert Bruce Findler.  
 STOP '09 Proceedings for the 1st workshop on Script to Program Evolution, 2009,   pages 47–57
@@ -181,6 +185,11 @@ In European Conference on Object-Oriented Programming, ECOOP’11. Springer-Verl
 ##### Gradual typing for generics.
 Lintaro Ina and Atsushi Igarashi.  
 In Proceedings of the 2011 ACM International conference on Object oriented programming systems languages and applications, OOPSLA ’11, 2011.
+
+
+##### Foundations for Scripting Languages (Report from Dagstuhl Seminar 12011)
+Edited by Robert Hirschfeld, Shriram Krishnamurthi, and Jan Vitek
+http://www.cs.purdue.edu/homes/jv/pubs/dagstuhl12.pdf
 
 ##### The ins and outs of gradual type inference.
 Aseem Rastogi, Avik Chaudhuri, and Basil Hosmer.  

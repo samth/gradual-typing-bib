@@ -281,12 +281,15 @@ Science of Computer Programming, 22(3):197–230, 1994.
 Fritz Henglein and Jakob Rehof.    
 In FPCA ’95: Proceedings of the Seventh International Conference on Functional Programming Languages and Computer Architecture, pages 192–203. ACM Press, 1995.
 
-
-
 ##### Infer: A statically-typed dialect of Scheme.
 Christopher T. Haynes.  
 Technical Report 367, Indiana University, 1995.
 
+
+##### The Strongtalk Type System for Smalltalk.
+Gilad Bracha  
+OOPSLA96 Workshop on Extending the Smalltalk Language, 1996
+http://www.bracha.org/nwst.html
 
 ##### A practical subtyping system for Erlang. 
 Simon Marlow and Philip Wadler.  

@@ -203,6 +203,9 @@ European Symposium on Programming (ESOP), March 2012.
 Edited by Sam Tobin-Hochstadt  
 NU CCIS Technical Report NU-CCIS-12-02, June 2012. 
 
+##### Towards Gradual Typing in Jython
+Michael M. Vitousek, Shashank Bharadwaj, Jeremy G. Siek  
+STOP 2012
 
 ##### Interpretations of the gradually-typed lambda calculus.
 Jeremy G. Siek and Ronald Garcia.  
@@ -357,9 +360,22 @@ In 2nd International Workshop on Script to Program Evolution (STOP), Austin, TX,
 Vincent St-Amour, Sam Tobin-Hochstadt, Matthew Flatt and Matthias Felleisen  
 Symposium on Practical Aspects of Declarative Languages (PADL), January 2012. 
 
+##### Nested Refinements: A Logic for Duck Typing
+Ravi Chugh, Patrick M. Rondon, and Ranjit Jhala  
+In Proceedings of the ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL), pages 231-244, Philadelphia, PA, January 2012. 
+
+##### Status Report: Dependent Types for JavaScript
+Ravi Chugh, David Herman, Ranjit Jhala
+STOP 2012
+See subsequent OOPSLA paper.
+
+#####  Dependent Types for JavaScript
+Ravi Chugh, David Herman, and Ranjit Jhala  
+In Proceedings of the ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), pages 587-606, Tucson, AZ, October 2012.
+
+
+
 ##### A Practical Optional Type System for Clojure
 Ambrose Bonnaire-Sergeant  
 Honours thesis, University of Western Australia, 2012
-
-
 

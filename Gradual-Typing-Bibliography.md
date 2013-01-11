@@ -119,9 +119,15 @@ In SAC ’09: Proceedings of the 2009 ACM Symposium on Applied Computing, pages 
 Tobias Wrigstad, Nate Nystrom, and Jan Vitek, editors.  
 ACM Press 2009
 
-##### Thorn: Robust, Concurrent, Extensible Scripting on the JVM.
-Bard Bloom, John Field, Nathaniel Nystrom, Johan Ostlund, Gregor Richards, Rok Strnisa, Jan Vitek, and Tobias Wrigstad.  
-In OOPSLA, 2009.
+###### From Soft Scheme to Typed Scheme: Experiences from 20 Years of Script Evolution, and Some Ideas on What Works (Talk)
+Matthias Felleisen
+Invited talk at STOP 2009
+http://www.ccs.neu.edu/home/matthias/Presentations/stop.html
+
+##### Towards gradual typing for generics
+Lintaro Ina, Atsushi Igarashi  
+STOP '09 Proceedings for the 1st workshop on Script to Program Evolution, 2009  
+See subsequent version in OOPSLA 2011
 
 ##### Threesomes, with and without blame
 Jeremy G. Siek, Philip Wadler  
@@ -139,6 +145,15 @@ STOP '09 Proceedings for the 1st workshop on Script to Program Evolution, 2009, 
 ##### Tests to the left of me, types to the right: how not to get stuck in the middle of a Ruby execution.  
 Michael Furr, Jong-hoon (David) An, Jeffrey S. Foster, and Michael Hicks.  
 STOP '09 Proceedings for the 1st workshop on Script to Program Evolution, 2009, pages 14–16.
+
+##### Thorn: Robust, Concurrent, Extensible Scripting on the JVM.
+Bard Bloom, John Field, Nathaniel Nystrom, Johan Ostlund, Gregor Richards, Rok Strnisa, Jan Vitek, and Tobias Wrigstad.  
+In OOPSLA, 2009.
+
+###### Of scripts and programs: tall tales, urban legends, and future prospects
+Jan Vitek  
+Invited talk at DLS 2009
+http://dl.acm.org/citation.cfm?id=1640134.1640136
 
 ##### Typed Scheme: From Scripts to Programs.
 Sam Tobin-Hochstadt  
@@ -198,6 +213,13 @@ In Proceedings of the 39th annual ACM SIGPLAN-SIGACT symposium on Principles of 
 ##### Complete Monitors for Behavioral Contracts. 
 Christos Dimoulas, Sam Tobin-Hochstadt, and Matthias Felleisen.  
 European Symposium on Programming (ESOP), March 2012. 
+
+
+##### Type systems directed programming language evolution: overview and research trends
+Jaime Niño  
+ACM-SE '12 Proceedings of the 50th Annual Southeast Regional Conference
+
+A survey/overview paper
 
 ##### Proceedings of the Third Workshop on Script to Program Evolution. 
 Edited by Sam Tobin-Hochstadt  

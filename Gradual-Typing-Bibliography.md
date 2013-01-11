@@ -369,6 +369,10 @@ Ravi Chugh, David Herman, Ranjit Jhala
 STOP 2012
 See subsequent OOPSLA paper.
 
+##### Minigrace: A progress report
+Michael Homer and James Noble  
+STOP 2012
+
 #####  Dependent Types for JavaScript
 Ravi Chugh, David Herman, and Ranjit Jhala  
 In Proceedings of the ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), pages 587-606, Tucson, AZ, October 2012.

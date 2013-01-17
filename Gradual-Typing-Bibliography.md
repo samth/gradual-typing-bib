@@ -301,6 +301,11 @@ In PLDI ’91: Proceedings of the ACM SIGPLAN 1991 Conference on Programming Lan
 Gilad Bracha and David Griswold.  
 In OOPSLA ’93: Proceedings of the 8th annual ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications, pages 215–230. ACM Press, 1993.
 
+##### Strong Static Type Checking for Functional Common Lisp
+Robert Akers  
+University of Texas Dissertation, also Computational Logic Inc Technical Report 96  
+ftp://ftp.cs.utexas.edu/pub/boyer/diss/akers.pdf
+
 ##### Soft typing with conditional types. 
 Alexander Aiken, Edward L. Wimmers, and T. K. Lakshman   
 In POPL ’94: Proceedings of the 21st ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, pages 163–173. ACM Press, 1994

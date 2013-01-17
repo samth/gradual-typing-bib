@@ -1,6 +1,6 @@
 # This line here to fix bug in GitHub
 
-# Predecessors
+# Building Blocks 
 
 These papers all consider the challenges of interoperability between typed and untyped languages, which is at the core of the gradual typing project.  Papers about type checking untyped languages that do not consider interoperation appear at the bottom of this page.
 

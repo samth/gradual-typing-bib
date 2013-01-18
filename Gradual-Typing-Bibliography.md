@@ -229,15 +229,12 @@ To appear in Higher-Order and Symbolic Computation.
 
 ##### Gradual Typing for Mutable Objects
 Jeremy G. Siek, Michael M. Vitousek, and Shashank Bharadwaj.  
-Unpublished manuscript, 2012.
-
-##### Interoperability in a Scripted World
-Kathryn E. Gray  
-Unpublished manuscript, 2012
+Unpublished manuscript, 2012.  
+http://ecee.colorado.edu/~siek/gtmo.pdf
 
 # Early Work on Interoperation
 
-These papers all consider the challenges of interoperability between typed and untyped languages, which is at the core of the gradual typing project.  Papers about type checking untyped languages that do not consider interoperation appear at the bottom of this page.
+These papers all consider the challenges of interoperability between typed and untyped languages, which is at the core of the gradual typing project.  Papers about type checking untyped languages that do not consider interoperation appear in the next section.
 
 ##### Quasi-static Typing
 Satish Thatte  
@@ -324,24 +321,49 @@ Fritz Henglein and Jakob Rehof.
 In FPCA ’95: Proceedings of the Seventh International Conference on Functional Programming Languages and Computer Architecture, pages 192–203. ACM Press, 1995.
 
 ##### Infer: A statically-typed dialect of Scheme.
-Christopher T. Haynes.  
+Christopher T. Haynes  
 Technical Report 367, Indiana University, 1995.
+
+##### Catching bugs in the web of program invariants
+Cormac Flanagan, Matthew Flatt, Shriram Krishnamurthi, Stephanie Weirich, and Matthias Felleisen  
+In Proceedings of the ACM SIGPLAN 1996 conference on Programming language design and implementation (PLDI '96)  
+http://www.ccs.neu.edu/racket/pubs/#pldi96-ffkwf
 
 
 ##### The Strongtalk Type System for Smalltalk.
 Gilad Bracha  
-OOPSLA96 Workshop on Extending the Smalltalk Language, 1996
+OOPSLA96 Workshop on Extending the Smalltalk Language, 1996  
 http://www.bracha.org/nwst.html
+
+##### Program Verification through Soft Typing 
+Robert Cartwright and Matthias Felleisen  
+ACM Computing Surveys 28, 2 (June 1996)  
+http://www.ccs.neu.edu/racket/pubs/#cs96-cf
+
+##### Componential set-based analysis
+Cormac Flanagan and Matthias Felleisen  
+In Proceedings of the ACM SIGPLAN 1997 conference on Programming language design and implementation (PLDI '97)  
+http://www.ccs.neu.edu/racket/pubs/#pldi97-ff  
+
 
 ##### A practical subtyping system for Erlang. 
 Simon Marlow and Philip Wadler.  
 In ICFP ’97: Proceedings of the Second ACM SIGPLAN International Conference
 on Functional Programming, pages 136–149. ACM Press, 1997.
 
-
 ##### A practical soft type system for Scheme.
 Andrew K. Wright and Robert Cartwright. 
 ACM Transactions on Programming Languages and Systems, 19(1):87–152, 1997
+
+##### A New Way of Debugging LISP Programs 
+Cormac Flanagan and Matthias Felleisen  
+LUGM 98  
+http://www.ccs.neu.edu/racket/pubs/#lugm98-ff
+
+##### Componential set-based analysis
+Cormac Flanagan and Matthias Felleisen  
+ACM Trans. Program. Lang. Syst. 21, 2 (March 1999), 370-416  
+http://www.ccs.neu.edu/racket/pubs/#toplas99-ff  
 
 ##### Revised NISP manual. 
 Drew McDermott.  
@@ -416,7 +438,10 @@ STOP 2012
 Ravi Chugh, David Herman, and Ranjit Jhala  
 In Proceedings of the ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), pages 587-606, Tucson, AZ, October 2012.
 
-
+##### Progressive Types
+Joe Gibbs Politz, Hannah Quay-de la Vallee, Shriram Krishnamurthi  
+In Proceedings of the ACM international symposium on New ideas, new paradigms, and reflections on programming and software (Onward! '12)  
+http://cs.brown.edu/~sk/Publications/Papers/Published/pqk-progressive-types/
 
 ##### A Practical Optional Type System for Clojure
 Ambrose Bonnaire-Sergeant  

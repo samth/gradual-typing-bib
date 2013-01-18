@@ -357,7 +357,8 @@ ACM Transactions on Programming Languages and Systems, 19(1):87–152, 1997
 
 ##### A New Way of Debugging LISP Programs 
 Cormac Flanagan and Matthias Felleisen  
-LUGM 98  
+In Lisp in the Mainstream: The 40th Annniversary Conference of Lisp Users.  
+Berkeley, November 1998.  
 http://www.ccs.neu.edu/racket/pubs/#lugm98-ff
 
 ##### Componential set-based analysis

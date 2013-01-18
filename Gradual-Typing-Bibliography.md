@@ -1,41 +1,8 @@
 # This line here to fix bug in GitHub
 
-# Building Blocks 
+This bibliography attempts to cover all of the literature on _gradual typing_, defined as safe interoperability between typed and untyped portions of a single program.  It begins with the original work on gradual typing, which was independently presented by three sets of authors in between September 2006 and January 2007, and then covers the extensive subsequent literature, both theoretical and practical.
 
-These papers all consider the challenges of interoperability between typed and untyped languages, which is at the core of the gradual typing project.  Papers about type checking untyped languages that do not consider interoperation appear at the bottom of this page.
-
-##### Quasi-static Typing
-Satish Thatte  
-In Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages (POPL '90). ACM, New York, NY, USA, 367-381. 
-
-##### Pluggable type systems.
-Gilad Bracha.  
-In OOPSLA Workshop on the Revival of Dynamic Languages, 2004.
-
-##### Contracts for higher-order functions
-Robert Bruce Findler and Matthias Felleisen  
-In ICFP ’02: Proceedings of the Seventh ACM SIGPLAN International Conference on Functional Programming, pages 48–59. ACM Press, 2002
-
-##### BabyJ: From Object Based to Class Based Programming via Types
-Christopher Anderson, Sophia Drossopoulou  
-Proceedings of Workshop on Object Oriented Developments 2003, Electronic Notes in Theoretical Computer Science, Volume 82, Issue 8, October 2003, Pages 53–81
-
-##### Compiling Java to PLT Scheme
-Kathryn E. Gray and Matthew Flatt.  
-In Scheme Workshop 2004
-
-##### Fine-grained interoperability through mirrors and contracts.
-Kathryn E. Gray, Robert Bruce Findler, and Matthew Flatt.  
-In OOPSLA ’05: Proceedings of the 20th annual ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications, pages 231–245. ACM Press, 2005
-
-##### Hybrid type checking. 
-Cormac Flanagan.  
-In Conference Record of POPL ’06: The 33th ACM SIGPLAN-SIGACT Symposium on Principles of Programming
-Languages, pages 245–256. ACM Press, 2006.
-
-##### Towards Customizable Pedagogic Programming Languages
-Kathryn E. Gray  
-PhD Dissertation, University of Utah, School of Computing, August 2006.
+The latter sections cover related work.  First, early work on safe interoperation, such as the work on contracts.  Second, work on type systems (broadly defined) designed to work with existing untyped languages, including recent work done in the context of gradual typing.  Work on type system design that also considers issues of interoperability with untyped programs appears in the main section of the bibliography.
 
 # Gradual Typing
 
@@ -267,6 +234,44 @@ Unpublished manuscript, 2012.
 ##### Interoperability in a Scripted World
 Kathryn E. Gray  
 Unpublished manuscript, 2012
+
+# Early Work on Interoperation
+
+These papers all consider the challenges of interoperability between typed and untyped languages, which is at the core of the gradual typing project.  Papers about type checking untyped languages that do not consider interoperation appear at the bottom of this page.
+
+##### Quasi-static Typing
+Satish Thatte  
+In Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages (POPL '90). ACM, New York, NY, USA, 367-381. 
+
+##### Pluggable type systems.
+Gilad Bracha.  
+In OOPSLA Workshop on the Revival of Dynamic Languages, 2004.
+
+##### Contracts for higher-order functions
+Robert Bruce Findler and Matthias Felleisen  
+In ICFP ’02: Proceedings of the Seventh ACM SIGPLAN International Conference on Functional Programming, pages 48–59. ACM Press, 2002
+
+##### BabyJ: From Object Based to Class Based Programming via Types
+Christopher Anderson, Sophia Drossopoulou  
+Proceedings of Workshop on Object Oriented Developments 2003, Electronic Notes in Theoretical Computer Science, Volume 82, Issue 8, October 2003, Pages 53–81
+
+##### Compiling Java to PLT Scheme
+Kathryn E. Gray and Matthew Flatt.  
+In Scheme Workshop 2004
+
+##### Fine-grained interoperability through mirrors and contracts.
+Kathryn E. Gray, Robert Bruce Findler, and Matthew Flatt.  
+In OOPSLA ’05: Proceedings of the 20th annual ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications, pages 231–245. ACM Press, 2005
+
+##### Hybrid type checking. 
+Cormac Flanagan.  
+In Conference Record of POPL ’06: The 33th ACM SIGPLAN-SIGACT Symposium on Principles of Programming
+Languages, pages 245–256. ACM Press, 2006.
+
+##### Towards Customizable Pedagogic Programming Languages
+Kathryn E. Gray  
+PhD Dissertation, University of Utah, School of Computing, August 2006.
+
 
 
 

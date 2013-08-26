@@ -1,5 +1,3 @@
-# This line here to fix bug in GitHub
-
 This bibliography attempts to cover all of the literature on _gradual typing_, defined as safe interoperability between typed and untyped portions of a single program.  It begins with the original work on gradual typing, which was independently presented by three sets of authors in between September 2006 and January 2007, and then covers the extensive subsequent literature, both theoretical and practical.
 
 The latter sections cover related work.  First, early work on safe interoperation, such as the work on contracts.  Second, work on type systems (broadly defined) designed to work with existing untyped languages, including recent work done in the context of gradual typing.  Work on type system design that also considers issues of interoperability with untyped programs appears in the main section of the bibliography.
@@ -217,7 +215,7 @@ Object Oriented Programming, Systems, Languages and Applications (OOPSLA), Octob
 
 ##### Constraining Delimited Control with Contracts
 Asumu Takikawa, T. Stephen Strickland, Sam Tobin-Hochstadt.  
-ESOP 2013. To appear.
+ESOP 2013. 
 
 ##### The Ruby Type Checker 
 Brianna M. Ren, John Toman, T. Stephen Strickland, Jeffrey S. Foster  
@@ -231,6 +229,14 @@ To appear in Higher-Order and Symbolic Computation.
 Jeremy G. Siek, Michael M. Vitousek, and Shashank Bharadwaj.  
 Unpublished manuscript, 2012.  
 http://ecee.colorado.edu/~siek/gtmo.pdf
+
+##### A Gradual Polymorphic Type System with Subtyping for Prolog
+Spyros Hadjichristodoulou and David Warren
+Workshop on Logic-based Programming Environments (WLPE 2012)
+
+##### Gradual typing for Smalltalk
+Allende, Esteban, Oscar Callaú, Johan Fabry, Éric Tanter, and Marcus Denker.  
+Science of Computer Programming (2013).
 
 # Early Work on Interoperation
 

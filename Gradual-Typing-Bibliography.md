@@ -59,17 +59,13 @@ In proceedings of ECOOP 2008
 Jeremy G. Siek, Manish Vachharajani  
 DLS '08 Proceedings of the 2008 symposium on Dynamic languages, 2008
 
-##### Exploring the Design Space of Higher-Order Casts
-Jeremy Siek, Ronald Garcia, Walid Taha
-In ESOP ’09: Proceedings of the Eighteenth European Symposium on Programming, volume 5502 of Lecture Notes in Computer Science, pages 17-31. Springer-Verlag, 2009.
-
 ##### Well-typed programs can’t be blamed
 Philip Wadler and Robert Bruce Findler  
 In ESOP ’09: Proceedings of the Eighteenth European Symposium on Programming, volume 5502 of Lecture Notes in Computer Science, pages 1–16. Springer-Verlag, 2009.
 
-##### Exploring the design space of higher-order casts.
-Jeremy G. Siek, Ronald Garcia, and Walid Taha.  
-In European Symposium on Programming, March 2009.
+##### Exploring the Design Space of Higher-Order Casts
+Jeremy Siek, Ronald Garcia, Walid Taha
+In ESOP ’09: Proceedings of the Eighteenth European Symposium on Programming, volume 5502 of Lecture Notes in Computer Science, pages 17-31. Springer-Verlag, 2009.
 
 ##### A Model of Java/Scheme Interoperability
 Kathryn E. Gray

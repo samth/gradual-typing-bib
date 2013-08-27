@@ -28,7 +28,11 @@ In Seventh Workshop on Scheme and Functional Programming, University of Chicago 
 
 ## Subsequent work
 
-Every paper below here cites at least one of the 3 original papers.
+Every paper below here cites at least one of the 4 original papers.
+
+##### Sage: Unified Hybrid Checking for First-Class Types, General Refinement Types, and Dynamic. (extended report)
+Kenneth Knowles, Aaron Tomb, Jessica Gronski, Stephen N. Freund, Cormac Flanagan.
+Technical report, May 2007
 
 ##### Space-efficient gradual typing. 
 David Herman, Aaron Tomb, and Cormac Flanagan.

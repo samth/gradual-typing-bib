@@ -141,6 +141,10 @@ Jan Vitek
 Invited talk at DLS 2009
 http://dl.acm.org/citation.cfm?id=1640134.1640136
 
+##### Combining Static and Dynamic Typing in Ruby
+Michael Furr
+Ph.D. Thesis, University of Maryland, 2009
+
 ##### Typed Scheme: From Scripts to Programs.
 Sam Tobin-Hochstadt  
 PhD Dissertation, Northeastern University, January 2010. 
@@ -163,6 +167,10 @@ http://dl.acm.org/citation.cfm?id=1708016.1708017
 #####  Adding dynamic types to C#.
 Gavin Bierman, Erik Meijer, and Mads Torgersen. 
 In European Conference on Object-Oriented Programming, ECOOP’10. Springer-Verlag, 2010.
+
+##### Extending Dylan's type system for better type inference and error detection
+Hannes Mehnert
+Proceedings of the 2010 international conference on Lisp, Pages 1-10, 2010
 
 ##### Interoperability in a Scripted World: Putting Inheritance and Prototypes Together
 Kathryn E. Gray  
@@ -198,6 +206,15 @@ In Proceedings of the 2011 ACM International conference on Object oriented progr
 Mason Chang, Bernd Mathiske, Edwin Smith, Avik Chaudhuri, Andreas Gal, Michael Bebenita, Christian Wimmer, Michael Franz
 Proceedings of the 7th symposium on Dynamic languages, Pages 13-24, 2011
 
+##### Gradual Information Flow Typing
+Tim Disney and Cormac Flanagan
+International Workshop on Scripts to Programs, 2011
+
+##### Application optimization when using gradual typing
+Esteban Allende, Johan Fabry
+Proceedings of the 6th Workshop on Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems, Article No. 3, 2011
+
+
 ##### Foundations for Scripting Languages (Report from Dagstuhl Seminar 12011)
 Edited by Robert Hirschfeld, Shriram Krishnamurthi, and Jan Vitek
 http://www.cs.purdue.edu/homes/jv/pubs/dagstuhl12.pdf
@@ -221,6 +238,10 @@ In ESOP 2012, LNCS, vol. 7211, pp. 409–434, 2012.
 ##### Practical Permissions for Race-Free Parallelism
 Edwin Westbrook, Jisheng Zhao, Zoran Budimli ́c, and Vivek Sarkar
 In ESOP 2012, LNCS, vol. 7211, pp. 614–639, 2012.
+
+##### Modelyze: a Gradually Typed Host Language for Embedding Equation-Based Modeling Languages
+David Broman, Jeremy G. Siek
+EECS University of California at Berkeley Technical Report No. UCB/EECS-2012-173
 
 ##### Type systems directed programming language evolution: overview and research trends
 Jaime Niño  

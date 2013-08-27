@@ -6,7 +6,7 @@ The latter sections cover related work.  First, early work on safe interoperatio
 
 ## The original papers
 
-These three papers all independently introduce the fundamental idea of gradual typing: dynamic enforcement of types using contracts.
+These four papers all independently introduce the fundamental idea of gradual typing: dynamic enforcement of types using contracts.
 
 ##### Gradual typing for functional languages.
 Jeremy G. Siek and Walid Taha.  
@@ -20,6 +20,11 @@ In OOPSLA ’06: Companion to the 21st annual ACM SIGPLAN Conference on Object O
 Jacob Matthews and Robert Bruce Findler  
 POPL 2007  
 See subsequent version in TOPLAS 2009.
+
+##### Sage: Hybrid Checking for Flexible Specifications
+Jessica Gronski, Kenneth Knowles, Aaron Tomb, Stephen N. Freund, and Cormac Flanagan
+In Seventh Workshop on Scheme and Functional Programming, University of Chicago Technical Report TR-2006-06, pages 93-104, September 2006.
+
 
 ## Subsequent work
 

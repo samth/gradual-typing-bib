@@ -211,6 +211,10 @@ European Symposium on Programming (ESOP), March 2012.
 I. Sergey, D. Clarke
 In ESOP 2012, LNCS, vol. 7211, pp. 579–599, 2012.
 
+##### JavaScript as an Embedded DSL
+Grzegorz Kossakowski, Nada Amin, Tiark Rompf, and Martin Odersky
+In ESOP 2012, LNCS, vol. 7211, pp. 409–434, 2012.
+
 ##### Type systems directed programming language evolution: overview and research trends
 Jaime Niño  
 ACM-SE '12 Proceedings of the 50th Annual Southeast Regional Conference

@@ -36,8 +36,8 @@ Technical report, May 2007
 
 ##### Space-efficient gradual typing. 
 David Herman, Aaron Tomb, and Cormac Flanagan.
-In Proceedings of the Eighth Symposium on Trends in Functional
-Programming, TFP 2007, pages 1–18, 2008.
+In Proceedings of the Eighth Symposium on Trends in Functional Programming, TFP 2007, pages 1–18, 2008.
+(See subsequent journal version.)
 
 ##### Gradual typing for objects.
 Jeremy G. Siek and Walid Taha.  
@@ -167,6 +167,9 @@ Matthias Felleisen
 Invited talk at TLDI '10 Proceedings of the 5th ACM SIGPLAN workshop on Types in language design and implementation  
 http://dl.acm.org/citation.cfm?id=1708016.1708017
 
+##### Space-efficient gradual typing
+David Herman, Aaron Tomb, and Cormac Flanagan
+Higher-Order and Symbolic Computation, Vol. 23 No. 2, pages 167-189, 2010
 
 #####  Adding dynamic types to C#.
 Gavin Bierman, Erik Meijer, and Mads Torgersen. 

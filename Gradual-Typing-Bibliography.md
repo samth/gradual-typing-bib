@@ -318,6 +318,9 @@ PhD Dissertation, University of Utah, School of Computing, August 2006.
 Jessica Gronski, Cormac Flanagan.
 Trends in Functional Programming, 2007.
 
+##### Polymorphic Contracts
+João Filipe Belo, Michael Greenberg, Atsushi Igarashi, Benjamin C. Pierce 
+Programming Languages and Systems, LNCS Volume 6602, 2011, pp 18-37
 
 ## Typing Untyped Languages
 

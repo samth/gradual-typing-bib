@@ -43,6 +43,10 @@ In Proceedings of the 2007 Workshop on Scheme and Functional Programming, Univer
 Philip Wadler and Robert Bruce Findler  
 In Proceedings of the 2007 Workshop on Scheme and Functional Programming, Universit́e Laval Technical Report DIUL-RT-0701, pages 1–13, 2007
 
+##### Evolutionary Programming and Gradual Typing in ECMAScript 41
+Lars T Hansen
+Adobe Systems Technical Report, November 2007
+
 ##### The design and implementation of Typed Scheme.
 Sam Tobin-Hochstadt and Matthias Felleisen.  
 In POPL ’08: Proceedings of the 35th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, pages 395–406. ACM Press, 2008

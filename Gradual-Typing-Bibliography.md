@@ -405,6 +405,10 @@ Master’s thesis, Massachusetts Institute of Technology, Cambridge, Massachuset
 Gary T. Leavens, Curtis Clifton, and Brian Dorn.  
 Technical Report 05-18a, Iowa State University, 2005.
 
+##### Unifying Hybrid Types and Contracts.
+Jessica Gronski, Cormac Flanagan.
+Trends in Functional Programming, 2007.
+
 ## Type Systems for Gradual-typing
 
 This work presents type systems for untyped languages, influenced by gradual typing work on interoperation, but doesn't explicitly deal with typed/untyped interoperation.

@@ -145,6 +145,10 @@ http://dl.acm.org/citation.cfm?id=1640134.1640136
 Michael Furr
 Ph.D. Thesis, University of Maryland, 2009
 
+##### Extending Dylan’s Type System for Better Type Inference and Error Detection
+Hannes Mehnert
+Diploma Thesis, Technische Universit ̈at Berlin, October 1, 2009
+
 ##### Typed Scheme: From Scripts to Programs.
 Sam Tobin-Hochstadt  
 PhD Dissertation, Northeastern University, January 2010. 
@@ -210,6 +214,10 @@ Proceedings of the 7th symposium on Dynamic languages, Pages 13-24, 2011
 Tim Disney and Cormac Flanagan
 International Workshop on Scripts to Programs, 2011
 
+##### Language with a Pluggable Type System and Optional Runtime Monitoring of Type Errors
+Jukka Lehtosalo and David J. Greaves
+International Workshop on Scripts to Programs, 2011
+
 ##### Application optimization when using gradual typing
 Esteban Allende, Johan Fabry
 Proceedings of the 6th Workshop on Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems, Article No. 3, 2011
@@ -272,6 +280,10 @@ Object Oriented Programming, Systems, Languages and Applications (OOPSLA), Octob
 ##### Constraining Delimited Control with Contracts
 Asumu Takikawa, T. Stephen Strickland, Sam Tobin-Hochstadt.  
 ESOP 2013. 
+
+##### The Blame Theorem for a Linear Lambda Calculus with Type Dynamic
+Luminous Fennell,Peter Thiemann
+Trends in Functional Programming, LNCS Volume 7829, 2013, pp 37-52 
 
 ##### The Ruby Type Checker 
 Brianna M. Ren, John Toman, T. Stephen Strickland, Jeffrey S. Foster  

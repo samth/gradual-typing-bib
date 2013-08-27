@@ -47,6 +47,10 @@ In Proceedings of the 2007 Workshop on Scheme and Functional Programming, Univer
 Lars T Hansen
 Adobe Systems Technical Report, November 2007
 
+##### Status report: specifying JavaScript with ML
+David Herman, Cormac Flanagan
+Proceedings of the 2007 workshop on Workshop on ML, Pages 47-52, 2007.
+
 ##### The design and implementation of Typed Scheme.
 Sam Tobin-Hochstadt and Matthias Felleisen.  
 In POPL ’08: Proceedings of the 35th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, pages 395–406. ACM Press, 2008

@@ -194,6 +194,9 @@ In European Conference on Object-Oriented Programming, ECOOP’11. Springer-Verl
 Lintaro Ina and Atsushi Igarashi.  
 In Proceedings of the 2011 ACM International conference on Object oriented programming systems languages and applications, OOPSLA ’11, 2011.
 
+##### The impact of optional type information on jit compilation of dynamically typed languages
+Mason Chang, Bernd Mathiske, Edwin Smith, Avik Chaudhuri, Andreas Gal, Michael Bebenita, Christian Wimmer, Michael Franz
+Proceedings of the 7th symposium on Dynamic languages, Pages 13-24, 2011
 
 ##### Foundations for Scripting Languages (Report from Dagstuhl Seminar 12011)
 Edited by Robert Hirschfeld, Shriram Krishnamurthi, and Jan Vitek

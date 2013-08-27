@@ -102,6 +102,10 @@ Lintaro Ina, Atsushi Igarashi
 STOP '09 Proceedings for the 1st workshop on Script to Program Evolution, 2009  
 See subsequent version in OOPSLA 2011
 
+##### A theory of typed coercions and its applications
+Nikhil Swamy, Michael Hicks, Gavin M. Bierman
+Proceedings of the 14th ACM SIGPLAN international conference on Functional programming, Pages 329-340, 2009
+
 ##### Threesomes, with and without blame
 Jeremy G. Siek, Philip Wadler  
 STOP '09 Proceedings for the 1st workshop on Script to Program Evolution, 2009  

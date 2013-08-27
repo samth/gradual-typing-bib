@@ -207,6 +207,9 @@ In Proceedings of the 39th annual ACM SIGPLAN-SIGACT symposium on Principles of 
 Christos Dimoulas, Sam Tobin-Hochstadt, and Matthias Felleisen.  
 European Symposium on Programming (ESOP), March 2012. 
 
+##### Gradual Ownership Types
+I. Sergey, D. Clarke
+In ESOP 2012, LNCS, vol. 7211, pp. 579–599, 2012.
 
 ##### Type systems directed programming language evolution: overview and research trends
 Jaime Niño  

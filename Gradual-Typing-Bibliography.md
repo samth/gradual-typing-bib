@@ -215,6 +215,10 @@ In ESOP 2012, LNCS, vol. 7211, pp. 579–599, 2012.
 Grzegorz Kossakowski, Nada Amin, Tiark Rompf, and Martin Odersky
 In ESOP 2012, LNCS, vol. 7211, pp. 409–434, 2012.
 
+##### Practical Permissions for Race-Free Parallelism
+Edwin Westbrook, Jisheng Zhao, Zoran Budimli ́c, and Vivek Sarkar
+In ESOP 2012, LNCS, vol. 7211, pp. 614–639, 2012.
+
 ##### Type systems directed programming language evolution: overview and research trends
 Jaime Niño  
 ACM-SE '12 Proceedings of the 50th Annual Southeast Regional Conference

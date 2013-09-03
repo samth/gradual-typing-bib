@@ -258,16 +258,6 @@ EECS University of California at Berkeley Technical Report No. UCB/EECS-2012-173
 Jaime Niño  
 ACM-SE '12 Proceedings of the 50th Annual Southeast Regional Conference
 
-##### Gradual Typing for Smalltalk
-Esteban Allende, Oscar Callaú, Johan Fabry, Éric Tanter, Marcus Denker
-Science of Computer Programming, 2013
-http://pleiad.dcc.uchile.cl/papers/2013/allendeAl-scp2013.pdf
-
-##### Cast Insertion Strategies for Gradually-Typed Objects
-Esteban Allende, Johan Fabry, Éric Tanter
-Proceedings of the 9th ACM Dynamic Languages Symposium (DLS 2013), Indianapolis, IN, USA, October 2013, ACM Press
-http://pleiad.dcc.uchile.cl/papers/2013/allendeAl-dls2013.pdf
-
 A survey/overview paper
 
 ##### Proceedings of the Third Workshop on Script to Program Evolution. 
@@ -316,8 +306,14 @@ Spyros Hadjichristodoulou and David Warren
 Workshop on Logic-based Programming Environments (WLPE 2012)
 
 ##### Gradual typing for Smalltalk
-Allende, Esteban, Oscar Callaú, Johan Fabry, Éric Tanter, and Marcus Denker.  
+Esteban Allende, Oscar Callaú, Johan Fabry, Éric Tanter, and Marcus Denker.  
 Science of Computer Programming (2013).
+http://pleiad.dcc.uchile.cl/papers/2013/allendeAl-scp2013.pdf
+
+##### Cast Insertion Strategies for Gradually-Typed Objects
+Esteban Allende, Johan Fabry, Éric Tanter
+Proceedings of the 9th ACM Dynamic Languages Symposium (DLS 2013), Indianapolis, IN, USA, October 2013, ACM Press
+http://pleiad.dcc.uchile.cl/papers/2013/allendeAl-dls2013.pdf
 
 # Early Work on Interoperation
 

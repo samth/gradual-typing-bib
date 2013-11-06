@@ -261,6 +261,13 @@
    #:location (journal-location "Science of Computer Programming")
    #:date 2013))
 
+(define aft-dls-2013
+  (make-bib
+   #:author (authors "Esteban Allende" "Johan Fabry" "Éric Tanter")
+   #:title "Cast Insertion Strategies for Gradually-Typed Objects"
+   #:location (proceedings-location dls)
+   #:date 2013))
+
 ;; ----------------------------------------
 ; Early Work on Interoperation
 
@@ -277,8 +284,30 @@
 ;; ----------------------------------------
 ; Contracts
 
+(define gf-tfp-2007
+  (make-bib
+   #:title "Unifying Hybrid Types and Contracts"
+   #:author (authors "Jessica Gronski" "Cormac Flanagan")
+   #:location (proceedings-location tfp)
+   #:date 2007))
+
+(define bgip-esop-2011
+  (make-bib
+   #:title "Polymorphic Contracts"
+   #:author (authors "João Filipe Belo" "Michael Greenberg"
+                     "Atsushi Igarashi" "Benjamin C. Pierce")
+   #:location (proceedings-location esop)
+   #:date 2011))
+
 ;; ----------------------------------------
 ; Typing Untyped Languages
+
+(define bg-oopsla-1993
+  (make-bib
+   #:title "Strongtalk: Typechecking Smalltalk in a Production Environment"
+   #:author (authors "Gilad Bracha" "David Griswold")
+   #:location (proceedings-location oopsla)
+   #:date 1993))
 
 ;; ----------------------------------------
 ; Type Systems for Gradual Typing

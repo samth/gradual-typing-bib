@@ -2,6 +2,30 @@ This bibliography attempts to cover all of the literature on _gradual typing_, d
 
 The latter sections cover related work.  First, early work on safe interoperation, such as the work on contracts.  Second, work on type systems (broadly defined) designed to work with existing untyped languages, including recent work done in the context of gradual typing.  Work on type system design that also considers issues of interoperability with untyped programs appears in the main section of the bibliography.
 
+---
+
+For papers written in [Scribble](http://docs.racket-lang.org/scribble/), this
+bibliography can be installed as a package and referenced directly from the
+paper. Use the following command to install:
+
+`raco pkg install git://github.com/samth/gradual-typing-bib`
+
+Sample use:
+
+````
+#lang scribble/base
+
+@(require gradual-typing-bib
+          scriblib/autobib)
+
+@(define-cite ~cite citet generate-bibliography)
+
+Original gradual typing papers
+@~cite[st-sfp-2006 thf-dls-2006 mf-toplas-2007 gktff-sfp-2006].
+
+@generate-bibliography[]
+````
+
 # Gradual Typing
 
 ## The original papers

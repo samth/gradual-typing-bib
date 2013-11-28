@@ -5,7 +5,8 @@
 
 ;; FIXME: this doesn't have all the papers from the README yet
 
-(require scriblib/autobib)
+(require racket/format
+         scriblib/autobib)
 
 (provide (all-defined-out))
 
@@ -14,6 +15,7 @@
 ;; In a submodule so that it doesn't get exported automatically by
 ;; the outer module
 (module util racket/base
+  (require racket/format)
   (provide (all-defined-out))
 
   (define short? #f)
@@ -58,7 +60,10 @@
   (define/short aosd "AOSD" (string-append International Conference "on Aspect-Oriented Software Development"))
   (define/short foal "FOAL" "Foundations of Aspect-Oriented Languages")
   (define/short tlca "TLCA" (string-append International Conference "Typed Lambda Calculi and Applications"))
-  (define/short i&c "Info. & Comp." "Information and Computation"))
+  (define/short i&c "Info. & Comp." "Information and Computation")
+  (define/short padl "PADL" (string-append Symposium "on Practical Aspects of Declarative Languages"))
+  (define/short fool "FOOL" (~a International Workshop "on Foundations of Object-Oriented Languages"))
+  (define/short icse "ICSE" (~a International Conference "on Software Engineering")))
 
 (require 'util)
 
@@ -101,12 +106,13 @@
 ;; ----------------------------------------
 ;; Subsequent work
 
-(define ktgff-tech-2006
+(define ktgff-tech-2007
   (make-bib
-   #:title "Sage: Hybrid Checking for Flexible Specifications"
-   #:author (authors "Jessica Gronski" "Kenneth Knowles" "Aaron Tomb"
+   #:title @~a{Sage: Unified Hybrid Checking for First-Class Types,
+               General Refinement Types, and Dynamic (Extended Report)}
+   #:author (authors "Kenneth Knowles" "Aaron Tomb" "Jessica Gronski"
                      "Stephen N. Freund" "Cormac Flanagan")
-   #:date 2006))
+   #:date 2007))
 
 (define htf-tfp-2007
   (make-bib
@@ -129,12 +135,12 @@
    #:location (proceedings-location scheme-workshop #:pages '(1 13))
    #:date 2007))
 
-(define wf-esop-2009
+(define wf-sfp-2007
   (make-bib
    #:title "Well-typed Programs Can't be Blamed"
    #:author (authors "Philip Wadler" "Robert Bruce Findler")
-   #:location (proceedings-location esop #:pages '(1 15))
-   #:date 2009))
+   #:location (proceedings-location scheme-workshop)
+   #:date 2007))
 
 (define hansen-tech-2007
   (make-bib
@@ -171,6 +177,13 @@
    #:location (proceedings-location dls)
    #:date 2008))
 
+(define wf-esop-2009
+  (make-bib
+   #:title "Well-typed Programs Can't be Blamed"
+   #:author (authors "Philip Wadler" "Robert Bruce Findler")
+   #:location (proceedings-location esop #:pages '(1 15))
+   #:date 2009))
+
 (define sgt-esop-2009
   (make-bib
    #:title "Exploring the Design Space of Higher-Order Casts"
@@ -182,6 +195,13 @@
   (make-bib
    #:title "A Model of Java/Scheme Interoperability"
    #:author "Kathryn E. Gray"
+   #:date 2009))
+
+(define mf-toplas-2009
+  (make-bib
+   #:title "Operational Semantics for Multi-language Programs"
+   #:author (authors "Jacob Matthews" "Robert Bruce Findler")
+   #:location (journal-location toplas #:pages '(1 44))
    #:date 2009))
 
 (define ii-cs-2009
@@ -216,6 +236,58 @@
    #:location (proceedings-location oopsla)
    #:date 2009))
 
+(define furr-dissertation-2009
+  (make-bib
+   #:title "Combining Static and Dynamic Typing in Ruby"
+   #:author "Michael Furr"
+   #:location (dissertation-location #:institution "University of Maryland"
+                                     #:degree "Ph.D.")
+   #:date 2009))
+
+(define tobin-hochstadt-dissertation-2010
+  (make-bib
+   #:title "Typed Scheme: From Scripts to Programs"
+   #:author "Sam Tobin-Hochstadt"
+   #:location (dissertation-location #:institution "Northeastern University"
+                                     #:degree "Ph.D.")
+   #:date 2010))
+
+(define wnlov-popl-2010
+  (make-bib
+   #:title "Integrating typed and untyped code in a scripting language."
+   #:author (authors "Tobias Wrigstad" "Francesco Zappa Nardelli"
+                     "Sylvain Lebresne" "Johan Ostlund" "Jan Vitek")
+   #:location (proceedings-location popl)
+   #:date 2010))
+
+(define sw-popl-2010
+  (make-bib
+   #:title "Threesomes, with and without blame"
+   #:author (authors "Jeremy G. Siek" "Philip Wadler")
+   #:location (proceedings-location popl)
+   #:date 2010))
+
+(define htf-hosc-2010
+  (make-bib
+   #:title "Space-efficient Gradual Typing"
+   #:author (authors "David Herman" "Aaron Tomb" "Cormac Flanagan")
+   #:location (journal-location hosc #:pages '(167 189))
+   #:date 2010))
+
+(define bmt-ecoop-2010
+  (make-bib
+   #:title "Adding Dynamic Types to C#"
+   #:author (authors "Gavin Bierman" "Erik Meijer" "Mads Torgersen")
+   #:location (proceedings-location ecoop)
+   #:date 2010))
+
+(define gray-fool-2010
+  (make-bib
+   #:title "Interoperability in a Scripted World: Putting Inheritance and Prototypes Together"
+   #:author "Kathryn E. Gray"
+   #:location (proceedings-location fool)
+   #:date 2010))
+
 (define afsw-popl-2011
   (make-bib
    #:author (authors "Amal Ahmed" "Robert Bruce Findler"
@@ -223,6 +295,53 @@
    #:title "Blame for All"
    #:location (proceedings-location popl #:pages '(201 214))
    #:date 2011))
+
+(define thscff-pldi-2011
+  (make-bib
+   #:title "Languages as Libraries"
+   #:author (authors "Sam Tobin-Hochstadt" "Vincent St-Amour"
+                     "Ryan Culpepper" "Matthew Flatt" "Matthias Felleisen")
+   #:location (proceedings-location pldi)
+   #:date 2011))
+
+(define bce-icse-2011
+  (make-bib
+   #:title "Always-available Static and Dynamic Feedback"
+   #:author (authors "Michael Bayne" "Richard Cook" "Michael D. Ernst")
+   #:location (proceedings-location icse)
+   #:date 2011))
+
+(define wgta-ecoop-2011
+  (make-bib
+   #:title "Gradual Typestate"
+   #:author (authors "Roger Wolff" "Ronald Garcia"
+                     "Eric Tanter" "Jonathan Aldritch")
+   #:location (proceedings-location ecoop)
+   #:date 2011))
+
+(define ii-oopsla-2011
+  (make-bib
+   #:title "Gradual Typing for Generics"
+   #:author (authors "Lintaro Ina" "Atsushi Igarashi")
+   #:location (proceedings-location oopsla)
+   #:date 2011))
+
+(define cmscgbwf-dls-2011
+  (make-bib
+   #:title "The Impact of Optional Type Information on JIT Compilation of Dynamically Typed Languages"
+   #:author (authors "Mason Chang" "Bernd Mathiske"
+                     "Edwin Smith" "Avik Chaudhuri"
+                     "Andreas Gal" "Michael Bebenita"
+                     "Christian Wimmer" "Michael Franz")
+   #:location (proceedings-location dls)
+   #:date 2011))
+
+(define rch-popl-2012
+  (make-bib
+   #:title "The Ins and Outs of Gradual Type Inference"
+   #:author (authors "Aseem Rastogi" "Avik Chaudhuri" "Basil Hosmer")
+   #:location (proceedings-location popl)
+   #:date 2012))
 
 (define dthf-esop-2012
   (make-bib
@@ -310,7 +429,22 @@
    #:date 1993))
 
 ;; ----------------------------------------
-; Type Systems for Gradual Typing
+; Type Systems for Gradual TypingS
+
+(define thf-icfp-2010
+  (make-bib
+   #:title "Logical Types for Untyped Languages"
+   #:author (authors "Sam Tobin-Hochstadt" "Matthias Felleisen")
+   #:location (proceedings-location icfp)
+   #:date 2010))
+
+(define sthff-padl-2012
+  (make-bib
+   #:title "Typing the Numeric Tower"
+   #:author (authors "Vincent St-Amour" "Sam Tobin-Hochstadt"
+                     "Matthew Flatt" "Matthias Felleisen")
+   #:location (proceedings-location padl)
+   #:date 2012))
 
 (define bonnaire-sergeant-thesis-2012
   (make-bib

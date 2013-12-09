@@ -63,7 +63,9 @@
   (define/short i&c "Info. & Comp." "Information and Computation")
   (define/short padl "PADL" (string-append Symposium "on Practical Aspects of Declarative Languages"))
   (define/short fool "FOOL" (~a International Workshop "on Foundations of Object-Oriented Languages"))
-  (define/short icse "ICSE" (~a International Conference "on Software Engineering")))
+  (define/short icse "ICSE" (~a International Conference "on Software Engineering"))
+  (define/short icalp "ICALP" (string-append International "Colloquium on Automata, Languages, and Programming"))
+  (define/short sac "SAC" (string-append Symposium "on Applied Computing")))
 
 (require 'util)
 
@@ -209,15 +211,6 @@
    #:title "Gradual Typing for Featherweight Java"
    #:author (authors "Lintaro Ina" "Atsushi Igarashi")
    #:location (journal-location "Computer Software")
-   #:date 2009))
-
-(define fafh-sac-2009
-  (make-bib
-   #:title "Static Type Inference for Ruby"
-   #:author (authors "Michael Furr" "Jong-hoon An"
-                     "Jeffrey S. Foster" "Michael Hicks")
-   ;; FIXME
-   ;#:location (proceedings-location sac)
    #:date 2009))
 
 (define shb-icfp-2009
@@ -421,6 +414,41 @@
 ;; ----------------------------------------
 ; Typing Untyped Languages
 
+(define cartwright-icalp-1976
+  (make-bib
+   #:title "User-defined Data Types as an Aid to Verifying LISP Programs"
+   #:author "Robert Cartwright"
+   #:location (proceedings-location icalp)
+   #:date 1976))
+
+(define suzuki-popl-1981
+  (make-bib
+   #:title "Inferring Types in Smalltalk"
+   #:author "Norihisa Suzuki"
+   #:location (proceedings-location popl)
+   #:date 1981))
+
+(define st-popl-1984
+  (make-bib
+   #:title "Creating Efficient Systems for Object-Oriented Languages"
+   #:author (authors "Norihisa Suzuki" "Minoru Terada")
+   #:location (proceedings-location popl)
+   #:date 1984))
+
+(define am-popl-1991
+  (make-bib
+   #:title "Static Type Inference in a Dynamically Typed Language"
+   #:author (authors "Alexander Aiken" "Brian R. Murphy")
+   #:location (proceedings-location popl)
+   #:date 1991))
+
+(define cf-pldi-1991
+  (make-bib
+   #:title "Soft Typing"
+   #:author (authors "Robert Cartwright" "Mike Fagan")
+   #:location (proceedings-location pldi)
+   #:date 1991))
+
 (define bg-oopsla-1993
   (make-bib
    #:title "Strongtalk: Typechecking Smalltalk in a Production Environment"
@@ -428,8 +456,58 @@
    #:location (proceedings-location oopsla)
    #:date 1993))
 
+(define awl-popl-1994
+  (make-bib
+   #:title "Soft Typing with Conditional Types"
+   #:author (authors "Alexander Aiken" "Edward L. Wimmers" "T.K. Lakshman")
+   #:location (proceedings-location popl)
+   #:date 1994))
+
+(define henglein-scp-1994
+  (make-bib
+   #:author "Fritz Henglein"
+   #:title "Dynamic Typing: Syntax and Proof Theory"
+   #:location (journal-location "Science of Computer Programming")
+   #:date 1994))
+
+(define hr-fpca-1995
+  (make-bib
+   #:author (authors "Fritz Henglein" "Jakob Rehof")
+   #:title "Safe Polymorphic Type Inference for a Dynamically Typed Language: Translating Scheme to ML"
+   #:location (proceedings-location fpca)
+   #:date 1995))
+
+(define haynes-tech-1995
+  (make-bib
+   #:author "Christopher T. Haynes"
+   #:title "Infer: a Statically-typed Dialect of Scheme"
+   #:location (techrpt-location #:institution "Indiana University"
+                                #:number "367")
+   #:date 1995))
+
+(define akers-dissertation-1996
+  (make-bib
+   #:title "Strong Static Type Checking for Functional Common Lisp"
+   #:author "Robert Akers"
+   #:location (dissertation-location #:institution "University of Texas")
+   #:date 1996))
+
+(define mw-icfp-1997
+  (make-bib
+   #:title "A Practical Subtyping System for Erlang"
+   #:author (authors "Simon Marlow" "Philip Wadler")
+   #:location (proceedings-location icfp)
+   #:date 1997))
+
+(define wc-toplas-1997
+  (make-bib
+   #:title "A Practical Soft Type System for Scheme"
+   #:author (authors "Andrew K. Wright" "Robert Cartwright")
+   #:location (proceedings-location toplas)
+   #:date 1997))
+
 ;; ----------------------------------------
-; Type Systems for Gradual TypingS
+; Type Systems for Gradual Typing
 
 (define thf-icfp-2010
   (make-bib
@@ -444,6 +522,22 @@
    #:author (authors "Vincent St-Amour" "Sam Tobin-Hochstadt"
                      "Matthew Flatt" "Matthias Felleisen")
    #:location (proceedings-location padl)
+   #:date 2012))
+
+(define fafh-sac-2009
+  (make-bib
+   #:title "Static Type Inference for Ruby"
+   #:author (authors "Michael Furr" "Jong-hoon (David) An"
+                     "Jeffrey S. Foster" "Michael Hicks")
+   #:location (proceedings-location sac)
+   #:date 2009))
+
+(define chj-oopsla-2012
+  (make-bib
+   #:title "Dependent Types for JavaScript"
+   #:author (authors "Ravi Chugh" "David Herman"
+                     "Ranjit Jhala")
+   #:location (proceedings-location oopsla)
    #:date 2012))
 
 (define bonnaire-sergeant-thesis-2012

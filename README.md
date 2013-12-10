@@ -380,8 +380,13 @@ Languages, pages 245–256. ACM Press, 2006.
 Kathryn E. Gray  
 PhD Dissertation, University of Utah, School of Computing, August 2006.
 
+##### Introducing safe unknown types in Java-like languages
+Giovanni Lagorio and Elena Zucca
+ACM Symp. on Applied Computing (SAC 2006), Special Track on Object-Oriented Programming Languages and Systems, 2006
 
-
+##### Just: safe unknown types in Java-like languages
+Giovanni Lagorio and Elena Zucca
+Journal of Object Technology, Vol. 6, No. 2, Special Issue OOPS Track at SAC 2006, February 2007
 
 # Related
 

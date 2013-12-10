@@ -146,7 +146,7 @@
 
 (define hansen-tech-2007
   (make-bib
-   #:title "Evolutionary Programming and Gradual Typing in ECMAScript 41"
+   #:title "Evolutionary Programming and Gradual Typing in ECMAScript 4"
    #:author "Lars T. Hansen"
    #:date 2007))
 

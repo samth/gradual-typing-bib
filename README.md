@@ -117,6 +117,10 @@ ACM Transactions on Programming Languages and Systems, 31(3):1–44, 2009.
 Lintaro Ina and Atsushi Igarashi.
 Computer Software, 26(2):18–40, 2009.
 
+In Japanese:
+Featherweight Javaのための漸進的型付け
+https://www.jstage.jst.go.jp/article/jssst/26/2/26_2_2_18/_pdf
+
 ##### Static type inference for Ruby
 Michael Furr, Jong-hoon (David) An, Jeffrey S. Foster, and Michael Hicks  
 In SAC ’09: Proceedings of the 2009 ACM Symposium on Applied Computing, pages 1859–1866. ACM Press, 2009

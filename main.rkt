@@ -169,7 +169,7 @@
   (make-bib
    #:title "Safe Cross-Language Inheritance"
    #:author "Kathryn E. Gray"
-   #:location (proceedings-location ecoop)
+   #:location (proceedings-location ecoop #:pages '(52 75))
    #:date 2008))
 
 (define sv-dls-2008
@@ -190,7 +190,7 @@
   (make-bib
    #:title "Exploring the Design Space of Higher-Order Casts"
    #:author (authors "Jeremy G. Siek" "Ronald Garcia" "Walid Taha")
-   #:location (proceedings-location esop)
+   #:location (proceedings-location esop #:pages '(17 31))
    #:date 2009))
 
 (define gray-chapter-2009
@@ -203,21 +203,27 @@
   (make-bib
    #:title "Operational Semantics for Multi-language Programs"
    #:author (authors "Jacob Matthews" "Robert Bruce Findler")
-   #:location (journal-location toplas #:pages '(1 44))
+   #:location (journal-location toplas
+                                #:volume 31
+                                #:number 3
+                                #:pages '(1 44))
    #:date 2009))
 
 (define ii-cs-2009
   (make-bib
    #:title "Gradual Typing for Featherweight Java"
    #:author (authors "Lintaro Ina" "Atsushi Igarashi")
-   #:location (journal-location "Computer Software")
+   #:location (journal-location "Computer Software"
+                                #:volume 26
+                                #:number 2
+                                #:pages '(18 40))
    #:date 2009))
 
 (define shb-icfp-2009
   (make-bib
    #:title "A Theory of Typed Coercions and its Applications"
    #:author (authors "Nikhil Swamy" "Michael Hicks" "Gavin M. Bierman")
-   #:location (proceedings-location icfp)
+   #:location (proceedings-location icfp #:pages '(329 340))
    #:date 2009))
 
 (define bfnorsvw-oopsla-2009
@@ -226,7 +232,7 @@
    #:author (authors "Bard Bloom" "John Field" "Nathaniel Nystrom"
                      "Johan Ostlund" "Gregor Richards" "Rok Strnisa"
                      "Jan Vitek" "Tobias Wrigstad")
-   #:location (proceedings-location oopsla)
+   #:location (proceedings-location oopsla #:pages '(117 136))
    #:date 2009))
 
 (define furr-dissertation-2009
@@ -250,28 +256,31 @@
    #:title "Integrating typed and untyped code in a scripting language."
    #:author (authors "Tobias Wrigstad" "Francesco Zappa Nardelli"
                      "Sylvain Lebresne" "Johan Ostlund" "Jan Vitek")
-   #:location (proceedings-location popl)
+   #:location (proceedings-location popl #:pages '(377 388))
    #:date 2010))
 
 (define sw-popl-2010
   (make-bib
    #:title "Threesomes, with and without blame"
    #:author (authors "Jeremy G. Siek" "Philip Wadler")
-   #:location (proceedings-location popl)
+   #:location (proceedings-location popl #:pages '(365 376))
    #:date 2010))
 
 (define htf-hosc-2010
   (make-bib
    #:title "Space-efficient Gradual Typing"
    #:author (authors "David Herman" "Aaron Tomb" "Cormac Flanagan")
-   #:location (journal-location hosc #:pages '(167 189))
+   #:location (journal-location hosc
+                                #:volume 23
+                                #:number 2
+                                #:pages '(167 189))
    #:date 2010))
 
 (define bmt-ecoop-2010
   (make-bib
    #:title "Adding Dynamic Types to C#"
    #:author (authors "Gavin Bierman" "Erik Meijer" "Mads Torgersen")
-   #:location (proceedings-location ecoop)
+   #:location (proceedings-location ecoop #:pages '(76 100))
    #:date 2010))
 
 (define gray-fool-2010
@@ -294,14 +303,14 @@
    #:title "Languages as Libraries"
    #:author (authors "Sam Tobin-Hochstadt" "Vincent St-Amour"
                      "Ryan Culpepper" "Matthew Flatt" "Matthias Felleisen")
-   #:location (proceedings-location pldi)
+   #:location (proceedings-location pldi #:pages '(132 141))
    #:date 2011))
 
 (define bce-icse-2011
   (make-bib
    #:title "Always-available Static and Dynamic Feedback"
    #:author (authors "Michael Bayne" "Richard Cook" "Michael D. Ernst")
-   #:location (proceedings-location icse)
+   #:location (proceedings-location icse #:pages '(521 530))
    #:date 2011))
 
 (define wgta-ecoop-2011
@@ -309,14 +318,14 @@
    #:title "Gradual Typestate"
    #:author (authors "Roger Wolff" "Ronald Garcia"
                      "Eric Tanter" "Jonathan Aldritch")
-   #:location (proceedings-location ecoop)
+   #:location (proceedings-location ecoop #:pages '(459 483))
    #:date 2011))
 
 (define ii-oopsla-2011
   (make-bib
    #:title "Gradual Typing for Generics"
    #:author (authors "Lintaro Ina" "Atsushi Igarashi")
-   #:location (proceedings-location oopsla)
+   #:location (proceedings-location oopsla #:pages '(609 624))
    #:date 2011))
 
 (define cmscgbwf-dls-2011
@@ -326,14 +335,14 @@
                      "Edwin Smith" "Avik Chaudhuri"
                      "Andreas Gal" "Michael Bebenita"
                      "Christian Wimmer" "Michael Franz")
-   #:location (proceedings-location dls)
+   #:location (proceedings-location dls #:pages '(13 24))
    #:date 2011))
 
 (define rch-popl-2012
   (make-bib
    #:title "The Ins and Outs of Gradual Type Inference"
    #:author (authors "Aseem Rastogi" "Avik Chaudhuri" "Basil Hosmer")
-   #:location (proceedings-location popl)
+   #:location (proceedings-location popl #:pages '(481 494))
    #:date 2012))
 
 (define dthf-esop-2012
@@ -347,7 +356,7 @@
   (make-bib
    #:author (authors "T. Stephen Strickland" "Sam Tobin-Hochstadt" "Robert Bruce Findler" "Matthew Flatt")
    #:title "Chaperones and Impersonators: Run-time Support for Reasonable Interposition"
-   #:location (proceedings-location oopsla)
+   #:location (proceedings-location oopsla #:pages '(943 962))
    #:date 2012))
 
 (define tsdthf-oopsla-2012
@@ -356,14 +365,14 @@
                      "Christos Dimoulas" "Sam Tobin-Hochstadt"
                      "Matthias Felleisen")
    #:title "Gradual Typing for First-Class Classes"
-   #:location (proceedings-location oopsla)
+   #:location (proceedings-location oopsla #:pages '(793 810))
    #:date 2012))
 
 (define tsth-esop-2013
   (make-bib
    #:author (authors "Asumu Takikawa" "T. Stephen Strickland" "Sam Tobin-Hochstadt")
    #:title "Constraining Delimited Control with Contracts"
-   #:location (proceedings-location esop)
+   #:location (proceedings-location esop #:pages '(229 248))
    #:date "2013"))
 
 (define acftd-scp-2013
@@ -408,7 +417,7 @@
    #:title "Polymorphic Contracts"
    #:author (authors "João Filipe Belo" "Michael Greenberg"
                      "Atsushi Igarashi" "Benjamin C. Pierce")
-   #:location (proceedings-location esop)
+   #:location (proceedings-location esop #:pages '(18 37))
    #:date 2011))
 
 ;; ----------------------------------------
@@ -418,63 +427,66 @@
   (make-bib
    #:title "User-defined Data Types as an Aid to Verifying LISP Programs"
    #:author "Robert Cartwright"
-   #:location (proceedings-location icalp)
+   #:location (proceedings-location icalp #:pages '(228 256))
    #:date 1976))
 
 (define suzuki-popl-1981
   (make-bib
    #:title "Inferring Types in Smalltalk"
    #:author "Norihisa Suzuki"
-   #:location (proceedings-location popl)
+   #:location (proceedings-location popl #:pages '(187 199))
    #:date 1981))
 
 (define st-popl-1984
   (make-bib
    #:title "Creating Efficient Systems for Object-Oriented Languages"
    #:author (authors "Norihisa Suzuki" "Minoru Terada")
-   #:location (proceedings-location popl)
+   #:location (proceedings-location popl #:pages '(290 296))
    #:date 1984))
 
 (define am-popl-1991
   (make-bib
    #:title "Static Type Inference in a Dynamically Typed Language"
    #:author (authors "Alexander Aiken" "Brian R. Murphy")
-   #:location (proceedings-location popl)
+   #:location (proceedings-location popl #:pages '(279 290))
    #:date 1991))
 
 (define cf-pldi-1991
   (make-bib
    #:title "Soft Typing"
    #:author (authors "Robert Cartwright" "Mike Fagan")
-   #:location (proceedings-location pldi)
+   #:location (proceedings-location pldi #:pages '(278 292))
    #:date 1991))
 
 (define bg-oopsla-1993
   (make-bib
    #:title "Strongtalk: Typechecking Smalltalk in a Production Environment"
    #:author (authors "Gilad Bracha" "David Griswold")
-   #:location (proceedings-location oopsla)
+   #:location (proceedings-location oopsla #:pages '(215 230))
    #:date 1993))
 
 (define awl-popl-1994
   (make-bib
    #:title "Soft Typing with Conditional Types"
    #:author (authors "Alexander Aiken" "Edward L. Wimmers" "T.K. Lakshman")
-   #:location (proceedings-location popl)
+   #:location (proceedings-location popl #:pages '(163 173))
    #:date 1994))
 
 (define henglein-scp-1994
   (make-bib
    #:author "Fritz Henglein"
    #:title "Dynamic Typing: Syntax and Proof Theory"
-   #:location (journal-location "Science of Computer Programming")
+   #:location (journal-location "Science of Computer Programming"
+                                #:volume 22
+                                #:number 3
+                                #:pages '(197 230))
    #:date 1994))
 
 (define hr-fpca-1995
   (make-bib
    #:author (authors "Fritz Henglein" "Jakob Rehof")
    #:title "Safe Polymorphic Type Inference for a Dynamically Typed Language: Translating Scheme to ML"
-   #:location (proceedings-location fpca)
+   #:location (proceedings-location fpca #:pages '(192 203))
    #:date 1995))
 
 (define haynes-tech-1995
@@ -492,18 +504,30 @@
    #:location (dissertation-location #:institution "University of Texas")
    #:date 1996))
 
+(define ffkwf-pldi-1996
+  (make-bib
+   #:title "Catching bugs in the web of program invariants"
+   #:author (authors "Cormac Flanagan" "Matthew Flatt"
+                     "Shriram Krishnamurthi" "Stephanie Weirich"
+                     "Matthias Felleisen")
+   #:location (proceedings-location pldi #:pages '(23 32))
+   #:date 1996))
+
 (define mw-icfp-1997
   (make-bib
    #:title "A Practical Subtyping System for Erlang"
    #:author (authors "Simon Marlow" "Philip Wadler")
-   #:location (proceedings-location icfp)
+   #:location (proceedings-location icfp #:pages '(136 149))
    #:date 1997))
 
 (define wc-toplas-1997
   (make-bib
    #:title "A Practical Soft Type System for Scheme"
    #:author (authors "Andrew K. Wright" "Robert Cartwright")
-   #:location (proceedings-location toplas)
+   #:location (journal-location toplas
+                                #:volume 19
+                                #:number 1
+                                #:pages '(87 152))
    #:date 1997))
 
 ;; ----------------------------------------
@@ -513,7 +537,7 @@
   (make-bib
    #:title "Logical Types for Untyped Languages"
    #:author (authors "Sam Tobin-Hochstadt" "Matthias Felleisen")
-   #:location (proceedings-location icfp)
+   #:location (proceedings-location icfp #:pages '(117 128))
    #:date 2010))
 
 (define sthff-padl-2012
@@ -521,7 +545,7 @@
    #:title "Typing the Numeric Tower"
    #:author (authors "Vincent St-Amour" "Sam Tobin-Hochstadt"
                      "Matthew Flatt" "Matthias Felleisen")
-   #:location (proceedings-location padl)
+   #:location (proceedings-location padl #:pages '(289 303))
    #:date 2012))
 
 (define fafh-sac-2009
@@ -529,7 +553,7 @@
    #:title "Static Type Inference for Ruby"
    #:author (authors "Michael Furr" "Jong-hoon (David) An"
                      "Jeffrey S. Foster" "Michael Hicks")
-   #:location (proceedings-location sac)
+   #:location (proceedings-location sac #:pages '(1859 1866))
    #:date 2009))
 
 (define chj-oopsla-2012
@@ -537,7 +561,7 @@
    #:title "Dependent Types for JavaScript"
    #:author (authors "Ravi Chugh" "David Herman"
                      "Ranjit Jhala")
-   #:location (proceedings-location oopsla)
+   #:location (proceedings-location oopsla #:pages '(587 606))
    #:date 2012))
 
 (define bonnaire-sergeant-thesis-2012

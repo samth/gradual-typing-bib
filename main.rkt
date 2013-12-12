@@ -253,7 +253,7 @@
 
 (define wnlov-popl-2010
   (make-bib
-   #:title "Integrating typed and untyped code in a scripting language."
+   #:title "Integrating Typed and Untyped Code in a Scripting Language."
    #:author (authors "Tobias Wrigstad" "Francesco Zappa Nardelli"
                      "Sylvain Lebresne" "Johan Ostlund" "Jan Vitek")
    #:location (proceedings-location popl #:pages '(377 388))

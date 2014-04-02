@@ -35,6 +35,27 @@
 
 <p>The latter sections cover related work.  First, early work on safe interoperation, such as the work on contracts.  Second, work on type systems (broadly defined) designed to work with existing untyped languages, including recent work done in the context of gradual typing.  Work on type system design that also considers issues of interoperability with untyped programs appears in the main section of the bibliography.</p>
 
+<hr><p>For papers written in <a href="http://docs.racket-lang.org/scribble/">Scribble</a>, this
+bibliography can be installed as a package and referenced directly from the
+paper. Use the following command to install:</p>
+
+<p><code>raco pkg install git://github.com/samth/gradual-typing-bib</code></p>
+
+<p>Sample use:</p>
+
+<pre><code>#lang scribble/base
+
+@(require gradual-typing-bib
+          scriblib/autobib)
+
+@(define-cite ~cite citet generate-bibliography)
+
+Original gradual typing papers
+@~cite[st-sfp-2006 thf-dls-2006 mf-toplas-2007 gktff-sfp-2006].
+
+@generate-bibliography[]
+</code></pre>
+
 <h1>
 <a name="gradual-typing" class="anchor" href="#gradual-typing"><span class="octicon octicon-link"></span></a>Gradual Typing</h1>
 
@@ -165,6 +186,10 @@ ACM Transactions on Programming Languages and Systems, 31(3):1–44, 2009.</p>
 
 <p>Lintaro Ina and Atsushi Igarashi.
 Computer Software, 26(2):18–40, 2009.</p>
+
+<p>In Japanese:
+Featherweight Javaのための漸進的型付け
+<a href="https://www.jstage.jst.go.jp/article/jssst/26/2/26_2_2_18/_pdf">https://www.jstage.jst.go.jp/article/jssst/26/2/26_2_2_18/_pdf</a></p>
 
 <h5>
 <a name="static-type-inference-for-ruby" class="anchor" href="#static-type-inference-for-ruby"><span class="octicon octicon-link"></span></a>Static type inference for Ruby</h5>
@@ -475,8 +500,16 @@ Workshop on Logic-based Programming Environments (WLPE 2012)</p>
 <h5>
 <a name="gradual-typing-for-smalltalk" class="anchor" href="#gradual-typing-for-smalltalk"><span class="octicon octicon-link"></span></a>Gradual typing for Smalltalk</h5>
 
-<p>Allende, Esteban, Oscar Callaú, Johan Fabry, Éric Tanter, and Marcus Denker.<br>
-Science of Computer Programming (2013).</p>
+<p>Esteban Allende, Oscar Callaú, Johan Fabry, Éric Tanter, and Marcus Denker.<br>
+Science of Computer Programming (2013).
+<a href="http://pleiad.dcc.uchile.cl/papers/2013/allendeAl-scp2013.pdf">http://pleiad.dcc.uchile.cl/papers/2013/allendeAl-scp2013.pdf</a></p>
+
+<h5>
+<a name="cast-insertion-strategies-for-gradually-typed-objects" class="anchor" href="#cast-insertion-strategies-for-gradually-typed-objects"><span class="octicon octicon-link"></span></a>Cast Insertion Strategies for Gradually-Typed Objects</h5>
+
+<p>Esteban Allende, Johan Fabry, Éric Tanter
+Proceedings of the 9th ACM Dynamic Languages Symposium (DLS 2013), Indianapolis, IN, USA, October 2013, ACM Press
+<a href="http://pleiad.dcc.uchile.cl/papers/2013/allendeAl-dls2013.pdf">http://pleiad.dcc.uchile.cl/papers/2013/allendeAl-dls2013.pdf</a></p>
 
 <h1>
 <a name="early-work-on-interoperation" class="anchor" href="#early-work-on-interoperation"><span class="octicon octicon-link"></span></a>Early Work on Interoperation</h1>
@@ -531,6 +564,18 @@ Languages, pages 245–256. ACM Press, 2006.</p>
 
 <p>Kathryn E. Gray<br>
 PhD Dissertation, University of Utah, School of Computing, August 2006.</p>
+
+<h5>
+<a name="introducing-safe-unknown-types-in-java-like-languages" class="anchor" href="#introducing-safe-unknown-types-in-java-like-languages"><span class="octicon octicon-link"></span></a>Introducing safe unknown types in Java-like languages</h5>
+
+<p>Giovanni Lagorio and Elena Zucca
+ACM Symp. on Applied Computing (SAC 2006), Special Track on Object-Oriented Programming Languages and Systems, 2006</p>
+
+<h5>
+<a name="just-safe-unknown-types-in-java-like-languages" class="anchor" href="#just-safe-unknown-types-in-java-like-languages"><span class="octicon octicon-link"></span></a>Just: safe unknown types in Java-like languages</h5>
+
+<p>Giovanni Lagorio and Elena Zucca
+Journal of Object Technology, Vol. 6, No. 2, Special Issue OOPS Track at SAC 2006, February 2007</p>
 
 <h1>
 <a name="related" class="anchor" href="#related"><span class="octicon octicon-link"></span></a>Related</h1>

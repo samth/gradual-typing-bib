@@ -491,6 +491,7 @@ http://www.ccs.neu.edu/racket/pubs/#pldi97-ff
 Simon Marlow and Philip Wadler.  
 In ICFP ’97: Proceedings of the Second ACM SIGPLAN International Conference
 on Functional Programming, pages 136–149. ACM Press, 1997.
+http://homepages.inf.ed.ac.uk/wadler/topics/erlang.html
 
 ##### A practical soft type system for Scheme.
 Andrew K. Wright and Robert Cartwright. 

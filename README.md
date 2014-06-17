@@ -592,4 +592,5 @@ http://cs.brown.edu/~sk/Publications/Papers/Published/pqk-progressive-types/
 ##### A Practical Optional Type System for Clojure
 Ambrose Bonnaire-Sergeant  
 Honours thesis, University of Western Australia, 2012
+http://cloud.github.com/downloads/frenchy64/papers/ambrose-honours.pdf
 

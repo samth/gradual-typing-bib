@@ -34,23 +34,23 @@ These four papers all independently introduce the fundamental idea of gradual ty
 
 ##### Gradual typing for functional languages.
 Jeremy G. Siek and Walid Taha.  
-In Seventh Workshop on Scheme and Functional Programming, University of Chicago Technical Report TR-2006-06, pages 81–92, September 2006.
+In Seventh Workshop on Scheme and Functional Programming, University of Chicago Technical Report TR-2006-06, pages 81–92, September 2006.  
 http://www.cs.colorado.edu/~siek/pubs/pubs/2006/siek06:_gradual.pdf
 
 ##### Interlanguage migration: from scripts to programs.
 Sam Tobin-Hochstadt and Matthias Felleisen.  
-In OOPSLA ’06: Companion to the 21st annual ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications, pages 964–974. ACM Press, 2006.
+In OOPSLA ’06: Companion to the 21st annual ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications, pages 964–974. ACM Press, 2006.  
 http://www.ccs.neu.edu/racket/pubs/dls06-tf.pdf
 
 ##### Operational semantics for multi-language programs
 Jacob Matthews and Robert Bruce Findler  
 POPL 2007  
-See subsequent version in TOPLAS 2009.
+See subsequent version in TOPLAS 2009.  
 http://www.eecs.northwestern.edu/~robby/pubs/papers/toplas09-mf.pdf
 
 ##### Sage: Hybrid Checking for Flexible Specifications
 Jessica Gronski, Kenneth Knowles, Aaron Tomb, Stephen N. Freund, and Cormac Flanagan
-In Seventh Workshop on Scheme and Functional Programming, University of Chicago Technical Report TR-2006-06, pages 93-104, September 2006.
+In Seventh Workshop on Scheme and Functional Programming, University of Chicago Technical Report TR-2006-06, pages 93-104, September 2006.  
 http://users.soe.ucsc.edu/~atomb/gronski06sage.pdf
 
 
@@ -60,7 +60,7 @@ Every paper below here cites at least one of the 4 original papers.
 
 ##### Sage: Unified Hybrid Checking for First-Class Types, General Refinement Types, and Dynamic. (extended report)
 Kenneth Knowles, Aaron Tomb, Jessica Gronski, Stephen N. Freund, Cormac Flanagan.
-Technical report, May 2007
+Technical report, May 2007  
 http://sage.soe.ucsc.edu/sage-tr.pdf
 
 ##### Space-efficient gradual typing. 
@@ -71,42 +71,42 @@ In Proceedings of the Eighth Symposium on Trends in Functional Programming, TFP 
 ##### Gradual typing for objects.
 Jeremy G. Siek and Walid Taha.  
 In ECOOP 2007, volume 4609 of
-LCNS, pages 2–27. Springer Verlag, August 2007.
+LCNS, pages 2–27. Springer Verlag, August 2007.  
 http://ecee.colorado.edu/~siek/gradual-obj.pdf
 
 ##### Advanced Macrology and the Implementation of Typed Scheme.
 Ryan Culpepper, Sam Tobin-Hochstadt, and Matthew Flatt.  
-In Proceedings of the 2007 Workshop on Scheme and Functional Programming, Universit́e Laval Technical Report DIUL-RT-0701, pages 1–13, 2007
+In Proceedings of the 2007 Workshop on Scheme and Functional Programming, Universit́e Laval Technical Report DIUL-RT-0701, pages 1–13, 2007  
 http://www.ccs.neu.edu/racket/pubs/scheme2007-ctf.pdf
 
 ##### Well-typed programs can’t be blamed
 Philip Wadler and Robert Bruce Findler  
-In Proceedings of the 2007 Workshop on Scheme and Functional Programming, Universit́e Laval Technical Report DIUL-RT-0701, pages 1–13, 2007
+In Proceedings of the 2007 Workshop on Scheme and Functional Programming, Universit́e Laval Technical Report DIUL-RT-0701, pages 1–13, 2007  
 http://www.eecs.northwestern.edu/~robby/pubs/papers/scheme2007-wf.pdf
 
 ##### Evolutionary Programming and Gradual Typing in ECMAScript 41
 Lars T Hansen
-Adobe Systems Technical Report, November 2007
+Adobe Systems Technical Report, November 2007  
 http://www.ecmascript.org/es4/spec/evolutionary-programming-tutorial.pdf
 
 ##### Status report: specifying JavaScript with ML
 David Herman, Cormac Flanagan
-Proceedings of the 2007 workshop on Workshop on ML, Pages 47-52, 2007.
+Proceedings of the 2007 workshop on Workshop on ML, Pages 47-52, 2007.  
 http://users.soe.ucsc.edu/~cormac/papers/ml07.pdf
 
 ##### The design and implementation of Typed Scheme.
 Sam Tobin-Hochstadt and Matthias Felleisen.  
-In POPL ’08: Proceedings of the 35th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, pages 395–406. ACM Press, 2008
+In POPL ’08: Proceedings of the 35th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, pages 395–406. ACM Press, 2008  
 http://www.ccs.neu.edu/racket/pubs/popl08-thf.pdf
 
 ##### Safe Cross-Language Inheritance
 Kathryn E. Gray  
-In proceedings of ECOOP 2008
+In proceedings of ECOOP 2008  
 http://www.cl.cam.ac.uk/~keg29/inheritance-model/inheritance.pdf
 
 ##### Gradual typing with unification-based inference
 Jeremy G. Siek, Manish Vachharajani  
-DLS '08 Proceedings of the 2008 symposium on Dynamic languages, 2008
+DLS '08 Proceedings of the 2008 symposium on Dynamic languages, 2008  
 http://ecee.colorado.edu/~siek/dls08igtlc.pdf
 
 ##### Well-typed programs can’t be blamed
@@ -115,7 +115,7 @@ In ESOP ’09: Proceedings of the Eighteenth European Symposium on Programming, 
 
 ##### Exploring the Design Space of Higher-Order Casts
 Jeremy Siek, Ronald Garcia, Walid Taha
-In ESOP ’09: Proceedings of the Eighteenth European Symposium on Programming, volume 5502 of Lecture Notes in Computer Science, pages 17-31. Springer-Verlag, 2009.
+In ESOP ’09: Proceedings of the Eighteenth European Symposium on Programming, volume 5502 of Lecture Notes in Computer Science, pages 17-31. Springer-Verlag, 2009.  
 http://ecee.colorado.edu/~siek/siek09esop.pdf
 
 ##### A Model of Java/Scheme Interoperability
@@ -125,7 +125,7 @@ Edited by Robert Bruce Findler, Matthew Flatt, and Matthias Felleisen. MIT Press
 
 ##### Operational semantics for multi-language programs
 Jacob Matthews and Robert Bruce Findler  
-ACM Transactions on Programming Languages and Systems, 31(3):1–44, 2009.
+ACM Transactions on Programming Languages and Systems, 31(3):1–44, 2009.  
 http://www.eecs.northwestern.edu/~robby/pubs/papers/toplas09-mf.pdf
 
 #####  Gradual typing for Featherweight Java.

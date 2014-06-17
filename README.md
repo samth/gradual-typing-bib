@@ -162,6 +162,7 @@ Proceedings of the 14th ACM SIGPLAN international conference on Functional progr
 Jeremy G. Siek, Philip Wadler  
 STOP '09 Proceedings for the 1st workshop on Script to Program Evolution, 2009  
 See subsequent version in POPL 2010.
+http://homepages.inf.ed.ac.uk/wadler/papers/threesomes-stop/threesomes-stop.pdf
 
 ##### Software Hardening: A Research Agenda
 Wrigstad, Eugster, Field, Nystrom, Vitek  
@@ -229,6 +230,7 @@ FOOL 2010
 ##### Blame for All.
 Amal Ahmed, Robert Bruce Findler, Jeremy G. Siek, and Philip Wadler.  
 In Symposium on Principles of Programming Languages, January 2011.
+http://homepages.inf.ed.ac.uk/wadler/papers/blame-for-all/blame-for-all.pdf
 
 ##### Proceedings of the Second Workshop on Script to Program Evolution. 
 Edited by Robert Bruce Findler

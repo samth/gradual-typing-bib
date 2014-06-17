@@ -414,6 +414,7 @@ Trends in Functional Programming, 2007.
 ##### Polymorphic Contracts
 João Filipe Belo, Michael Greenberg, Atsushi Igarashi, Benjamin C. Pierce 
 Programming Languages and Systems, LNCS Volume 6602, 2011, pp 18-37
+http://www.seas.upenn.edu/~mgree/papers/esop2011sub_fh.pdf
 
 ## Typing Untyped Languages
 

@@ -361,16 +361,16 @@ Proceedings of the 9th ACM Dynamic Languages Symposium (DLS 2013), Indianapolis,
 http://pleiad.dcc.uchile.cl/papers/2013/allendeAl-dls2013.pdf
 
 ##### A Theory of Gradual Effect Systems
-Felipe Bañados Schwerter, Ronald Garcia, Éric Tanter
-International Conference on Functional Programming 2014
+Felipe Bañados Schwerter, Ronald Garcia, Éric Tanter.
+International Conference on Functional Programming 2014.
 http://pleiad.dcc.uchile.cl/papers/2014/banadosAl-icfp2014.pdf
 
 ##### Safe & Efficient Gradual Typing for TypeScript
-Aseem Rastogi, Nikhil Swamy, Cédric Fournet, Gavin Bierman, Panagiotis Vekris
+Aseem Rastogi, Nikhil Swamy, Cédric Fournet, Gavin Bierman, Panagiotis Vekris.
 Principles of Programming Languages 2015 (to appear)
 
 ##### Principal Type Schemes for Gradual Programs
-Ronald Garcia, Matteo Cimini
+Ronald Garcia, Matteo Cimini.
 Principles of Programming Languages 2015 (to appear)
 
 # Early Work on Interoperation
@@ -608,6 +608,6 @@ Honours thesis, University of Western Australia, 2012
 http://cloud.github.com/downloads/frenchy64/papers/ambrose-honours.pdf
 
 ##### Typed Lua: An Optional Type System for Lua
-André Murbach Maidl, Fabio Mascarenhas, Roberto Ierusalimschy
-Dyla 2014
+André Murbach Maidl, Fabio Mascarenhas, Roberto Ierusalimschy.
+Dyla 2014.
 http://www.lifl.fr/dyla14/papers/dyla14-4-typed-lua-an-optional-type-system.pdf

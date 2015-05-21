@@ -365,7 +365,7 @@ Felipe Bañados Schwerter, Ronald Garcia, Éric Tanter.
 International Conference on Functional Programming 2014.
 http://pleiad.dcc.uchile.cl/papers/2014/banadosAl-icfp2014.pdf
 
-#### Design and Evaluation of Gradual Typing for Python
+##### Design and Evaluation of Gradual Typing for Python
 Michael M. Vitousek, Andrew Kent, Jeremy G. Siek, Jim Baker
 Proceedings of the 10th ACM Dynamic Languages Symposium (DLS 2014), Portland, OR, USA, October 2014, ACM Press
 
@@ -377,15 +377,15 @@ In Proceedings of the 42nd Annual ACM SIGPLAN-SIGACT Symposium on Principles of 
 Ronald Garcia, Matteo Cimini.
 In Proceedings of the 42nd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL '15). ACM, New York, NY, USA, 303-315.
 
-#### Monotonic References for Efficient Gradual Typing
+##### Monotonic References for Efficient Gradual Typing
 Jeremy Siek, Michael M. Vitousek, Matteo Cimmini, Sam Tobin-Hochstadt, Ronald Garcia
 ESOP 2015, LNCS Volume 9032, pp 432-456
 
-#### Towards Practical Gradual Typing
+##### Towards Practical Gradual Typing
 Asumu Takikawa, Daniel Feltey, Earl Dean, Robert Bruce Findler, Matthew Flatt, Sam Tobin-Hochstadt, Matthias Felleisen
 ECOOP 2015 (To Appear)
 
-#### Concrete Types for TypeScript
+##### Concrete Types for TypeScript
 Gregor Richards, Francesco Zappa Nardelli, Jan Vitek
 ECOOP 2015 (To Appear)
 

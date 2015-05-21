@@ -65,7 +65,8 @@
   (define/short fool "FOOL" (~a International Workshop "on Foundations of Object-Oriented Languages"))
   (define/short icse "ICSE" (~a International Conference "on Software Engineering"))
   (define/short icalp "ICALP" (string-append International "Colloquium on Automata, Languages, and Programming"))
-  (define/short sac "SAC" (string-append Symposium "on Applied Computing")))
+  (define/short sac "SAC" (string-append Symposium "on Applied Computing"))
+  (define/short dyla "DYLA" (string-append Workshop "on Dynamic Languages and Applications")))
 
 (require 'util)
 
@@ -230,7 +231,7 @@
   (make-bib
    #:title "Thorn: Robust, Concurrent, Extensible Scripting on the JVM"
    #:author (authors "Bard Bloom" "John Field" "Nathaniel Nystrom"
-                     "Johan Ostlund" "Gregor Richards" "Rok Strnisa"
+                     "Johan Östlund" "Gregor Richards" "Rok Strniša"
                      "Jan Vitek" "Tobias Wrigstad")
    #:location (proceedings-location oopsla #:pages '(117 136))
    #:date 2009))
@@ -255,7 +256,7 @@
   (make-bib
    #:title "Integrating Typed and Untyped Code in a Scripting Language."
    #:author (authors "Tobias Wrigstad" "Francesco Zappa Nardelli"
-                     "Sylvain Lebresne" "Johan Ostlund" "Jan Vitek")
+                     "Sylvain Lebresne" "Johan Östlund" "Jan Vitek")
    #:location (proceedings-location popl #:pages '(377 388))
    #:date 2010))
 
@@ -317,7 +318,7 @@
   (make-bib
    #:title "Gradual Typestate"
    #:author (authors "Roger Wolff" "Ronald Garcia"
-                     "Eric Tanter" "Jonathan Aldritch")
+                     "Éric Tanter" "Jonathan Aldritch")
    #:location (proceedings-location ecoop #:pages '(459 483))
    #:date 2011))
 
@@ -386,8 +387,58 @@
   (make-bib
    #:author (authors "Esteban Allende" "Johan Fabry" "Éric Tanter")
    #:title "Cast Insertion Strategies for Gradually-Typed Objects"
-   #:location (proceedings-location dls)
+   #:location (proceedings-location dls #:pages '(27 36))
    #:date 2013))
+
+(define vksb-dls-2014
+  (make-bib
+   #:author (authors "Michael M. Vitousek" "Andrew Kent" "Jeremy G. Siek" "Jim Baker")
+   #:title "Design and Evaluation of Gradual Typing for Python"
+   #:location (proceedings-location dls #:pages '(45 56))
+   #:date 2014))
+
+(define rsfbv-popl-2015
+  (make-bib
+   #:author (authors "Aseem Rastogi" "Nikhil Swamy" "Cédric Fournet"
+                     "Gavin Bierman" "Panagiotis Vekris")
+   #:title "Safe & Efficient Gradual Typing for TypeScript"
+   #:location (proceedings-location popl #:pages '(167 180))
+   #:date 2015))
+
+(define gc-popl-2015
+  (make-bib
+   #:author (authors "Ronald Garcia" "Matteo Cimini")
+   #:title "Principal Type Schemes for Gradual Programs"
+   #:location (proceedings-location popl #:pages '(303 315))
+   #:date 2015))
+
+(define vcgts-esop-2015
+  (make-bib
+   #:title "Monotonic References for Efficient Gradual Typing"
+   #:location (proceedings-location esop #:pages '(432 456))
+   #:date 2015
+   #:author (authors "Jeremy Siek"
+                     "Michael M. Vitousek"
+                     "Matteo Cimmini"
+                     "Sam Tobin-Hochstadt"
+                     "Ronald Garcia")))
+
+(define tfdffthf-ecoop-2015
+  (make-bib
+   #:author (authors "Asumu Takikawa" "Daniel Feltey"
+                     "Earl Dean" "Robert Bruce Findler"
+                     "Matthew Flatt" "Sam Tobin-Hochstadt"
+                     "Matthias Felleisen")
+   #:title "Towards Practical Gradual Typing"
+   #:location (proceedings-location ecoop)
+   #:date 2015))
+
+(define rnv-ecoop-2015
+  (make-bib
+   #:author (authors "Gregor Richards" "Francesco Zappa Nardelli" "Jan Vitek")
+   #:title "Concrete Types for TypeScript"
+   #:location (proceedings-location ecoop)
+   #:date 2015))
 
 ;; ----------------------------------------
 ; Early Work on Interoperation
@@ -556,6 +607,14 @@
    #:location (proceedings-location sac #:pages '(1859 1866))
    #:date 2009))
 
+(define acfh-popl-2011
+  (make-bib
+   #:title "Dynamic Inference of Static Types for Ruby"
+   #:author (authors "Jong-hoon (David) An" "Avik Chaudhuri"
+                     "Jeffrey S. Foster" "Michael Hicks")
+   #:location (proceedings-location popl #:pages '(459 472))
+   #:date 2011))
+
 (define chj-oopsla-2012
   (make-bib
    #:title "Dependent Types for JavaScript"
@@ -572,3 +631,9 @@
                #:degree "Honour's")
    #:date 2012))
 
+(define mmi-dyla-2014
+  (make-bib
+   #:title "Typed Lua: An Optional Type System for Lua"
+   #:author (authors "André Murbach Maidl" "Fabio Mascarenhas" "Roberto Ierusalimschy")
+   #:location (proceedings-location dyla #:pages '(1 10))
+   #:date 2014))

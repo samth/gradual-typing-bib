@@ -246,9 +246,13 @@ M. Bayne, R. Cook, and M.D. Ernst.
 In International Conference on Software Engineering, 2011.
 
 ##### Gradual typestate.
-Roger Wolff, Ronald Garcia, Eric Tanter, and Jonathan Aldrich.  
+Roger Wolff, Ronald Garcia, Éric Tanter, and Jonathan Aldrich.  
 In European Conference on Object-Oriented Programming, ECOOP’11. Springer-Verlag, 2011.
+http://pleiad.dcc.uchile.cl/papers/2011/wolffAl-ecoop2011.pdf
 
+Ronald Garcia, Éric Tanter, Roger Wolff, Jonathan Aldrich:
+Foundations of Typestate-Oriented Programming. ACM TOPLAS 36(4): 12:1-12:44 (2014)
+http://pleiad.dcc.uchile.cl/papers/2014/garciaAl-toplas2014.pdf
 
 ##### Gradual typing for generics.
 Lintaro Ina and Atsushi Igarashi.  
@@ -372,6 +376,11 @@ Proceedings of the 10th ACM Dynamic Languages Symposium (DLS 2014), Portland, OR
 ##### Safe & Efficient Gradual Typing for TypeScript
 Aseem Rastogi, Nikhil Swamy, Cédric Fournet, Gavin Bierman, Panagiotis Vekris.
 In Proceedings of the 42nd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL '15). ACM, New York, NY, USA, 167-180.
+
+#### Confined Gradual Typing
+Esteban Allende, Johan Fabry, Ronald Garcia, Éric Tanter.
+OOPSLA 2014
+http://pleiad.dcc.uchile.cl/papers/2014/allendeAl-oopsla2014.pdf
 
 ##### Principal Type Schemes for Gradual Programs
 Ronald Garcia, Matteo Cimini.

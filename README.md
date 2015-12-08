@@ -377,7 +377,7 @@ Proceedings of the 10th ACM Dynamic Languages Symposium (DLS 2014), Portland, OR
 Aseem Rastogi, Nikhil Swamy, Cédric Fournet, Gavin Bierman, Panagiotis Vekris.
 In Proceedings of the 42nd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL '15). ACM, New York, NY, USA, 167-180.
 
-#### Confined Gradual Typing
+##### Confined Gradual Typing
 Esteban Allende, Johan Fabry, Ronald Garcia, Éric Tanter.
 OOPSLA 2014
 http://pleiad.dcc.uchile.cl/papers/2014/allendeAl-oopsla2014.pdf

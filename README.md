@@ -392,11 +392,27 @@ ESOP 2015, LNCS Volume 9032, pp 432-456
 
 ##### Towards Practical Gradual Typing
 Asumu Takikawa, Daniel Feltey, Earl Dean, Robert Bruce Findler, Matthew Flatt, Sam Tobin-Hochstadt, Matthias Felleisen
-ECOOP 2015 (To Appear)
+ECOOP 2015, LIPIcs Volume 37, pp 4-27
 
 ##### Concrete Types for TypeScript
 Gregor Richards, Francesco Zappa Nardelli, Jan Vitek
-ECOOP 2015 (To Appear)
+ECOOP 2015, LIPIcs Volume 37, pp 76-100
+
+##### Customizable Gradual Polymorphic Effects for Scala
+Matías Toro, Éric Tanter
+In Proceedings of the 2015 ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications (pp. 935-953)
+
+##### Abstracting Gradual Typing
+Ronald Garcia, Alison M. Clark, Éric Tanter
+POPL 2016, To Appear
+
+##### The Gradualizer: a methodology and algorithm for generating gradual type systems
+Matteo Cimini, Jeremy Siek
+POPL 2016, To Appear
+
+##### Is Sound Gradual Typing Dead?
+Asumu Takikawa, Daniel Feltey, Ben Greenman, Max New, Jan Vitek, Matthias Felleisen
+POPL 2016, To Appear
 
 # Early Work on Interoperation
 

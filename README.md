@@ -655,3 +655,8 @@ http://cloud.github.com/downloads/frenchy64/papers/ambrose-honours.pdf
 André Murbach Maidl, Fabio Mascarenhas, Roberto Ierusalimschy.
 Dyla 2014.
 http://www.lifl.fr/dyla14/papers/dyla14-4-typed-lua-an-optional-type-system.pdf
+
+##### Practical Optional Types for Clojure
+Ambrose Bonnaire-Sergeant, Rowan Davies, and Sam Tobin-Hochstadt.
+To Appear in ESOP '16
+http://frenchy64.github.io/papers/esop16-short.pdf

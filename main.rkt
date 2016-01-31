@@ -440,6 +440,34 @@
    #:location (proceedings-location ecoop)
    #:date 2015))
 
+(define tt-oopsla-2015
+  (make-bib
+   #:title "Customizable Gradual Polymorphic Effects for Scala"
+   #:author (authors "Matías Toro" "Éric Tanter")
+   #:location (proceedings-location popl #:pages '(935 953))
+   #:date 2015))
+
+(define gct-popl-2016
+  (make-bib
+   #:title "Abstracting Gradual Typing"
+   #:author (authors "Ronald Garcia" "Alison M. Clark" "Éric Tanter")
+   #:location (proceedings-location popl #:pages '(429 442))
+   #:date 2016))
+
+(define cs-popl-2016
+  (make-bib
+   #:title "The Gradualizer: A methodology and algorithm for generating gradual type systems"
+   #:author (authors "Matteo Cimini" "Jeremy Siek")
+   #:location (proceedings-location popl #:pages '(443 455))
+   #:date 2016))
+
+(define tfgnvf-popl-2016
+  (make-bib
+   #:title "Is Sound Gradual Typing Dead?"
+   #:author (authors "Asumu Takikawa" "Daniel Feltey" "Ben Greenman" "Max New" "Jan Vitek" "Matthias Felleisen")
+   #:location (proceedings-location popl #:pages '(456 468))
+   #:date 2016))
+
 ;; ----------------------------------------
 ; Early Work on Interoperation
 

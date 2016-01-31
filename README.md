@@ -404,15 +404,18 @@ In Proceedings of the 2015 ACM SIGPLAN International Conference on Object-Orient
 
 ##### Abstracting Gradual Typing
 Ronald Garcia, Alison M. Clark, Éric Tanter
-POPL 2016, To Appear
+POPL 2016, ACM, New York, NY, USA, 429-442.
+http://dl.acm.org/citation.cfm?id=2837670
 
 ##### The Gradualizer: a methodology and algorithm for generating gradual type systems
 Matteo Cimini, Jeremy Siek
-POPL 2016, To Appear
+POPL 2016, ACM, New York, NY, USA, 443-455.
+http://cimini.info/publications/Gradualizer_Draft.pdf
 
 ##### Is Sound Gradual Typing Dead?
 Asumu Takikawa, Daniel Feltey, Ben Greenman, Max New, Jan Vitek, Matthias Felleisen
-POPL 2016, To Appear
+POPL 2016, ACM, New York, NY, USA, 456-468.
+http://www.ccs.neu.edu/racket/pubs/popl16-tfgnvf.pdf
 
 # Early Work on Interoperation
 

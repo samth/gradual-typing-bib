@@ -360,7 +360,7 @@ Science of Computer Programming (2013).
 http://pleiad.dcc.uchile.cl/papers/2013/allendeAl-scp2013.pdf
 
 ##### Cast Insertion Strategies for Gradually-Typed Objects
-Esteban Allende, Johan Fabry, Éric Tanter
+Esteban Allende, Johan Fabry, Éric Tanter
 Proceedings of the 9th ACM Dynamic Languages Symposium (DLS 2013), Indianapolis, IN, USA, October 2013, ACM Press
 http://pleiad.dcc.uchile.cl/papers/2013/allendeAl-dls2013.pdf
 
@@ -401,11 +401,18 @@ ECOOP 2015, LIPIcs Volume 37, pp 76-100
 ##### Customizable Gradual Polymorphic Effects for Scala
 Matías Toro, Éric Tanter
 In Proceedings of the 2015 ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications (pp. 935-953)
+http://pleiad.dcc.uchile.cl/papers/2015/toroTanter-oopsla2015.pdf
+
+##### Gradual Certified Programming in Coq
+Éric Tanter, Nicolas Tabareau
+Proceedings of the 11th ACM Dynamic Languages Symposium (DLS 2015), pp.26-40, Pittsburgh, PA, USA, October 2015, ACM Press
+http://pleiad.dcc.uchile.cl/papers/2015/tanterTabareau-dls2015.pdf
 
 ##### Abstracting Gradual Typing
 Ronald Garcia, Alison M. Clark, Éric Tanter
 POPL 2016, ACM, New York, NY, USA, 429-442.
 http://dl.acm.org/citation.cfm?id=2837670
+http://pleiad.dcc.uchile.cl/papers/2016/garciaAl-popl2016.pdf
 
 ##### The Gradualizer: a methodology and algorithm for generating gradual type systems
 Matteo Cimini, Jeremy Siek

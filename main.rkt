@@ -523,6 +523,13 @@
    #:location (proceedings-location popl #:pages '(290 296))
    #:date 1984))
 
+(define jgz-oopsla-1998
+  (make-bib
+   #:title "TS: An Optimizing Compiler for Smalltalk"
+   #:author (authors "Ralph E. Johnson" "Justin O. Graver" "Lawrence W. Zurawski")
+   #:location (proceedings-location oopsla #:pages '(18 26))
+   #:date 1988))
+
 (define am-popl-1991
   (make-bib
    #:title "Static Type Inference in a Dynamically Typed Language"

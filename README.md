@@ -35,7 +35,7 @@ These four papers all independently introduce the fundamental idea of gradual ty
 ##### Gradual typing for functional languages.
 Jeremy G. Siek and Walid Taha.  
 In Seventh Workshop on Scheme and Functional Programming, University of Chicago Technical Report TR-2006-06, pages 81–92, September 2006.  
-http://www.cs.colorado.edu/~siek/pubs/pubs/2006/siek06:_gradual.pdf
+http://ecee.colorado.edu/~siek/pubs/pubs/2006/siek06_gradual.pdf
 
 ##### Interlanguage migration: from scripts to programs.
 Sam Tobin-Hochstadt and Matthias Felleisen.  

@@ -33,7 +33,7 @@
   (define Symposium "Sym. ")
   (define Transactions "Trans. ")
 
-  (define/short asplas "APLAS" (string-append "Asian " Symposium "Programming Languages and Systems"))
+  (define/short aplas "APLAS" (string-append "Asian " Symposium "Programming Languages and Systems"))
   (define/short fpca "FPCA" (string-append ACM International Conference "Functional Programming Languages and Computer Architecture"))
   (define/short icfp "ICFP" (string-append ACM International Conference "Functional Programming"))
   (define/short pldi "PLDI" (string-append ACM Conference "Programming Language Design and Implementation"))

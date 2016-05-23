@@ -62,6 +62,7 @@
   (define/short tlca "TLCA" (string-append International Conference "Typed Lambda Calculi and Applications"))
   (define/short i&c "Info. & Comp." "Information and Computation")
   (define/short padl "PADL" (string-append Symposium "on Practical Aspects of Declarative Languages"))
+  (define/short ppdp "PPDP" (string-append International Symposium "on Principles and Practice of Declarative Programming"))
   (define/short fool "FOOL" (~a International Workshop "on Foundations of Object-Oriented Languages"))
   (define/short icse "ICSE" (~a International Conference "on Software Engineering"))
   (define/short icalp "ICALP" (string-append International "Colloquium on Automata, Languages, and Programming"))
@@ -608,6 +609,13 @@
                                 #:number 1
                                 #:pages '(87 152))
    #:date 1997))
+
+(define ls-ppdp-2006
+  (make-bib
+   #:title "Practical Type Inference Based on Success Typings"
+   #:author (authors "Tobias Lindahl" "Konstantinos Sagonas")
+   #:location (proceedings-location ppdp #:pages '(167 178))
+   #:date 2006))
 
 ;; ----------------------------------------
 ; Type Systems for Gradual Typing

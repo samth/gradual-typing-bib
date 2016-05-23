@@ -587,6 +587,12 @@ Master’s thesis, Massachusetts Institute of Technology, Cambridge, Massachuset
 Gary T. Leavens, Curtis Clifton, and Brian Dorn.  
 Technical Report 05-18a, Iowa State University, 2005.
 
+#####  Practical Type Inference Based on Success Typings
+Tobias Lindahl and Konstantinos Sagonas
+International Symposium on Principles and Practice of Declarative Programming (PPDP), 2006.
+http://www.it.uu.se/research/group/hipe/papers/succ_types.pdf
+
+
 ## Type Systems for Gradual-typing
 
 This work presents type systems for untyped languages, influenced by gradual typing work on interoperation, but doesn't explicitly deal with typed/untyped interoperation.

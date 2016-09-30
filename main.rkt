@@ -479,6 +479,13 @@
    #:location (proceedings-location icfp #:pages '(48 59))
    #:date "2002"))
 
+(define gff-oopsla-2005
+  (make-bib
+   #:title "Fine-Grained Interoperability through Mirrors and Contracts"
+   #:author (authors "Kathryn E. Gray" "Robert Bruce Findler" "Matthew Flatt")
+   #:location (proceedings-location oopsla #:pages '(231 245))
+   #:date 2015))
+
 ;; ----------------------------------------
 ; Related
 

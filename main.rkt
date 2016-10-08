@@ -319,7 +319,7 @@
   (make-bib
    #:title "Gradual Typestate"
    #:author (authors "Roger Wolff" "Ronald Garcia"
-                     "Éric Tanter" "Jonathan Aldritch")
+                     "Éric Tanter" "Jonathan Aldrich")
    #:location (proceedings-location ecoop #:pages '(459 483))
    #:date 2011))
 

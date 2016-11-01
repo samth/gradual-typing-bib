@@ -398,6 +398,11 @@ ECOOP 2015, LIPIcs Volume 37, pp 4-27
 Gregor Richards, Francesco Zappa Nardelli, Jan Vitek
 ECOOP 2015, LIPIcs Volume 37, pp 76-100
 
+##### Refined Criteria for Gradual Typing
+Jeremy G. Siek, Michael M. Vitousek, Matteo Cimini, John Tang Boyland
+SNAPL 2015, LIPIcs Volume 32, pp 274-293
+http://drops.dagstuhl.de/opus/volltexte/2015/5031/
+
 ##### Customizable Gradual Polymorphic Effects for Scala
 Matías Toro, Éric Tanter
 In Proceedings of the 2015 ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications (pp. 935-953)

@@ -67,6 +67,7 @@
   (define/short icse "ICSE" (~a International Conference "on Software Engineering"))
   (define/short icalp "ICALP" (string-append International "Colloquium on Automata, Languages, and Programming"))
   (define/short sac "SAC" (string-append Symposium "on Applied Computing"))
+  (define/short snapl "SNAPL" "Summit on Advances in Programming Languages")
   (define/short dyla "DYLA" (string-append Workshop "on Dynamic Languages and Applications")))
 
 (require 'util)
@@ -432,6 +433,13 @@
                      "Matthias Felleisen")
    #:title "Towards Practical Gradual Typing"
    #:location (proceedings-location ecoop)
+   #:date 2015))
+
+(define svcb-snapl-2015
+  (make-bib
+   #:title "Refined Criteria for Gradual Typing"
+   #:author (authors "Jeremy G. Siek" "Michael M. Vitousek" "Matteo Cimini" "John Tang Boyland")
+   #:location (proceedings-location snapl #:pages '(274 293))
    #:date 2015))
 
 (define rnv-ecoop-2015

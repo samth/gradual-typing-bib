@@ -503,6 +503,11 @@ POPL '81 Proceedings of the 8th ACM SIGPLAN-SIGACT symposium on Principles of pr
 Norihisa Suzuki and Minoru Terada  
 POPL '84 Proceedings of the 11th ACM SIGACT-SIGPLAN symposium on Principles of programming languages 
 
+##### TS: An Optimizing Compiler for Smalltalk
+Ralph E. Johnson and Justin O. Graver and Lawrence W. Zurawski
+OOPSLA '88: Proceedings of the 3rd annual ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications, pages 18-26.
+http://dl.acm.org/citation.cfm?id=62086
+
 #####  Static type inference in a dynamically typed language
 Alexander Aiken and Brian R. Murphy  
 In POPL ’91: Proceedings of the 18th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, pages 279–290. ACM Press, 1991.

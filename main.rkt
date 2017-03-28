@@ -43,7 +43,7 @@
   (define/short scheme-workshop "SFP" (string-append Workshop "Scheme and Functional Programming"))
   (define/short ml-workshop "ML" (string-append Workshop "on ML"))
   (define/short jfp "JFP" (string-append Journal "Functional Programming"))
-  (define/short hosc "HOSC" "Higher-Order and Symbolic Programming")
+  (define/short hosc "HOSC" "Higher-Order and Symbolic Computation")
   (define/short lfp "LFP" "LISP and Functional Programming")
   (define/short lsc "LSC" "LISP and Symbolic Computation")
   (define/short ifl "IFL" (string-append International Symposium "Functional and Logic Programming"))

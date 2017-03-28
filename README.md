@@ -678,3 +678,8 @@ http://www.lifl.fr/dyla14/papers/dyla14-4-typed-lua-an-optional-type-system.pdf
 Ambrose Bonnaire-Sergeant, Rowan Davies, and Sam Tobin-Hochstadt.
 To Appear in ESOP '16
 http://frenchy64.github.io/papers/esop16-short.pdf
+
+
+##### Occurrence Typing Modulo Theories
+Andrew M. Kent, David Kempe, and Sam Tobin-Hochstadt.
+In Proceedings of the ACM SIGPLAN 2016 conference on Programming Language Design and Implementation (PLDI '16)  

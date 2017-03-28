@@ -688,3 +688,10 @@
    #:author (authors "André Murbach Maidl" "Fabio Mascarenhas" "Roberto Ierusalimschy")
    #:location (proceedings-location dyla #:pages '(1 10))
    #:date 2014))
+
+(define kkth-pldi-2016
+  (make-bib
+   #:title "Occurrence Typing Modulo Theories"
+   #:author (authors "Andrew M. Kent" "David Kempe" "Sam Tobin-Hochstadt")
+   #:location (proceedings-location pldi #:pages '(296 309))
+   #:date 2016))

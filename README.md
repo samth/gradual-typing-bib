@@ -429,6 +429,48 @@ Asumu Takikawa, Daniel Feltey, Ben Greenman, Max New, Jan Vitek, Matthias Fellei
 POPL 2016, ACM, New York, NY, USA, 456-468.
 http://www.ccs.neu.edu/racket/pubs/popl16-tfgnvf.pdf
 
+##### Theorems for free for free: Parametricity, with and without types
+Amal Ahmed, Dustin Jamner, Jeremy G. Siek, Philip Wadler
+ICFP 2017, ACM, New York, NY, USA
+https://doi.org/10.1145/3110283
+
+##### Gradual session types
+Atsushi Igarashi, Peter Thiemann, Vasco T. Vasconcelos, Philip Wadler
+ICFP 2017, ACM, New York, NY, USA
+https://doi.org/10.1145/3110282
+
+##### On polymorphic gradual typing
+Yuu Igarashi, Taro Sekiyama, Atsushi Igarashi
+ICFP 2017, ACM, New York, NY, USA
+https://doi.org/10.1145/3110284
+
+##### Gradual typing with union and intersection types
+Giuseppe Castagna, Victor Lanvin
+ICFP 2017, ACM, New York, NY, USA
+https://doi.org/10.1145/3110285
+
+##### Sound gradual typing: Only mostly dead
+Spenser A. Bauman, Sam Tobin-Hochstadt, Jeremy G. Siek, Carl Friedrich Bolz-Tereick
+OOPSLA 2017, ACM, New York, NY, USA
+https://doi.org/10.1145/3133878
+
+##### The VM already knew that: leveraging compile-time knowledge to optimize gradual typing
+Gregor Richards, Ellen Arteca, Alexi Turcotte
+OOPSLA 2017, ACM, New York, NY, USA
+https://doi.org/10.1145/3133879
+
+##### Sound gradual typing is nominally alive and well
+Fabian Muehlboeck, Ross Tate
+OOPSLA 2017, ACM, New York, NY, USA
+https://doi.org/10.1145/3133880
+
+##### Gradually typed symbolic expressions
+David Broman, Jeremy G. Siek
+PEPM 2018, ACM, New York, NY, USA, 15–29.
+https://doi.org/10.1145/3162068
+https://people.kth.se/~dbro/papers/broman-siek-2018-gradually-typed-symbols.pdf
+
+
 # Early Work on Interoperation
 
 These papers all consider the challenges of interoperability between typed and untyped languages, which is at the core of the gradual typing project.  Papers about type checking untyped languages that do not consider interoperation appear in the next section.

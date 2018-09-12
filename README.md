@@ -384,7 +384,13 @@ http://pleiad.dcc.uchile.cl/papers/2014/allendeAl-oopsla2014.pdf
 
 ##### Principal Type Schemes for Gradual Programs
 Ronald Garcia, Matteo Cimini.
-In Proceedings of the 42nd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL '15). ACM, New York, NY, USA, 303-315.
+POPL 2015, ACM, New York, NY, USA, 303-315.
+https://doi.org/10.1145/2775051.2676992
+
+##### Safe & Efficient Gradual Typing for TypeScript
+Aseem Rastogi, Nikhil Swamy, Cédric Fournet, Gavin Bierman, Panagiotis Vekris
+POPL 2015, ACM, New York, NY, USA, 167-180.
+https://doi.org/10.1145/2775051.2676971
 
 ##### Monotonic References for Efficient Gradual Typing
 Jeremy Siek, Michael M. Vitousek, Matteo Cimmini, Sam Tobin-Hochstadt, Ronald Garcia
@@ -428,6 +434,41 @@ http://cimini.info/publications/Gradualizer_Draft.pdf
 Asumu Takikawa, Daniel Feltey, Ben Greenman, Max New, Jan Vitek, Matthias Felleisen
 POPL 2016, ACM, New York, NY, USA, 456-468.
 http://www.ccs.neu.edu/racket/pubs/popl16-tfgnvf.pdf
+
+##### The recursive union of some gradual types
+Jeremy G. Siek, Sam Tobin-Hochstadt.
+A List of Successes That Can Change the World (Wadler Fest), LNCS volume 9600, Springer, 2016, 388-410.
+https://doi.org/10.1007/978-3-319-30936-1_21
+
+##### Blame and coercion: Together again for the first time
+Jeremy G. Siek, Peter Thiemann, Philip Wadler.
+PLDI 2016, ACM, New York, NY, USA, 425-435.
+https://doi.org/10.1145/2737924.2737968
+
+##### Big types in little runtime
+Michael M. Vitousek, Cameron Swords, and Jeremy G. Siek.
+POPL 2017, ACM, New York, NY, USA, 762-774.
+https://doi.org/10.1145/3093333.3009849
+
+##### Gradual refinement types
+Nico Lehmann, Éric Tanter.
+POPL 2017, ACM, New York, NY, USA, 775-788.
+https://doi.org/10.1145/3093333.3009856
+
+##### Automatically generating the dynamic semantics of gradually typed languages
+Matteo Cimini, Jeremy G. Siek.
+POPL 2017, ACM, New York, NY, USA, 789-803.
+https://doi.org/10.1145/3093333.3009863
+
+##### Sums of uncertainty: refinements go gradual
+Khurram A. Jafery, Joshua Dunfield.
+POPL 2017, ACM, New York, NY, USA, 804-817.
+https://doi.org/10.1145/3093333.3009865
+
+##### Migrating gradual types
+John Peter Campora, Sheng Chen, Martin Erwig, Eric Walkingshaw.
+POPL 2018, ACM, New York, NY, USA.
+https://doi.org/10.1145/3158103
 
 # Early Work on Interoperation
 

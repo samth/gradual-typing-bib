@@ -373,6 +373,11 @@ http://pleiad.dcc.uchile.cl/papers/2014/banadosAl-icfp2014.pdf
 Michael M. Vitousek, Andrew Kent, Jeremy G. Siek, Jim Baker
 Proceedings of the 10th ACM Dynamic Languages Symposium (DLS 2014), Portland, OR, USA, October 2014, ACM Press
 
+##### Understanding TypeScript
+Gavin Bierman, Martín Abadi, Mads Torgersen.
+ECOOP 2014, LNCS vol 8586, Springer.
+https://doi.org/10.1007/978-3-662-44202-9_11
+
 ##### Safe & Efficient Gradual Typing for TypeScript
 Aseem Rastogi, Nikhil Swamy, Cédric Fournet, Gavin Bierman, Panagiotis Vekris.
 In Proceedings of the 42nd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL '15). ACM, New York, NY, USA, 167-180.
@@ -470,6 +475,30 @@ PEPM 2018, ACM, New York, NY, USA, 15–29.
 https://doi.org/10.1145/3162068
 https://people.kth.se/~dbro/papers/broman-siek-2018-gradually-typed-symbols.pdf
 
+##### Consistent Subtyping for All
+Ningning Xie, Xuan Bi, Bruno C. d. S. Oliveira.
+ESOP 2018, LNCS vol 10801, Springer.
+https://doi.org/10.1007/978-3-319-89884-1_1
+
+##### On the Cost of Type-Tag Soundness
+Ben Greenman, Zeina Migeed.
+PEPM 2018, ACM, New York, NY, USA.
+https://doi.org/10.1145/3162066
+
+##### Graduality from embedding-projection pairs
+Max S. New, Amal Ahmed.
+ICFP 2018, ACM, New York, NY, USA.
+https://doi.org/10.1145/3236768
+
+##### A spectrum of type soundness and performance
+Ben Greenman, Matthias Felleisen.
+ICFP 2018, ACM, New York, NY, USA.
+https://doi.org/10.1145/3236766
+
+##### Casts and costs: harmonizing safety and performance in gradual typing
+John Peter Campora, Sheng Chen, Eric Walkingshaw.
+ICFP 2018, ACM, New York, NY, USA.
+https://doi.org/10.1145/3236793
 
 # Early Work on Interoperation
 

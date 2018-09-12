@@ -221,7 +221,8 @@ In European Conference on Object-Oriented Programming, ECOOP’10. Springer-Verl
 
 ##### Extending Dylan's type system for better type inference and error detection
 Hannes Mehnert
-Proceedings of the 2010 international conference on Lisp, Pages 1-10, 2010
+Proceedings of the 2010 international conference on Lisp, Pages 1-10, 2010.
+https://doi.org/10.1145/1869643.1869645
 
 ##### Interoperability in a Scripted World: Putting Inheritance and Prototypes Together
 Kathryn E. Gray  
@@ -239,7 +240,6 @@ January 2011
 ##### Languages as Libraries
 Sam Tobin-Hochstadt, Vincent St-Amour, Ryan Culpepper, Matthew Flatt, and Matthias Felleisen
 PLDI 2011
-
 
 ##### Always-available static and dynamic feedback.
 M. Bayne, R. Cook, and M.D. Ernst.  
@@ -273,7 +273,6 @@ International Workshop on Scripts to Programs, 2011
 ##### Application optimization when using gradual typing
 Esteban Allende, Johan Fabry
 Proceedings of the 6th Workshop on Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems, Article No. 3, 2011
-
 
 ##### Foundations for Scripting Languages (Report from Dagstuhl Seminar 12011)
 Edited by Robert Hirschfeld, Shriram Krishnamurthi, and Jan Vitek
@@ -321,6 +320,11 @@ STOP 2012
 Jeremy G. Siek and Ronald Garcia.  
 In Scheme and Functional Programming Workshop, 2012.
 
+##### Method Lookup Simulation with a Gradual Typing Language 
+Esteban Allende, Johan Fabry
+In 2012 31st International Conference of the Chilean Computer Science Society.
+https://doi.org/10.1109/SCCC.2012.7
+
 ##### Gradual Typing for First-class Classes. 
 Asumu Takikawa, T. Stephen Strickland, Christos Dimoulas, Sam Tobin-Hochstadt and Matthias Felleisen.  
 Object Oriented Programming, Systems, Languages and Applications (OOPSLA), October 2012. 
@@ -328,6 +332,11 @@ Object Oriented Programming, Systems, Languages and Applications (OOPSLA), Octob
 ##### Chaperones and Impersonators: Runtime support for reasonable interposition
 T. Stephen Strickland, Sam Tobin-Hochstadt, Robert Bruce Findler and Matthew Flatt.  
 Object Oriented Programming, Systems, Languages and Applications (OOPSLA), October 2012. 
+
+##### Optimizing Jython using invokedynamic and Gradual Typing
+Shashank Bharadwaj.
+Master's Thesis, Department of Electrical, Energy and Computer Engineering, University of Colorado 2012.
+https://scholar.colorado.edu/cgi/viewcontent.cgi?article=1056&context=ecen_gradetds
 
 ##### Constraining Delimited Control with Contracts
 Asumu Takikawa, T. Stephen Strickland, Sam Tobin-Hochstadt.  
@@ -372,6 +381,17 @@ https://doi.org/10.1109/CSF.2013.22
 ##### Calculating threesomes, with blame
 Ronald Garcia.
 ICFP 2013, ACM, New York, NY, USA, 417-428.
+https://doi.org/10.1145/2500365.2500603
+
+##### Deriving interpretations of the gradually-typed lambda calculus
+Álvaro García-Pérez, Pablo Nogueira, Ilya Sergey.
+PEPM 2014, ACM, 157-168.
+https://doi.org/10.1145/2543728.2543742
+
+##### The Problem of Structural Type Tests in a Gradual-Typed Language
+John Tang Boyland.
+FOOL 2014.
+http://www.cs.uwm.edu/faculty/boyland/papers/type-test.pdf
 
 ##### Gradual Typing for Annotated Type Systems
 Peter Thiemann, Luminous Fennell
@@ -397,6 +417,11 @@ Nikhil Swamy, Cedric Fournet, Aseem Rastogi, Karthikeyan Bhargavan, Juan Chen, P
 POPL 2014, ACM, New York, NY, USA 425-437.
 https://doi.org/10.1145/2535838.2535889
 
+##### JavaScript with Blame
+Jakub Zalewski
+Master's Thesis, School of Informatics, University of Edinburgh.
+http://project-archive.inf.ed.ac.uk/msc/20141715/msc_proj.pdf
+
 ##### Safe & Efficient Gradual Typing for TypeScript
 Aseem Rastogi, Nikhil Swamy, Cédric Fournet, Gavin Bierman, Panagiotis Vekris.
 In Proceedings of the 42nd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL '15). ACM, New York, NY, USA, 167-180.
@@ -405,6 +430,11 @@ In Proceedings of the 42nd Annual ACM SIGPLAN-SIGACT Symposium on Principles of 
 Esteban Allende, Johan Fabry, Ronald Garcia, Éric Tanter.
 OOPSLA 2014
 http://pleiad.dcc.uchile.cl/papers/2014/allendeAl-oopsla2014.pdf
+
+##### Gradual evolution
+Neil Savage
+Communications of the ACM, vol. 57 issue 10, 2014.
+https://doi.org/10.1145/2659764
 
 ##### Principal Type Schemes for Gradual Programs
 Ronald Garcia, Matteo Cimini.
@@ -419,6 +449,11 @@ https://doi.org/10.1145/2775051.2676971
 ##### Monotonic References for Efficient Gradual Typing
 Jeremy Siek, Michael M. Vitousek, Matteo Cimmini, Sam Tobin-Hochstadt, Ronald Garcia
 ESOP 2015, LNCS Volume 9032, pp 432-456
+
+##### EMPIRICALLY-DRIVEN DESIGN AND IMPLEMENTATION OF GRADUALTALK
+OSCAR EDWIN ALVAREZ CALLAU ́
+Ph.D. Thesis, University of Chile, 2015.
+http://repositorio.uchile.cl/bitstream/handle/2250/132889/Empirically-driven-design-and-implementation-of-Gradualtalk.pdf?sequence=1
 
 ##### Towards Practical Gradual Typing
 Asumu Takikawa, Daniel Feltey, Earl Dean, Robert Bruce Findler, Matthew Flatt, Sam Tobin-Hochstadt, Matthias Felleisen
@@ -448,6 +483,26 @@ Philip Wadler
 SNAPL 2015, LIPIcs vol. 32, 309-320.
 http://drops.dagstuhl.de/opus/volltexte/2015/5033/
 
+##### A formalization of typed lua
+André Murbach Maidl, Fabio Mascarenhas, Roberto Ierusalimschy
+DLS 2015, ACM, Pages 13-25.
+https://doi.org/10.1145/2816707.2816709
+          
+##### Shifting the Blame
+T. Sekiyama, S. Ueda, A. Igarashi.
+APLAS 2015. LNCS, vol 9458. Springer.
+https://doi.org/10.1007/978-3-319-26529-2_11
+
+##### LJGS: Gradual Security Types for Object-Oriented Languages
+Luminous Fennell and Peter Thiemann.
+ECOOP 2016, Leibniz International Proceedings in Informatics (LIPIcs), Pages 9:1--9:26.
+http://drops.dagstuhl.de/opus/volltexte/2016/6103/
+
+##### Gradual type-and-effect systems
+Felipe Bañados Schwerter, Ronald Garcia, Éric Tanter.
+Journal of Functional Programming, vol. 26, 2016.
+https://doi.org/10.1017/S0956796816000162
+
 ##### Abstracting Gradual Typing
 Ronald Garcia, Alison M. Clark, Éric Tanter
 POPL 2016, ACM, New York, NY, USA, 429-442.
@@ -463,6 +518,31 @@ http://cimini.info/publications/Gradualizer_Draft.pdf
 Asumu Takikawa, Daniel Feltey, Ben Greenman, Max New, Jan Vitek, Matthias Felleisen
 POPL 2016, ACM, New York, NY, USA, 456-468.
 http://www.ccs.neu.edu/racket/pubs/popl16-tfgnvf.pdf
+
+##### Blame Tracking at Higher Fidelity
+Jakub Zalewski
+Master of Science by Research, School of Informatics, University of Edinburgh.
+https://project-archive.inf.ed.ac.uk/msc/20162082/msc_proj.pdf
+
+##### Gradual Pluggable Typing in Java
+Daniel Brotherston.
+Master's Thesis, University of Waterloo.
+https://uwspace.uwaterloo.ca/handle/10012/10409
+
+##### Type Soundness in the Dart Programming Language
+Fabio Strocco.
+Ph.D. Thesis, Aarhus University, 2016.
+https://pure.au.dk/portal/files/108950717/Thesis_Fabio_Strocco.pdf
+
+##### Side effects take the blame
+Felipe Bañados Schwerter
+SLE 2016, ACM, Pages 195-206.
+https://doi.org/10.1145/2997364.2997381
+
+##### ALGT A Framework to Describe and Gradualize Programming Languages
+Pieter Vander Vennet.
+Master's Dissertation, Ghent University.
+http://lib.ugent.be/fulltxt/RUG01/002/376/271/RUG01-002376271_2017_0001_AC.pdf
 
 ##### Theorems for free for free: Parametricity, with and without types
 Amal Ahmed, Dustin Jamner, Jeremy G. Siek, Philip Wadler
@@ -498,6 +578,11 @@ https://doi.org/10.1145/3133879
 Fabian Muehlboeck, Ross Tate
 OOPSLA 2017, ACM, New York, NY, USA
 https://doi.org/10.1145/3133880
+
+#####  A Gradual Interpretation of Union Types
+M. Toro, É Tanter.
+SAS 2017, LNCS vol. 10422, Springer.
+https://doi.org/10.1007/978-3-319-66706-5_19
 
 ##### Gradually typed symbolic expressions
 David Broman, Jeremy G. Siek
@@ -540,6 +625,16 @@ Jeremy G. Siek, Peter Thiemann, Philip Wadler.
 PLDI 2016, ACM, New York, NY, USA, 425-435.
 https://doi.org/10.1145/2737924.2737968
 
+##### Mixed Messages: Measuring Conformance and Non-Interference in TypeScript
+Jack Williams, J. Garrett Morris, Philip Wadler, Jakub Zalewski
+ECOOP 2017, Leibniz International Proceedings in Informatics (LIPIcs), pages 28:1--28:29.
+http://drops.dagstuhl.de/opus/volltexte/2017/7264/
+
+##### Migratory Typing: Ten Years Later
+Sam Tobin-Hochstadt, Matthias Felleisen, Robert Findler, Matthew Flatt, Ben Greenman, Andrew M. Kent, Vincent St-Amour, T. Stephen Strickland, Asumu Takikawa
+SNAPL 2017, Leibniz International Proceedings in Informatics (LIPIcs), pages 17:1--17:17.
+http://drops.dagstuhl.de/opus/volltexte/2017/7120/
+
 ##### Big types in little runtime
 Michael M. Vitousek, Cameron Swords, and Jeremy G. Siek.
 POPL 2017, ACM, New York, NY, USA, 762-774.
@@ -571,9 +666,29 @@ arXiv:1802.06375, February 2018.
 https://arxiv.org/abs/1802.06375
 
 ##### Hazelnut: a bidirectionally typed structure editor calculus
-Cyrus Omar, Ian Voysey, Michael Hilton, Jonathan Aldrich, Matthew A. Hammer
+Cyrus Omar, Ian Voysey, Michael Hilton, Jonathan Aldrich, Matthew A. Hammer.
 POPL 2017, ACM, New York, NY, USA, 86-99.
 https://doi.org/10.1145/3009837.3009900
+
+##### KafKa: Gradual Typing for Objects
+Benjamin Chung, Paley Li, Francesco Zappa Nardelli, Jan Vitek.
+ECOOP 2018, Leibniz International Proceedings in Informatics (LIPIcs), Pages 12:1--12:24.
+http://drops.dagstuhl.de/opus/volltexte/2018/9217/
+
+##### Shallow Types for Insightful Programs: Grace is Optional, Performance is Not
+Richard Roberts, Stefan Marr, Michael Homer, James Noble.
+arXiv:1807.00661
+https://arxiv.org/abs/1807.00661
+
+##### Gradual Liquid Type Inference
+Niki Vazou, Éric Tanter, David Van Horn.
+OOPSLA 2018, ACM.
+https://arxiv.org/abs/1807.02132
+
+##### Gradual Parametricity, Revisited
+Matías Toro, Elizabeth Labrada, Éric Tanter.
+arXiv:1807.04596
+https://arxiv.org/abs/1807.04596
 
 # Early Work on Interoperation
 

@@ -541,6 +541,11 @@ John Peter Campora, Sheng Chen, Martin Erwig, Eric Walkingshaw.
 POPL 2018, ACM, New York, NY, USA.
 https://doi.org/10.1145/3158103
 
+##### Efficient Gradual Typing
+Andre Kuhlenschmidt and Deyaaeldeen Almahallawi and Jeremy G. Siek.
+arXiv:1802.06375, February 2018.
+https://arxiv.org/abs/1802.06375
+
 # Early Work on Interoperation
 
 These papers all consider the challenges of interoperability between typed and untyped languages, which is at the core of the gradual typing project.  Papers about type checking untyped languages that do not consider interoperation appear in the next section.

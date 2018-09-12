@@ -364,6 +364,20 @@ Esteban Allende, Johan Fabry, Éric Tanter
 Proceedings of the 9th ACM Dynamic Languages Symposium (DLS 2013), Indianapolis, IN, USA, October 2013, ACM Press
 http://pleiad.dcc.uchile.cl/papers/2013/allendeAl-dls2013.pdf
 
+##### Gradual Security Typing with References 
+Luminous Fennell, Peter Thiemann.
+Computer Security Foundations Symposium (CSF) 2013, IEEE, 224-239.
+https://doi.org/10.1109/CSF.2013.22
+
+##### Calculating threesomes, with blame
+Ronald Garcia.
+ICFP 2013, ACM, New York, NY, USA, 417-428.
+
+##### Gradual Typing for Annotated Type Systems
+Peter Thiemann, Luminous Fennell
+ESOP 2014, LNCS vol. 8410, Springer.
+https://doi.org/10.1007/978-3-642-54833-8_4
+
 ##### A Theory of Gradual Effect Systems
 Felipe Bañados Schwerter, Ronald Garcia, Éric Tanter.
 International Conference on Functional Programming 2014.
@@ -377,6 +391,11 @@ Proceedings of the 10th ACM Dynamic Languages Symposium (DLS 2014), Portland, OR
 Gavin Bierman, Martín Abadi, Mads Torgersen.
 ECOOP 2014, LNCS vol 8586, Springer.
 https://doi.org/10.1007/978-3-662-44202-9_11
+
+##### Gradual typing embedded securely in JavaScript
+Nikhil Swamy, Cedric Fournet, Aseem Rastogi, Karthikeyan Bhargavan, Juan Chen, Pierre-Yves Strub, Gavin Bierman
+POPL 2014, ACM, New York, NY, USA 425-437.
+https://doi.org/10.1145/2535838.2535889
 
 ##### Safe & Efficient Gradual Typing for TypeScript
 Aseem Rastogi, Nikhil Swamy, Cédric Fournet, Gavin Bierman, Panagiotis Vekris.
@@ -423,6 +442,11 @@ http://pleiad.dcc.uchile.cl/papers/2015/toroTanter-oopsla2015.pdf
 Éric Tanter, Nicolas Tabareau
 Proceedings of the 11th ACM Dynamic Languages Symposium (DLS 2015), pp.26-40, Pittsburgh, PA, USA, October 2015, ACM Press
 http://pleiad.dcc.uchile.cl/papers/2015/tanterTabareau-dls2015.pdf
+
+##### A Complement to Blame
+Philip Wadler
+SNAPL 2015, LIPIcs vol. 32, 309-320.
+http://drops.dagstuhl.de/opus/volltexte/2015/5033/
 
 ##### Abstracting Gradual Typing
 Ronald Garcia, Alison M. Clark, Éric Tanter
@@ -545,6 +569,11 @@ https://doi.org/10.1145/3158103
 Andre Kuhlenschmidt and Deyaaeldeen Almahallawi and Jeremy G. Siek.
 arXiv:1802.06375, February 2018.
 https://arxiv.org/abs/1802.06375
+
+##### Hazelnut: a bidirectionally typed structure editor calculus
+Cyrus Omar, Ian Voysey, Michael Hilton, Jonathan Aldrich, Matthew A. Hammer
+POPL 2017, ACM, New York, NY, USA, 86-99.
+https://doi.org/10.1145/3009837.3009900
 
 # Early Work on Interoperation
 

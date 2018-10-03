@@ -205,8 +205,7 @@ In Symposium on Principles of Programming Languages, 2010.
 Jeremy G. Siek and Philip Wadler.  
 In Symposium on Principles of Programming Languages, 2010.
 
-
-###### Adding types to untyped languages
+##### Adding types to untyped languages
 Matthias Felleisen
 Invited talk at TLDI '10 Proceedings of the 5th ACM SIGPLAN workshop on Types in language design and implementation  
 http://dl.acm.org/citation.cfm?id=1708016.1708017
@@ -250,8 +249,9 @@ Roger Wolff, Ronald Garcia, Éric Tanter, and Jonathan Aldrich.
 In European Conference on Object-Oriented Programming, ECOOP’11. Springer-Verlag, 2011.
 http://pleiad.dcc.uchile.cl/papers/2011/wolffAl-ecoop2011.pdf
 
+##### Foundations of Typestate-Oriented Programming. 
 Ronald Garcia, Éric Tanter, Roger Wolff, Jonathan Aldrich:
-Foundations of Typestate-Oriented Programming. ACM TOPLAS 36(4): 12:1-12:44 (2014)
+ACM TOPLAS 36(4): 12:1-12:44 (2014)
 http://pleiad.dcc.uchile.cl/papers/2014/garciaAl-toplas2014.pdf
 
 ##### Gradual typing for generics.
@@ -689,6 +689,11 @@ https://arxiv.org/abs/1807.02132
 Matías Toro, Elizabeth Labrada, Éric Tanter.
 arXiv:1807.04596
 https://arxiv.org/abs/1807.04596
+
+##### The Behavior of Gradual Types: A User Study
+Preston Tunnell Wilson, Justin Pombrio, Ben Greenman, Shriram Krishnamurthi.
+DLS 2018, ACM.
+http://www.ccis.northeastern.edu/~types/publications/apples-to-apples/tgpk-dls-2018.pdf
 
 # Early Work on Interoperation
 

@@ -685,6 +685,17 @@ Niki Vazou, Éric Tanter, David Van Horn.
 OOPSLA 2018, ACM.
 https://arxiv.org/abs/1807.02132
 
+##### Type-Driven Gradual Security with References: Complete Definitions and Proofs
+Matías Toro, Ronald Garcia, Éric Tanter.
+Technical Report TR/DCC-2018-4, Computer Science Department, University of Chile.
+https://www.dcc.uchile.cl/TR/2018/TR_DCC-20180801-004.pdf
+
+##### Collapsible Contracts: Fixing a Pathology of Gradual Typing
+Daniel Feltey, Ben Greenman, Christophe Scholliers, Robert Bruce Findler, Vincent St-Amour.
+OOPSLA 2018, ACM.
+https://www.eecs.northwestern.edu/~robby/pubs/papers/oopsla2018-fgsfs.pdf
+https://doi.org/10.1145/3276503
+
 ##### Gradual Parametricity, Revisited
 Matías Toro, Elizabeth Labrada, Éric Tanter.
 arXiv:1807.04596

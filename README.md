@@ -690,6 +690,10 @@ Matías Toro, Elizabeth Labrada, Éric Tanter.
 arXiv:1807.04596
 https://arxiv.org/abs/1807.04596
 
+##### Collapsible Contracts: Fixing a Pathology of Gradual Typing
+Daniel Feltey, Ben Greenman, Christophe Scholliers, Robert Bruce Findler, Vincent St-Amour.
+To appear in OOPSLA '18
+
 # Early Work on Interoperation
 
 These papers all consider the challenges of interoperability between typed and untyped languages, which is at the core of the gradual typing project.  Papers about type checking untyped languages that do not consider interoperation appear in the next section.
@@ -941,10 +945,9 @@ Dyla 2014.
 http://www.lifl.fr/dyla14/papers/dyla14-4-typed-lua-an-optional-type-system.pdf
 
 ##### Practical Optional Types for Clojure
-Ambrose Bonnaire-Sergeant, Rowan Davies, and Sam Tobin-Hochstadt.
-To Appear in ESOP '16
+Ambrose Bonnaire-Sergeant, Rowan Davies, and Sam Tobin-Hochstadt.  
+In ESOP 2016: Proceedings of the 25th European Symposium on Programming Languages and Systems, volume 9632 of Lecture Notes in Computer Science, pages 68-94. Springer-Verlag, 2016.  
 http://frenchy64.github.io/papers/esop16-short.pdf
-
 
 ##### Occurrence Typing Modulo Theories
 Andrew M. Kent, David Kempe, and Sam Tobin-Hochstadt.

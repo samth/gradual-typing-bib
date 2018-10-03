@@ -696,6 +696,13 @@
    #:location (proceedings-location dyla #:pages '(1 10))
    #:date 2014))
 
+(define bsdth-esop-2016
+  (make-bib
+   #:title "Practical Optional Types for Clojure"
+   #:author (authors "Ambrose Bonnaire-Sergeant" "Rowan Davies" "Sam Tobin-Hochstadt")
+   #:location (proceedings-location esop #:pages '(68 94))
+   #:date 2016))
+
 (define kkth-pldi-2016
   (make-bib
    #:title "Occurrence Typing Modulo Theories"

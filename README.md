@@ -972,10 +972,9 @@ Dyla 2014.
 http://www.lifl.fr/dyla14/papers/dyla14-4-typed-lua-an-optional-type-system.pdf
 
 ##### Practical Optional Types for Clojure
-Ambrose Bonnaire-Sergeant, Rowan Davies, and Sam Tobin-Hochstadt.
-To Appear in ESOP '16
+Ambrose Bonnaire-Sergeant, Rowan Davies, and Sam Tobin-Hochstadt.  
+In ESOP 2016: Proceedings of the 25th European Symposium on Programming Languages and Systems, volume 9632 of Lecture Notes in Computer Science, pages 68-94. Springer-Verlag, 2016.  
 http://frenchy64.github.io/papers/esop16-short.pdf
-
 
 ##### Occurrence Typing Modulo Theories
 Andrew M. Kent, David Kempe, and Sam Tobin-Hochstadt.

@@ -690,10 +690,6 @@ Matías Toro, Elizabeth Labrada, Éric Tanter.
 arXiv:1807.04596
 https://arxiv.org/abs/1807.04596
 
-##### Collapsible Contracts: Fixing a Pathology of Gradual Typing
-Daniel Feltey, Ben Greenman, Christophe Scholliers, Robert Bruce Findler, Vincent St-Amour.
-To appear in OOPSLA '18
-
 # Early Work on Interoperation
 
 These papers all consider the challenges of interoperability between typed and untyped languages, which is at the core of the gradual typing project.  Papers about type checking untyped languages that do not consider interoperation appear in the next section.

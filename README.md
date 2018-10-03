@@ -748,6 +748,21 @@ João Filipe Belo, Michael Greenberg, Atsushi Igarashi, Benjamin C. Pierce
 Programming Languages and Systems, LNCS Volume 6602, 2011, pp 18-37
 http://www.seas.upenn.edu/~mgree/papers/esop2011sub_fh.pdf
 
+##### Manifest Contracts
+Michael Greenberg.
+PhD Dissertation, University of Pennsylvania, January 2013.
+https://repository.upenn.edu/cgi/viewcontent.cgi?article=1625&context=edissertations
+
+##### Sound and Complete Models of Contracts
+Matthias Blume and David Mcallester.
+Journal of Functional Programming, vol 16, 2006.
+https://doi.org/10.1017/S0956796806005971
+
+##### On Contract Satisfaction in a Higher-order World
+Christos Dimoulas and Matthias Felleisen.
+ACM Transactions on Programming Languages and Systems (TOPLAS), 33(5):1–29, 2011.
+https://doi.org/10.1145/2039346.2039348
+
 ## Typing Untyped Languages
 
 These papers address the challenges of type checking existing untyped programs and programming languages, but do not address the core gradual type checking concern of interoperability.

@@ -425,6 +425,7 @@ http://project-archive.inf.ed.ac.uk/msc/20141715/msc_proj.pdf
 ##### Safe & Efficient Gradual Typing for TypeScript
 Aseem Rastogi, Nikhil Swamy, Cédric Fournet, Gavin Bierman, Panagiotis Vekris.
 In Proceedings of the 42nd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL '15). ACM, New York, NY, USA, 167-180.
+https://doi.org/10.1145/2775051.2676971
 
 ##### Confined Gradual Typing
 Esteban Allende, Johan Fabry, Ronald Garcia, Éric Tanter.
@@ -440,11 +441,6 @@ https://doi.org/10.1145/2659764
 Ronald Garcia, Matteo Cimini.
 POPL 2015, ACM, New York, NY, USA, 303-315.
 https://doi.org/10.1145/2775051.2676992
-
-##### Safe & Efficient Gradual Typing for TypeScript
-Aseem Rastogi, Nikhil Swamy, Cédric Fournet, Gavin Bierman, Panagiotis Vekris
-POPL 2015, ACM, New York, NY, USA, 167-180.
-https://doi.org/10.1145/2775051.2676971
 
 ##### Monotonic References for Efficient Gradual Typing
 Jeremy Siek, Michael M. Vitousek, Matteo Cimmini, Sam Tobin-Hochstadt, Ronald Garcia

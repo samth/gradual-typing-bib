@@ -413,7 +413,7 @@ ECOOP 2014, LNCS vol 8586, Springer.
 https://doi.org/10.1007/978-3-662-44202-9_11
 
 ##### Gradual typing embedded securely in JavaScript
-Nikhil Swamy, Cedric Fournet, Aseem Rastogi, Karthikeyan Bhargavan, Juan Chen, Pierre-Yves Strub, Gavin Bierman
+Nikhil Swamy, Cédric Fournet, Aseem Rastogi, Karthikeyan Bhargavan, Juan Chen, Pierre-Yves Strub, Gavin Bierman
 POPL 2014, ACM, New York, NY, USA 425-437.
 https://doi.org/10.1145/2535838.2535889
 

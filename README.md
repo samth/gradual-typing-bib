@@ -695,12 +695,19 @@ https://doi.org/10.1145/3276503
 ##### Gradual Parametricity, Revisited
 Matías Toro, Elizabeth Labrada, Éric Tanter.
 arXiv:1807.04596
+July 2018
 https://arxiv.org/abs/1807.04596
 
 ##### The Behavior of Gradual Types: A User Study
 Preston Tunnell Wilson, Justin Pombrio, Ben Greenman, Shriram Krishnamurthi.
 DLS 2018, ACM.
 http://www.ccis.northeastern.edu/~types/publications/apples-to-apples/tgpk-dls-2018.pdf
+
+##### Dynamic Type Inference for Gradual Hindley--Milner Typing
+Yusuke Miyazaki, Taro Sekiyama, Atsushi Igarashi.
+arXiv:1810.12619
+October 2018
+https://arxiv.org/abs/1810.12619
 
 # Early Work on Interoperation
 

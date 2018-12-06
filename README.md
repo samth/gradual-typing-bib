@@ -709,6 +709,11 @@ arXiv:1810.12619
 October 2018
 https://arxiv.org/abs/1810.12619
 
+##### Gradual Intersection Types
+Pedro Ângelo, Mário Florido.
+Workshop on Intersection Types and Related Systems (ITRS) 2018.
+http://t-news.cn/Floc2018/FLoC2018-pages/proceedings_paper_216.pdf
+
 # Early Work on Interoperation
 
 These papers all consider the challenges of interoperability between typed and untyped languages, which is at the core of the gradual typing project.  Papers about type checking untyped languages that do not consider interoperation appear in the next section.

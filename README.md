@@ -683,6 +683,8 @@ https://arxiv.org/abs/1807.02132
 
 ##### Type-Driven Gradual Security with References: Complete Definitions and Proofs
 Matías Toro, Ronald Garcia, Éric Tanter.
+POPL 2019, ACM.
+https://doi.org/10.1145/3229061
 Technical Report TR/DCC-2018-4, Computer Science Department, University of Chile.
 https://www.dcc.uchile.cl/TR/2018/TR_DCC-20180801-004.pdf
 
@@ -694,6 +696,8 @@ https://doi.org/10.1145/3276503
 
 ##### Gradual Parametricity, Revisited
 Matías Toro, Elizabeth Labrada, Éric Tanter.
+POPL 2019, ACM.
+https://doi.org/10.1145/3290330
 arXiv:1807.04596
 July 2018
 https://arxiv.org/abs/1807.04596
@@ -705,6 +709,8 @@ http://www.ccis.northeastern.edu/~types/publications/apples-to-apples/tgpk-dls-2
 
 ##### Dynamic Type Inference for Gradual Hindley--Milner Typing
 Yusuke Miyazaki, Taro Sekiyama, Atsushi Igarashi.
+POPL 2019, ACM.
+https://doi.org/10.1145/3290331
 arXiv:1810.12619
 October 2018
 https://arxiv.org/abs/1810.12619
@@ -713,6 +719,17 @@ https://arxiv.org/abs/1810.12619
 Pedro Ângelo, Mário Florido.
 Workshop on Intersection Types and Related Systems (ITRS) 2018.
 http://t-news.cn/Floc2018/FLoC2018-pages/proceedings_paper_216.pdf
+
+##### Gradual Type Theory
+Max S. New, Dan Licata, Amal Ahmed.
+POPL 2019, ACM.
+https://doi.org/10.1145/3290328
+
+##### Gradual typing: a new perspective
+Giuseppe Castagna, Victor Lanvin, Tommaso Petrucciani, Jeremy G. Siek.
+POPL 2019, ACM.
+https://doi.org/10.1145/3290329
+
 
 # Early Work on Interoperation
 

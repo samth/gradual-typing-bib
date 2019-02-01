@@ -730,6 +730,10 @@ Giuseppe Castagna, Victor Lanvin, Tommaso Petrucciani, Jeremy G. Siek.
 POPL 2019, ACM.
 https://doi.org/10.1145/3290329
 
+##### Live Functional Programming with Typed Holes
+Cyrus Omar, Ian Voysey, Ravi Chugh, Matthew Hammer.
+POPL 2019, ACM.
+https://doi.org/10.1145/3290327
 
 # Early Work on Interoperation
 

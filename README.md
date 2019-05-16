@@ -555,6 +555,12 @@ Amal Ahmed, Dustin Jamner, Jeremy G. Siek, Philip Wadler
 ICFP 2017, ACM, New York, NY, USA
 https://doi.org/10.1145/3110283
 
+##### Gradual Security Typing
+Luminous Fennell
+Ph.D. Thesis, University of Freiburg
+October 2017
+https://d-nb.info/1174142367/34
+
 ##### Gradual session types
 Atsushi Igarashi, Peter Thiemann, Vasco T. Vasconcelos, Philip Wadler
 ICFP 2017, ACM, New York, NY, USA
@@ -665,6 +671,7 @@ https://doi.org/10.1145/3158103
 Andre Kuhlenschmidt and Deyaaeldeen Almahallawi and Jeremy G. Siek.
 arXiv:1802.06375, February 2018.
 https://arxiv.org/abs/1802.06375
+(This is an earlier version of the PLDI 2019 paper below.)
 
 ##### KafKa: Gradual Typing for Objects
 Benjamin Chung, Paley Li, Francesco Zappa Nardelli, Jan Vitek.
@@ -720,6 +727,11 @@ Pedro Ângelo, Mário Florido.
 Workshop on Intersection Types and Related Systems (ITRS) 2018.
 http://t-news.cn/Floc2018/FLoC2018-pages/proceedings_paper_216.pdf
 
+##### Monotonic gradual typing in a common calculus
+Benjamin Chung, Jan Vitek.
+ISSTA 2018, ACM.
+https://doi.org/10.1145/3236454.3236475
+
 ##### Gradual Type Theory
 Max S. New, Dan Licata, Amal Ahmed.
 POPL 2019, ACM.
@@ -734,6 +746,25 @@ https://doi.org/10.1145/3290329
 Cyrus Omar, Ian Voysey, Ravi Chugh, Matthew Hammer.
 POPL 2019, ACM.
 https://doi.org/10.1145/3290327
+
+##### Toward Efficient Gradual Typing for Structural Types via Coercions
+Andre Kuhlenschmidt, Deyaaeldeen Almahallawi, Jeremy G. Siek.
+PLDI 2019, ACM.
+https://doi.org/10.1145/3314221.3314627
+https://akuhlens.github.io/paper/pldi19.pdf
+
+##### Gradual C Programming for Typed Lua
+Rafi Shan Turas
+Masters Thesis
+2019
+University of Waterloo
+
+##### Optimizing and Evaluating Transient Gradual Typing
+Michael M. Vitousek, Jeremy G. Siek, Avik Chaudhuri.
+arXiv:1902.07808
+February 2019
+https://arxiv.org/abs/1902.07808
+
 
 # Early Work on Interoperation
 

@@ -35,7 +35,7 @@ These four papers all independently introduce the fundamental idea of gradual ty
 ##### Gradual typing for functional languages.
 Jeremy G. Siek and Walid Taha.  
 In Seventh Workshop on Scheme and Functional Programming, University of Chicago Technical Report TR-2006-06, pages 81–92, September 2006.  
-http://www.cs.colorado.edu/~siek/pubs/pubs/2006/siek06:_gradual.pdf
+http://ecee.colorado.edu/~siek/pubs/pubs/2006/siek06_gradual.pdf
 
 ##### Interlanguage migration: from scripts to programs.
 Sam Tobin-Hochstadt and Matthias Felleisen.  
@@ -108,6 +108,10 @@ http://www.cl.cam.ac.uk/~keg29/inheritance-model/inheritance.pdf
 Jeremy G. Siek, Manish Vachharajani  
 DLS '08 Proceedings of the 2008 symposium on Dynamic languages, 2008  
 http://ecee.colorado.edu/~siek/dls08igtlc.pdf
+
+##### The Design and Implementation of Typed Scheme
+Sam Tobin-Hochstadt and Matthias Felleisen.  
+To appear in Higher-Order and Symbolic Computation.
 
 ##### Well-typed programs can’t be blamed
 Philip Wadler and Robert Bruce Findler  
@@ -205,8 +209,7 @@ In Symposium on Principles of Programming Languages, 2010.
 Jeremy G. Siek and Philip Wadler.  
 In Symposium on Principles of Programming Languages, 2010.
 
-
-###### Adding types to untyped languages
+##### Adding types to untyped languages
 Matthias Felleisen
 Invited talk at TLDI '10 Proceedings of the 5th ACM SIGPLAN workshop on Types in language design and implementation  
 http://dl.acm.org/citation.cfm?id=1708016.1708017
@@ -221,7 +224,8 @@ In European Conference on Object-Oriented Programming, ECOOP’10. Springer-Verl
 
 ##### Extending Dylan's type system for better type inference and error detection
 Hannes Mehnert
-Proceedings of the 2010 international conference on Lisp, Pages 1-10, 2010
+Proceedings of the 2010 international conference on Lisp, Pages 1-10, 2010.
+https://doi.org/10.1145/1869643.1869645
 
 ##### Interoperability in a Scripted World: Putting Inheritance and Prototypes Together
 Kathryn E. Gray  
@@ -240,15 +244,14 @@ January 2011
 Sam Tobin-Hochstadt, Vincent St-Amour, Ryan Culpepper, Matthew Flatt, and Matthias Felleisen
 PLDI 2011
 
-
 ##### Always-available static and dynamic feedback.
 M. Bayne, R. Cook, and M.D. Ernst.  
 In International Conference on Software Engineering, 2011.
 
 ##### Gradual typestate.
-Roger Wolff, Ronald Garcia, Eric Tanter, and Jonathan Aldrich.  
+Roger Wolff, Ronald Garcia, Éric Tanter, and Jonathan Aldrich.  
 In European Conference on Object-Oriented Programming, ECOOP’11. Springer-Verlag, 2011.
-
+http://pleiad.dcc.uchile.cl/papers/2011/wolffAl-ecoop2011.pdf
 
 ##### Gradual typing for generics.
 Lintaro Ina and Atsushi Igarashi.  
@@ -269,7 +272,6 @@ International Workshop on Scripts to Programs, 2011
 ##### Application optimization when using gradual typing
 Esteban Allende, Johan Fabry
 Proceedings of the 6th Workshop on Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems, Article No. 3, 2011
-
 
 ##### Foundations for Scripting Languages (Report from Dagstuhl Seminar 12011)
 Edited by Robert Hirschfeld, Shriram Krishnamurthi, and Jan Vitek
@@ -317,6 +319,11 @@ STOP 2012
 Jeremy G. Siek and Ronald Garcia.  
 In Scheme and Functional Programming Workshop, 2012.
 
+##### Method Lookup Simulation with a Gradual Typing Language 
+Esteban Allende, Johan Fabry
+In 2012 31st International Conference of the Chilean Computer Science Society.
+https://doi.org/10.1109/SCCC.2012.7
+
 ##### Gradual Typing for First-class Classes. 
 Asumu Takikawa, T. Stephen Strickland, Christos Dimoulas, Sam Tobin-Hochstadt and Matthias Felleisen.  
 Object Oriented Programming, Systems, Languages and Applications (OOPSLA), October 2012. 
@@ -324,6 +331,16 @@ Object Oriented Programming, Systems, Languages and Applications (OOPSLA), Octob
 ##### Chaperones and Impersonators: Runtime support for reasonable interposition
 T. Stephen Strickland, Sam Tobin-Hochstadt, Robert Bruce Findler and Matthew Flatt.  
 Object Oriented Programming, Systems, Languages and Applications (OOPSLA), October 2012. 
+
+##### Optimizing Jython using invokedynamic and Gradual Typing
+Shashank Bharadwaj.
+Master's Thesis, Department of Electrical, Energy and Computer Engineering, University of Colorado 2012.
+https://scholar.colorado.edu/cgi/viewcontent.cgi?article=1056&context=ecen_gradetds
+
+##### Gradual Typing for Mutable Objects
+Jeremy G. Siek, Michael M. Vitousek, and Shashank Bharadwaj.  
+Unpublished manuscript, 2012.  
+http://ecee.colorado.edu/~siek/gtmo.pdf
 
 ##### Constraining Delimited Control with Contracts
 Asumu Takikawa, T. Stephen Strickland, Sam Tobin-Hochstadt.  
@@ -335,16 +352,7 @@ Trends in Functional Programming, LNCS Volume 7829, 2013, pp 37-52
 
 ##### The Ruby Type Checker 
 Brianna M. Ren, John Toman, T. Stephen Strickland, Jeffrey S. Foster  
-OOPS 2013
-
-##### The Design and Implementation of Typed Scheme
-Sam Tobin-Hochstadt and Matthias Felleisen.  
-To appear in Higher-Order and Symbolic Computation. 
-
-##### Gradual Typing for Mutable Objects
-Jeremy G. Siek, Michael M. Vitousek, and Shashank Bharadwaj.  
-Unpublished manuscript, 2012.  
-http://ecee.colorado.edu/~siek/gtmo.pdf
+OOPS 2013 
 
 ##### A Gradual Polymorphic Type System with Subtyping for Prolog
 Spyros Hadjichristodoulou and David Warren
@@ -356,22 +364,407 @@ Science of Computer Programming (2013).
 http://pleiad.dcc.uchile.cl/papers/2013/allendeAl-scp2013.pdf
 
 ##### Cast Insertion Strategies for Gradually-Typed Objects
-Esteban Allende, Johan Fabry, Éric Tanter
+Esteban Allende, Johan Fabry, Éric Tanter
 Proceedings of the 9th ACM Dynamic Languages Symposium (DLS 2013), Indianapolis, IN, USA, October 2013, ACM Press
 http://pleiad.dcc.uchile.cl/papers/2013/allendeAl-dls2013.pdf
+
+##### Gradual Security Typing with References 
+Luminous Fennell, Peter Thiemann.
+Computer Security Foundations Symposium (CSF) 2013, IEEE, 224-239.
+https://doi.org/10.1109/CSF.2013.22
+
+##### Calculating threesomes, with blame
+Ronald Garcia.
+ICFP 2013, ACM, New York, NY, USA, 417-428.
+https://doi.org/10.1145/2500365.2500603
+
+##### Foundations of Typestate-Oriented Programming. 
+Ronald Garcia, Éric Tanter, Roger Wolff, Jonathan Aldrich:
+ACM TOPLAS 36(4): 12:1-12:44 (2014)
+http://pleiad.dcc.uchile.cl/papers/2014/garciaAl-toplas2014.pdf
+
+##### Deriving interpretations of the gradually-typed lambda calculus
+Álvaro García-Pérez, Pablo Nogueira, Ilya Sergey.
+PEPM 2014, ACM, 157-168.
+https://doi.org/10.1145/2543728.2543742
+
+##### The Problem of Structural Type Tests in a Gradual-Typed Language
+John Tang Boyland.
+FOOL 2014.
+http://www.cs.uwm.edu/faculty/boyland/papers/type-test.pdf
+
+##### Gradual Typing for Annotated Type Systems
+Peter Thiemann, Luminous Fennell
+ESOP 2014, LNCS vol. 8410, Springer.
+https://doi.org/10.1007/978-3-642-54833-8_4
 
 ##### A Theory of Gradual Effect Systems
 Felipe Bañados Schwerter, Ronald Garcia, Éric Tanter.
 International Conference on Functional Programming 2014.
 http://pleiad.dcc.uchile.cl/papers/2014/banadosAl-icfp2014.pdf
 
+##### Design and Evaluation of Gradual Typing for Python
+Michael M. Vitousek, Andrew Kent, Jeremy G. Siek, Jim Baker
+Proceedings of the 10th ACM Dynamic Languages Symposium (DLS 2014), Portland, OR, USA, October 2014, ACM Press
+
+##### Understanding TypeScript
+Gavin Bierman, Martín Abadi, Mads Torgersen.
+ECOOP 2014, LNCS vol 8586, Springer.
+https://doi.org/10.1007/978-3-662-44202-9_11
+
+##### Gradual typing embedded securely in JavaScript
+Nikhil Swamy, Cédric Fournet, Aseem Rastogi, Karthikeyan Bhargavan, Juan Chen, Pierre-Yves Strub, Gavin Bierman
+POPL 2014, ACM, New York, NY, USA 425-437.
+https://doi.org/10.1145/2535838.2535889
+
+##### JavaScript with Blame
+Jakub Zalewski
+Master's Thesis, School of Informatics, University of Edinburgh.
+http://project-archive.inf.ed.ac.uk/msc/20141715/msc_proj.pdf
+
+##### Confined Gradual Typing
+Esteban Allende, Johan Fabry, Ronald Garcia, Éric Tanter.
+OOPSLA 2014
+http://pleiad.dcc.uchile.cl/papers/2014/allendeAl-oopsla2014.pdf
+
+##### Gradual evolution
+Neil Savage
+Communications of the ACM, vol. 57 issue 10, 2014.
+https://doi.org/10.1145/2659764
+
 ##### Safe & Efficient Gradual Typing for TypeScript
 Aseem Rastogi, Nikhil Swamy, Cédric Fournet, Gavin Bierman, Panagiotis Vekris.
-Principles of Programming Languages 2015 (to appear)
+In Proceedings of the 42nd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL '15). ACM, New York, NY, USA, 167-180.
+https://doi.org/10.1145/2775051.2676971
 
 ##### Principal Type Schemes for Gradual Programs
 Ronald Garcia, Matteo Cimini.
-Principles of Programming Languages 2015 (to appear)
+POPL 2015, ACM, New York, NY, USA, 303-315.
+https://doi.org/10.1145/2775051.2676992
+
+##### Monotonic References for Efficient Gradual Typing
+Jeremy Siek, Michael M. Vitousek, Matteo Cimmini, Sam Tobin-Hochstadt, Ronald Garcia
+ESOP 2015, LNCS Volume 9032, pp 432-456
+
+##### EMPIRICALLY-DRIVEN DESIGN AND IMPLEMENTATION OF GRADUALTALK
+OSCAR EDWIN ALVAREZ CALLAU ́
+Ph.D. Thesis, University of Chile, 2015.
+http://repositorio.uchile.cl/bitstream/handle/2250/132889/Empirically-driven-design-and-implementation-of-Gradualtalk.pdf?sequence=1
+
+##### Towards Practical Gradual Typing
+Asumu Takikawa, Daniel Feltey, Earl Dean, Robert Bruce Findler, Matthew Flatt, Sam Tobin-Hochstadt, Matthias Felleisen
+ECOOP 2015, LIPIcs Volume 37, pp 4-27
+
+##### Concrete Types for TypeScript
+Gregor Richards, Francesco Zappa Nardelli, Jan Vitek
+ECOOP 2015, LIPIcs Volume 37, pp 76-100
+
+##### Refined Criteria for Gradual Typing
+Jeremy G. Siek, Michael M. Vitousek, Matteo Cimini, John Tang Boyland
+SNAPL 2015, LIPIcs Volume 32, pp 274-293
+http://drops.dagstuhl.de/opus/volltexte/2015/5031/
+
+##### Customizable Gradual Polymorphic Effects for Scala
+Matías Toro, Éric Tanter
+In Proceedings of the 2015 ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications (pp. 935-953)
+http://pleiad.dcc.uchile.cl/papers/2015/toroTanter-oopsla2015.pdf
+
+##### Gradual Certified Programming in Coq
+Éric Tanter, Nicolas Tabareau
+Proceedings of the 11th ACM Dynamic Languages Symposium (DLS 2015), pp.26-40, Pittsburgh, PA, USA, October 2015, ACM Press
+http://pleiad.dcc.uchile.cl/papers/2015/tanterTabareau-dls2015.pdf
+
+##### A Complement to Blame
+Philip Wadler
+SNAPL 2015, LIPIcs vol. 32, 309-320.
+http://drops.dagstuhl.de/opus/volltexte/2015/5033/
+
+##### A formalization of typed lua
+André Murbach Maidl, Fabio Mascarenhas, Roberto Ierusalimschy
+DLS 2015, ACM, Pages 13-25.
+https://doi.org/10.1145/2816707.2816709
+          
+##### Shifting the Blame
+T. Sekiyama, S. Ueda, A. Igarashi.
+APLAS 2015. LNCS, vol 9458. Springer.
+https://doi.org/10.1007/978-3-319-26529-2_11
+
+##### LJGS: Gradual Security Types for Object-Oriented Languages
+Luminous Fennell and Peter Thiemann.
+ECOOP 2016, Leibniz International Proceedings in Informatics (LIPIcs), Pages 9:1--9:26.
+http://drops.dagstuhl.de/opus/volltexte/2016/6103/
+
+##### Gradual type-and-effect systems
+Felipe Bañados Schwerter, Ronald Garcia, Éric Tanter.
+Journal of Functional Programming, vol. 26, 2016.
+https://doi.org/10.1017/S0956796816000162
+
+##### Abstracting Gradual Typing
+Ronald Garcia, Alison M. Clark, Éric Tanter
+POPL 2016, ACM, New York, NY, USA, 429-442.
+http://dl.acm.org/citation.cfm?id=2837670
+http://pleiad.dcc.uchile.cl/papers/2016/garciaAl-popl2016.pdf
+
+##### The Gradualizer: a methodology and algorithm for generating gradual type systems
+Matteo Cimini, Jeremy Siek
+POPL 2016, ACM, New York, NY, USA, 443-455.
+http://cimini.info/publications/Gradualizer_Draft.pdf
+
+##### Is Sound Gradual Typing Dead?
+Asumu Takikawa, Daniel Feltey, Ben Greenman, Max New, Jan Vitek, Matthias Felleisen
+POPL 2016, ACM, New York, NY, USA, 456-468.
+http://www.ccs.neu.edu/racket/pubs/popl16-tfgnvf.pdf
+
+##### Blame Tracking at Higher Fidelity
+Jakub Zalewski
+Master of Science by Research, School of Informatics, University of Edinburgh.
+https://project-archive.inf.ed.ac.uk/msc/20162082/msc_proj.pdf
+
+##### Gradual Pluggable Typing in Java
+Daniel Brotherston.
+Master's Thesis, University of Waterloo.
+https://uwspace.uwaterloo.ca/handle/10012/10409
+
+##### Type Soundness in the Dart Programming Language
+Fabio Strocco.
+Ph.D. Thesis, Aarhus University, 2016.
+https://pure.au.dk/portal/files/108950717/Thesis_Fabio_Strocco.pdf
+
+##### Side effects take the blame
+Felipe Bañados Schwerter
+SLE 2016, ACM, Pages 195-206.
+https://doi.org/10.1145/2997364.2997381
+
+##### The recursive union of some gradual types
+Jeremy G. Siek, Sam Tobin-Hochstadt.
+A List of Successes That Can Change the World (Wadler Fest), LNCS volume 9600, Springer, 2016, 388-410.
+https://doi.org/10.1007/978-3-319-30936-1_21
+
+##### Blame and coercion: Together again for the first time
+Jeremy G. Siek, Peter Thiemann, Philip Wadler.
+PLDI 2016, ACM, New York, NY, USA, 425-435.
+https://doi.org/10.1145/2737924.2737968
+
+##### ALGT A Framework to Describe and Gradualize Programming Languages
+Pieter Vander Vennet.
+Master's Dissertation, Ghent University.
+http://lib.ugent.be/fulltxt/RUG01/002/376/271/RUG01-002376271_2017_0001_AC.pdf
+
+##### Theorems for free for free: Parametricity, with and without types
+Amal Ahmed, Dustin Jamner, Jeremy G. Siek, Philip Wadler
+ICFP 2017, ACM, New York, NY, USA
+https://doi.org/10.1145/3110283
+
+##### Gradual Security Typing
+Luminous Fennell
+Ph.D. Thesis, University of Freiburg
+October 2017
+https://d-nb.info/1174142367/34
+
+##### Gradual session types
+Atsushi Igarashi, Peter Thiemann, Vasco T. Vasconcelos, Philip Wadler
+ICFP 2017, ACM, New York, NY, USA
+https://doi.org/10.1145/3110282
+
+##### On polymorphic gradual typing
+Yuu Igarashi, Taro Sekiyama, Atsushi Igarashi
+ICFP 2017, ACM, New York, NY, USA
+https://doi.org/10.1145/3110284
+
+##### Gradual typing with union and intersection types
+Giuseppe Castagna, Victor Lanvin
+ICFP 2017, ACM, New York, NY, USA
+https://doi.org/10.1145/3110285
+
+##### Sound gradual typing: Only mostly dead
+Spenser A. Bauman, Sam Tobin-Hochstadt, Jeremy G. Siek, Carl Friedrich Bolz-Tereick
+OOPSLA 2017, ACM, New York, NY, USA
+https://doi.org/10.1145/3133878
+
+##### The VM already knew that: leveraging compile-time knowledge to optimize gradual typing
+Gregor Richards, Ellen Arteca, Alexi Turcotte
+OOPSLA 2017, ACM, New York, NY, USA
+https://doi.org/10.1145/3133879
+
+##### Sound gradual typing is nominally alive and well
+Fabian Muehlboeck, Ross Tate
+OOPSLA 2017, ACM, New York, NY, USA
+https://doi.org/10.1145/3133880
+
+#####  A Gradual Interpretation of Union Types
+M. Toro, É Tanter.
+SAS 2017, LNCS vol. 10422, Springer.
+https://doi.org/10.1007/978-3-319-66706-5_19
+
+##### Mixed Messages: Measuring Conformance and Non-Interference in TypeScript
+Jack Williams, J. Garrett Morris, Philip Wadler, Jakub Zalewski
+ECOOP 2017, Leibniz International Proceedings in Informatics (LIPIcs), pages 28:1--28:29.
+http://drops.dagstuhl.de/opus/volltexte/2017/7264/
+
+##### Migratory Typing: Ten Years Later
+Sam Tobin-Hochstadt, Matthias Felleisen, Robert Findler, Matthew Flatt, Ben Greenman, Andrew M. Kent, Vincent St-Amour, T. Stephen Strickland, Asumu Takikawa
+SNAPL 2017, Leibniz International Proceedings in Informatics (LIPIcs), pages 17:1--17:17.
+http://drops.dagstuhl.de/opus/volltexte/2017/7120/
+
+##### Big types in little runtime
+Michael M. Vitousek, Cameron Swords, and Jeremy G. Siek.
+POPL 2017, ACM, New York, NY, USA, 762-774.
+https://doi.org/10.1145/3093333.3009849
+
+##### Gradual refinement types
+Nico Lehmann, Éric Tanter.
+POPL 2017, ACM, New York, NY, USA, 775-788.
+https://doi.org/10.1145/3093333.3009856
+
+##### Automatically generating the dynamic semantics of gradually typed languages
+Matteo Cimini, Jeremy G. Siek.
+POPL 2017, ACM, New York, NY, USA, 789-803.
+https://doi.org/10.1145/3093333.3009863
+
+##### Sums of uncertainty: refinements go gradual
+Khurram A. Jafery, Joshua Dunfield.
+POPL 2017, ACM, New York, NY, USA, 804-817.
+https://doi.org/10.1145/3093333.3009865
+
+##### Hazelnut: a bidirectionally typed structure editor calculus
+Cyrus Omar, Ian Voysey, Michael Hilton, Jonathan Aldrich, Matthew A. Hammer.
+POPL 2017, ACM, New York, NY, USA, 86-99.
+https://doi.org/10.1145/3009837.3009900
+
+##### Gradually typed symbolic expressions
+David Broman, Jeremy G. Siek
+PEPM 2018, ACM, New York, NY, USA, 15–29.
+https://doi.org/10.1145/3162068
+https://people.kth.se/~dbro/papers/broman-siek-2018-gradually-typed-symbols.pdf
+
+##### Consistent Subtyping for All
+Ningning Xie, Xuan Bi, Bruno C. d. S. Oliveira.
+ESOP 2018, LNCS vol 10801, Springer.
+https://doi.org/10.1007/978-3-319-89884-1_1
+
+##### On the Cost of Type-Tag Soundness
+Ben Greenman, Zeina Migeed.
+PEPM 2018, ACM, New York, NY, USA.
+https://doi.org/10.1145/3162066
+
+##### Graduality from embedding-projection pairs
+Max S. New, Amal Ahmed.
+ICFP 2018, ACM, New York, NY, USA.
+https://doi.org/10.1145/3236768
+
+##### A spectrum of type soundness and performance
+Ben Greenman, Matthias Felleisen.
+ICFP 2018, ACM, New York, NY, USA.
+https://doi.org/10.1145/3236766
+
+##### Casts and costs: harmonizing safety and performance in gradual typing
+John Peter Campora, Sheng Chen, Eric Walkingshaw.
+ICFP 2018, ACM, New York, NY, USA.
+https://doi.org/10.1145/3236793
+
+##### Migrating gradual types
+John Peter Campora, Sheng Chen, Martin Erwig, Eric Walkingshaw.
+POPL 2018, ACM, New York, NY, USA.
+https://doi.org/10.1145/3158103
+
+##### Efficient Gradual Typing
+Andre Kuhlenschmidt and Deyaaeldeen Almahallawi and Jeremy G. Siek.
+arXiv:1802.06375, February 2018.
+https://arxiv.org/abs/1802.06375
+(This is an earlier version of the PLDI 2019 paper below.)
+
+##### KafKa: Gradual Typing for Objects
+Benjamin Chung, Paley Li, Francesco Zappa Nardelli, Jan Vitek.
+ECOOP 2018, Leibniz International Proceedings in Informatics (LIPIcs), Pages 12:1--12:24.
+http://drops.dagstuhl.de/opus/volltexte/2018/9217/
+
+##### Shallow Types for Insightful Programs: Grace is Optional, Performance is Not
+Richard Roberts, Stefan Marr, Michael Homer, James Noble.
+arXiv:1807.00661
+https://arxiv.org/abs/1807.00661
+
+##### Gradual Liquid Type Inference
+Niki Vazou, Éric Tanter, David Van Horn.
+OOPSLA 2018, ACM.
+https://arxiv.org/abs/1807.02132
+
+##### Type-Driven Gradual Security with References: Complete Definitions and Proofs
+Matías Toro, Ronald Garcia, Éric Tanter.
+POPL 2019, ACM.
+https://doi.org/10.1145/3229061
+Technical Report TR/DCC-2018-4, Computer Science Department, University of Chile.
+https://www.dcc.uchile.cl/TR/2018/TR_DCC-20180801-004.pdf
+
+##### Collapsible Contracts: Fixing a Pathology of Gradual Typing
+Daniel Feltey, Ben Greenman, Christophe Scholliers, Robert Bruce Findler, Vincent St-Amour.
+OOPSLA 2018, ACM.
+https://www.eecs.northwestern.edu/~robby/pubs/papers/oopsla2018-fgsfs.pdf
+https://doi.org/10.1145/3276503
+
+##### Gradual Parametricity, Revisited
+Matías Toro, Elizabeth Labrada, Éric Tanter.
+POPL 2019, ACM.
+https://doi.org/10.1145/3290330
+arXiv:1807.04596
+July 2018
+https://arxiv.org/abs/1807.04596
+
+##### The Behavior of Gradual Types: A User Study
+Preston Tunnell Wilson, Justin Pombrio, Ben Greenman, Shriram Krishnamurthi.
+DLS 2018, ACM.
+http://www.ccis.northeastern.edu/~types/publications/apples-to-apples/tgpk-dls-2018.pdf
+
+##### Dynamic Type Inference for Gradual Hindley--Milner Typing
+Yusuke Miyazaki, Taro Sekiyama, Atsushi Igarashi.
+POPL 2019, ACM.
+https://doi.org/10.1145/3290331
+arXiv:1810.12619
+October 2018
+https://arxiv.org/abs/1810.12619
+
+##### Gradual Intersection Types
+Pedro Ângelo, Mário Florido.
+Workshop on Intersection Types and Related Systems (ITRS) 2018.
+http://t-news.cn/Floc2018/FLoC2018-pages/proceedings_paper_216.pdf
+
+##### Monotonic gradual typing in a common calculus
+Benjamin Chung, Jan Vitek.
+ISSTA 2018, ACM.
+https://doi.org/10.1145/3236454.3236475
+
+##### Gradual Type Theory
+Max S. New, Dan Licata, Amal Ahmed.
+POPL 2019, ACM.
+https://doi.org/10.1145/3290328
+
+##### Gradual typing: a new perspective
+Giuseppe Castagna, Victor Lanvin, Tommaso Petrucciani, Jeremy G. Siek.
+POPL 2019, ACM.
+https://doi.org/10.1145/3290329
+
+##### Live Functional Programming with Typed Holes
+Cyrus Omar, Ian Voysey, Ravi Chugh, Matthew Hammer.
+POPL 2019, ACM.
+https://doi.org/10.1145/3290327
+
+##### Toward Efficient Gradual Typing for Structural Types via Coercions
+Andre Kuhlenschmidt, Deyaaeldeen Almahallawi, Jeremy G. Siek.
+PLDI 2019, ACM.
+https://doi.org/10.1145/3314221.3314627
+https://akuhlens.github.io/paper/pldi19.pdf
+
+##### Gradual C Programming for Typed Lua
+Rafi Shan Turas
+Masters Thesis
+2019
+University of Waterloo
+
+##### Optimizing and Evaluating Transient Gradual Typing
+Michael M. Vitousek, Jeremy G. Siek, Avik Chaudhuri.
+arXiv:1902.07808
+February 2019
+https://arxiv.org/abs/1902.07808
+
 
 # Early Work on Interoperation
 
@@ -431,6 +824,21 @@ João Filipe Belo, Michael Greenberg, Atsushi Igarashi, Benjamin C. Pierce
 Programming Languages and Systems, LNCS Volume 6602, 2011, pp 18-37
 http://www.seas.upenn.edu/~mgree/papers/esop2011sub_fh.pdf
 
+##### Manifest Contracts
+Michael Greenberg.
+PhD Dissertation, University of Pennsylvania, January 2013.
+https://repository.upenn.edu/cgi/viewcontent.cgi?article=1625&context=edissertations
+
+##### Sound and Complete Models of Contracts
+Matthias Blume and David Mcallester.
+Journal of Functional Programming, vol 16, 2006.
+https://doi.org/10.1017/S0956796806005971
+
+##### On Contract Satisfaction in a Higher-order World
+Christos Dimoulas and Matthias Felleisen.
+ACM Transactions on Programming Languages and Systems (TOPLAS), 33(5):1–29, 2011.
+https://doi.org/10.1145/2039346.2039348
+
 ## Typing Untyped Languages
 
 These papers address the challenges of type checking existing untyped programs and programming languages, but do not address the core gradual type checking concern of interoperability.
@@ -446,6 +854,11 @@ POPL '81 Proceedings of the 8th ACM SIGPLAN-SIGACT symposium on Principles of pr
 ##### Creating efficient systems for object-oriented languages
 Norihisa Suzuki and Minoru Terada  
 POPL '84 Proceedings of the 11th ACM SIGACT-SIGPLAN symposium on Principles of programming languages 
+
+##### TS: An Optimizing Compiler for Smalltalk
+Ralph E. Johnson and Justin O. Graver and Lawrence W. Zurawski
+OOPSLA '88: Proceedings of the 3rd annual ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications, pages 18-26.
+http://dl.acm.org/citation.cfm?id=62086
 
 #####  Static type inference in a dynamically typed language
 Alexander Aiken and Brian R. Murphy  
@@ -536,6 +949,12 @@ Master’s thesis, Massachusetts Institute of Technology, Cambridge, Massachuset
 Gary T. Leavens, Curtis Clifton, and Brian Dorn.  
 Technical Report 05-18a, Iowa State University, 2005.
 
+#####  Practical Type Inference Based on Success Typings
+Tobias Lindahl and Konstantinos Sagonas
+International Symposium on Principles and Practice of Declarative Programming (PPDP), 2006.
+http://www.it.uu.se/research/group/hipe/papers/succ_types.pdf
+
+
 ## Type Systems for Gradual-typing
 
 This work presents type systems for untyped languages, influenced by gradual typing work on interoperation, but doesn't explicitly deal with typed/untyped interoperation.
@@ -611,3 +1030,12 @@ http://cloud.github.com/downloads/frenchy64/papers/ambrose-honours.pdf
 André Murbach Maidl, Fabio Mascarenhas, Roberto Ierusalimschy.
 Dyla 2014.
 http://www.lifl.fr/dyla14/papers/dyla14-4-typed-lua-an-optional-type-system.pdf
+
+##### Practical Optional Types for Clojure
+Ambrose Bonnaire-Sergeant, Rowan Davies, and Sam Tobin-Hochstadt.  
+In ESOP 2016: Proceedings of the 25th European Symposium on Programming Languages and Systems, volume 9632 of Lecture Notes in Computer Science, pages 68-94. Springer-Verlag, 2016.  
+http://frenchy64.github.io/papers/esop16-short.pdf
+
+##### Occurrence Typing Modulo Theories
+Andrew M. Kent, David Kempe, and Sam Tobin-Hochstadt.
+In Proceedings of the ACM SIGPLAN 2016 conference on Programming Language Design and Implementation (PLDI '16)  

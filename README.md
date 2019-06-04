@@ -545,6 +545,12 @@ Jeremy G. Siek, Peter Thiemann, Philip Wadler.
 PLDI 2016, ACM, New York, NY, USA, 425-435.
 https://doi.org/10.1145/2737924.2737968
 
+##### Partial Type Equivalences for Verified Dependent Interoperability
+Pierre-Evariste Dagand, Nicolas Tabareau, Éric Tanter
+ICFP 2016, ACM.
+http://pleiad.dcc.uchile.cl/papers/2016/dagandAl-icfp2016.pdf
+http://dx.doi.org/10.1145/2951913.2951933
+
 ##### ALGT A Framework to Describe and Gradualize Programming Languages
 Pieter Vander Vennet.
 Master's Dissertation, Ghent University.
@@ -631,6 +637,12 @@ Cyrus Omar, Ian Voysey, Michael Hilton, Jonathan Aldrich, Matthew A. Hammer.
 POPL 2017, ACM, New York, NY, USA, 86-99.
 https://doi.org/10.1145/3009837.3009900
 
+##### Foundations of Dependent Interoperability
+Pierre-Évariste Dagand, Nicolas Tabareau, Éric Tanter
+JFP 2018, Cambridge Univ. Press.
+http://pleiad.dcc.uchile.cl/papers/2018/dagandAl-jfp2018.pdf
+http://dx.doi.org/10.1017/S0956796818000011
+
 ##### Gradually typed symbolic expressions
 David Broman, Jeremy G. Siek
 PEPM 2018, ACM, New York, NY, USA, 15–29.
@@ -667,6 +679,12 @@ John Peter Campora, Sheng Chen, Martin Erwig, Eric Walkingshaw.
 POPL 2018, ACM, New York, NY, USA.
 https://doi.org/10.1145/3158103
 
+##### Gradual Program Verification
+Johannes Bader, Jonathan Aldrich, Éric Tanter
+VMCAI 2018, Springer
+http://pleiad.dcc.uchile.cl/papers/2018/baderAl-vmcai2018.pdf
+https://doi.org/10.1007/978-3-319-73721-8_2
+
 ##### Efficient Gradual Typing
 Andre Kuhlenschmidt and Deyaaeldeen Almahallawi and Jeremy G. Siek.
 arXiv:1802.06375, February 2018.
@@ -688,12 +706,11 @@ Niki Vazou, Éric Tanter, David Van Horn.
 OOPSLA 2018, ACM.
 https://arxiv.org/abs/1807.02132
 
-##### Type-Driven Gradual Security with References: Complete Definitions and Proofs
+##### Type-Driven Gradual Security with References
 Matías Toro, Ronald Garcia, Éric Tanter.
-POPL 2019, ACM.
+TOPLAS 2018, ACM.
+http://pleiad.dcc.uchile.cl/papers/2018/toroAl-toplas2018.pdf
 https://doi.org/10.1145/3229061
-Technical Report TR/DCC-2018-4, Computer Science Department, University of Chile.
-https://www.dcc.uchile.cl/TR/2018/TR_DCC-20180801-004.pdf
 
 ##### Collapsible Contracts: Fixing a Pathology of Gradual Typing
 Daniel Feltey, Ben Greenman, Christophe Scholliers, Robert Bruce Findler, Vincent St-Amour.
@@ -705,8 +722,6 @@ https://doi.org/10.1145/3276503
 Matías Toro, Elizabeth Labrada, Éric Tanter.
 POPL 2019, ACM.
 https://doi.org/10.1145/3290330
-arXiv:1807.04596
-July 2018
 https://arxiv.org/abs/1807.04596
 
 ##### The Behavior of Gradual Types: A User Study

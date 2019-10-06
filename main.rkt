@@ -68,7 +68,8 @@
   (define/short icalp "ICALP" (string-append International "Colloquium on Automata, Languages, and Programming"))
   (define/short sac "SAC" (string-append Symposium "on Applied Computing"))
   (define/short snapl "SNAPL" "Summit on Advances in Programming Languages")
-  (define/short dyla "DYLA" (string-append Workshop "on Dynamic Languages and Applications")))
+  (define/short dyla "DYLA" (string-append Workshop "on Dynamic Languages and Applications"))
+  (define/short pacmpl "PACMPL" "Proceedings of the ACM on Programming Languages"))
 
 (require 'util)
 
@@ -476,6 +477,13 @@
    #:author (authors "Asumu Takikawa" "Daniel Feltey" "Ben Greenman" "Max New" "Jan Vitek" "Matthias Felleisen")
    #:location (proceedings-location popl #:pages '(456 468))
    #:date 2016))
+
+(define gfd-oopsla-2019
+  (make-bib
+    #:title "Complete Monitors for Gradual Types"
+    #:author (authors "Ben Greenman" "Matthias Felleisen" "Christos Dimoulas")
+    #:location (journal-location pacmpl #:volume "1" #:number "OOPSLA"  #:pages '(122:1 122:29))
+    #:date 2019))
 
 ;; ----------------------------------------
 ; Early Work on Interoperation

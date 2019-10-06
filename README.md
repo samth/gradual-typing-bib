@@ -768,6 +768,11 @@ PLDI 2019, ACM.
 https://doi.org/10.1145/3314221.3314627
 https://akuhlens.github.io/paper/pldi19.pdf
 
+##### Complete Monitors for Gradual Types
+Ben Greenman, Matthias Felleisen, Christos Dimoulas
+OOPSLA 2019, ACM.
+https://doi.org/10.1145/3360548
+
 ##### Gradual C Programming for Typed Lua
 Rafi Shan Turas
 Masters Thesis

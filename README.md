@@ -785,6 +785,10 @@ arXiv:1902.07808
 February 2019
 https://arxiv.org/abs/1902.07808
 
+##### Gradual Typing for Python, Unguarded
+Michael M. Vitousek  
+PhD Dissertation, Indiana University, May 2019.  
+http://hdl.handle.net/2022/23172
 
 # Early Work on Interoperation
 

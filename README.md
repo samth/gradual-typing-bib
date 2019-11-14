@@ -784,11 +784,74 @@ Michael M. Vitousek, Jeremy G. Siek, Avik Chaudhuri.
 arXiv:1902.07808
 February 2019
 https://arxiv.org/abs/1902.07808
+(This is an earlier version of the DLS 2019 paper that appears below.)
 
 ##### Gradual Typing for Python, Unguarded
 Michael M. Vitousek  
 PhD Dissertation, Indiana University, May 2019.  
 http://hdl.handle.net/2022/23172
+
+##### The Dynamic Practice and Static Theory of Gradual Typing
+Michael Greenberg.
+SNAPL 2019.
+http://dx.doi.org/10.4230/LIPIcs.SNAPL.2019.6
+
+##### Blame Tracking and Type Error Debugging
+Sheng Chen, John Peter Campora III.
+SNAPL 2019.
+http://dx.doi.org/10.4230/LIPIcs.SNAPL.2019.2
+
+##### Towards a Type System for R
+Alexi Turcotte, Jan Vitek.
+ICOOOLPS 2019, ACM.
+https://doi.org/10.1145/3340670.3342426
+
+##### Static TypeSCript: An Implementation of a Static Compiler for the TypeScript Language
+Thomas Ball, Peli de Halleux, Michal Moskal.
+MPLR 2019, ACM.
+https://doi.org/10.1145/3357390.3361032
+
+##### Space-Efficient Gradual Typing in Coercion-Passing Style
+Yuya Tsuda, Atsushi Igarashi, Tomoya Tabuchi.
+arXiv:1908.02414
+August 2019
+https://arxiv.org/abs/1908.02414
+
+##### Automated Techniques forCreation and Maintenance ofTypeScript Declaration Files
+Erik Krogh Kristensen.
+Ph.D. Thesis
+Aarhus University
+August 2019
+https://pure.au.dk/portal/files/161232639/thesis.pdf
+
+##### Gradual Typing for Extensibility by Rows
+Taro Sekiyama, Atsushi Igarashi.
+arXiv:1910.08480
+October 2019
+https://arxiv.org/abs/1910.08480
+
+##### Optimizing and Evaluating Transient Gradual Typing
+Michael M. Vitousek, Jeremy G. Siek, Avik Chaudhuri.
+DLS 2019, ACM.
+https://doi.org/10.1145/3359619.3359742
+
+##### Abstracting gradual typing: Metatheory and applications
+Matias Toro Ipinza.
+Ph.D. Thesis
+University of Chile.
+http://repositorio.uchile.cl/handle/2250/170935
+
+##### Which of my transient type checks are not (almost) free?
+Isaac Oscar Gariano, Richard Roberts, Stefan Marr, Michael Homer, James Noble.
+VMIL 2019, ACM.
+https://doi.org/10.1145/3358504.3361232
+
+##### Towards Gradual Checking of Reference Capabilities
+Kiko Fernandez-Reyes, Isaac Oscar Gariano, James Noble, Tobias Wrigstad.
+arXiv:1909.01465
+September 2019
+https://arxiv.org/abs/1909.01465
+
 
 # Early Work on Interoperation
 
@@ -922,7 +985,6 @@ Technical Report 367, Indiana University, 1995.
 Cormac Flanagan, Matthew Flatt, Shriram Krishnamurthi, Stephanie Weirich, and Matthias Felleisen  
 In Proceedings of the ACM SIGPLAN 1996 conference on Programming language design and implementation (PLDI '96)  
 http://www.ccs.neu.edu/racket/pubs/#pldi96-ffkwf
-
 
 ##### The Strongtalk Type System for Smalltalk.
 Gilad Bracha  

@@ -806,7 +806,7 @@ Alexi Turcotte, Jan Vitek.
 ICOOOLPS 2019, ACM.
 https://doi.org/10.1145/3340670.3342426
 
-##### Static TypeSCript: An Implementation of a Static Compiler for the TypeScript Language
+##### Static TypeScript: An Implementation of a Static Compiler for the TypeScript Language
 Thomas Ball, Peli de Halleux, Michal Moskal.
 MPLR 2019, ACM.
 https://doi.org/10.1145/3357390.3361032
@@ -817,18 +817,12 @@ arXiv:1908.02414
 August 2019
 https://arxiv.org/abs/1908.02414
 
-##### Automated Techniques forCreation and Maintenance ofTypeScript Declaration Files
+##### Automated Techniques forCreation and Maintenance of TypeScript Declaration Files
 Erik Krogh Kristensen.
 Ph.D. Thesis
 Aarhus University
 August 2019
 https://pure.au.dk/portal/files/161232639/thesis.pdf
-
-##### Gradual Typing for Extensibility by Rows
-Taro Sekiyama, Atsushi Igarashi.
-arXiv:1910.08480
-October 2019
-https://arxiv.org/abs/1910.08480
 
 ##### Optimizing and Evaluating Transient Gradual Typing
 Michael M. Vitousek, Jeremy G. Siek, Avik Chaudhuri.
@@ -846,11 +840,106 @@ Isaac Oscar Gariano, Richard Roberts, Stefan Marr, Michael Homer, James Noble.
 VMIL 2019, ACM.
 https://doi.org/10.1145/3358504.3361232
 
+##### Approximate Normalization for Gradual Dependent Types
+Joseph Eremondi, Éric Tanter, and Ronald Garcia
+ICFP 2019, ACM.
+https://dl.acm.org/doi/10.1145/3341692
+
 ##### Towards Gradual Checking of Reference Capabilities
 Kiko Fernandez-Reyes, Isaac Oscar Gariano, James Noble, Tobias Wrigstad.
 arXiv:1909.01465
 September 2019
 https://arxiv.org/abs/1909.01465
+
+##### Gradual Typing for Extensibility by Rows
+Taro Sekiyama, Atsushi Igarashi.
+arXiv:1910.08480
+October 2019
+https://arxiv.org/abs/1910.08480
+
+##### Call-by-name Gradual Type Theory
+Max S. New, Daniel R. Licata
+Logical Methods in Computer Science
+January 2020
+https://lmcs.episciences.org/6063
+
+##### Toward a Mechanized Compendium of Gradual Typing
+Jeremy G. Siek
+arXiv:2001.11560
+January 2020
+https://arxiv.org/abs/2001.11560
+
+##### Gradual Typing as if Types Mattered
+Ronald Garcia, Éric Tanter
+Workshop on Gradual Typing
+January 2020
+https://wgt20.irif.fr/wgt20-final28-acmpaginated.pdf
+
+##### Foreign Function Typing: Semantic Type Soundness for FFIs
+Daniel Patterson, Amal Ahmed
+Workshop on Gradual Typing
+January 2020
+https://wgt20.irif.fr/wgt20-final23-acmpaginated.pdf
+
+##### Gradual Verification of Recursive Heap Data Structures
+J. Wise, B. Johannes, J. Aldrich, É. Tanter
+Workshop on Gradual Typing
+January 2020
+https://wgt20.irif.fr/wgt20-final10-acmpaginated.pdf
+
+##### Fully Abstract from Static to Gradual
+K. Jacobs, A. Timany, D. Devriese
+Workshop on Gradual Typing
+January 2020
+https://wgt20.irif.fr/wgt20-final46-acmpaginated.pdf
+
+##### Space-Efficient Monotonic References
+D. Almahallawi, Jeremy G. Siek
+Workshop on Gradual Typing
+January 2020
+https://wgt20.irif.fr/wgt20-final70-acmpaginated.pdf
+
+##### λdB: Blame tracking at higher fidelity
+J. Zalewski, J. McKinna, J.G. Morris, P. Wadler
+Workshop on Gradual Typing
+January 2020
+https://wgt20.irif.fr/wgt20-final98-acmpaginated.pdf
+
+##### Hypercoercions and a Framework for Equivalence of Cast Calculi
+K. Lu, Jeremy G. Siek, A. Kuhlenschmidt
+Workshop on Gradual Typing
+January 2020
+https://wgt20.irif.fr/wgt20-final09-acmpaginated.pdf
+
+##### A gradually typed subset of a scripting language can be simple and efficient
+Hugo Musso Gualandi, Roberto Ierusalimschy
+Draft
+January 2020
+http://www.inf.puc-rio.br/~hgualandi/papers/manuscript-Gualandi-JFP-2020-01-30.pdf
+
+##### First-order Gradual Information Flow Types with Gradual Guarantees
+Abhishek Bichhawat, McKenna McCall, Limin Jia
+arXiv:2003.12819
+March 2020
+https://arxiv.org/abs/2003.12819
+
+##### LambdaNet: Probabilistic Type Inference using Graph Neural Networks
+Jiayi Wei, Maruth Goyal, Greg Durrett, Isil Dillig
+arXiv:2005.02161
+April 2020
+https://arxiv.org/abs/2005.02161
+
+##### Pallene: A companion language for Lua
+Hugo Musso Gualandi, Roberto Ierusalimschy, 2020
+Science of Computer Programming
+April 2020
+https://doi.org/10.1016/j.scico.2020.102393
+
+##### Reconciling Noninterference and Gradual Typing
+Arthur Azevedo de Amorim, Matt Fredrikson, Limin Jia
+Logic in Computer Science (LICS)
+July 2020
+http://arthuraa.net/docs/glio.pdf
 
 
 # Early Work on Interoperation

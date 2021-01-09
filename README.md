@@ -941,6 +941,27 @@ Logic in Computer Science (LICS)
 July 2020
 http://arthuraa.net/docs/glio.pdf
 
+##### Abstracting gradual references
+Matías Toro, Éric Tanter
+Science of Computer Programming
+Volume 197, 2020
+https://doi.org/10.1016/j.scico.2020.102496
+
+##### Abstracting Gradual Typing Moving Forward : Precise and Space-Efficient
+Felipe Bañados Schwerter, Alison M. Clark, Khurram A. Jafery, Ronald Garcia
+POPL 2021 
+https://dl.acm.org/doi/10.1145/3434342
+
+##### Corpse Reviver: Sound and Efficient Gradual Typing via Contract Verification
+Cameron Moy, Phúc C. Nguyễn, Sam Tobin-Hochstadt, David Van Horn
+POPL 2021 
+https://dl.acm.org/doi/abs/10.1145/3434334
+
+##### Fully Abstract from Static to Gradual
+Koen Jacobs, Amin Timany, Dominique Devriese
+POPL 2021
+https://dl.acm.org/doi/abs/10.1145/3434288
+
 
 # Early Work on Interoperation
 

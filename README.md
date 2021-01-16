@@ -718,6 +718,12 @@ OOPSLA 2018, ACM.
 https://www.eecs.northwestern.edu/~robby/pubs/papers/oopsla2018-fgsfs.pdf
 https://doi.org/10.1145/3276503
 
+##### Preemptive type checking
+Grech, Neville, Bernd Fischer, Julian Rathke.
+Journal of Logical and Algebraic Methods in Programming, Volume 101, 2018.
+https://eprints.soton.ac.uk/421793/1/Preemptive_type_checking.pdf
+https://doi.org/10.1016/j.jlamp.2018.08.003
+
 ##### Gradual Parametricity, Revisited
 Matías Toro, Elizabeth Labrada, Éric Tanter.
 POPL 2019, ACM.

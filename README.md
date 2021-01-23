@@ -869,6 +869,16 @@ Logical Methods in Computer Science
 January 2020
 https://lmcs.episciences.org/6063
 
+#### Graduality and Parametricity: Together Again for the First Time
+Max S. New, Dustin Jamner, Amal Ahmed
+POPL 2020, ACM
+https://dl.acm.org/doi/10.1145/3371114
+
+#### What is Decidable about Gradual Typing?
+Zeina Migeed, Jens Palsberg
+POPL 2020, ACM
+https://dl.acm.org/doi/10.1145/3371097
+
 ##### Toward a Mechanized Compendium of Gradual Typing
 Jeremy G. Siek
 arXiv:2001.11560
@@ -1041,6 +1051,11 @@ https://doi.org/10.1017/S0956796806005971
 Christos Dimoulas and Matthias Felleisen.
 ACM Transactions on Programming Languages and Systems (TOPLAS), 33(5):1–29, 2011.
 https://doi.org/10.1145/2039346.2039348
+
+#### Does Blame Shifting Work?
+Lukas Lazarek, Alexis King, Samanvitha Sundar, Robert Bruce Findler, Christos Dimoulas
+POPL 2020, ACM
+https://dl.acm.org/doi/10.1145/3371133
 
 ## Typing Untyped Languages
 

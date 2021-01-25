@@ -515,6 +515,12 @@ Asumu Takikawa, Daniel Feltey, Ben Greenman, Max New, Jan Vitek, Matthias Fellei
 POPL 2016, ACM, New York, NY, USA, 456-468.
 http://www.ccs.neu.edu/racket/pubs/popl16-tfgnvf.pdf
 
+##### The Design, Implementation, And Evaluation Of A Gradual Type System For Dynamic Class Composition
+Asumu Takikawa
+Ph.D. Thesis, Northeastern University
+April 2016
+http://hdl.handle.net/2047/D20213172
+
 ##### Blame Tracking at Higher Fidelity
 Jakub Zalewski
 Master of Science by Research, School of Informatics, University of Edinburgh.
@@ -869,12 +875,12 @@ Logical Methods in Computer Science
 January 2020
 https://lmcs.episciences.org/6063
 
-#### Graduality and Parametricity: Together Again for the First Time
+##### Graduality and Parametricity: Together Again for the First Time
 Max S. New, Dustin Jamner, Amal Ahmed
 POPL 2020, ACM
 https://dl.acm.org/doi/10.1145/3371114
 
-#### What is Decidable about Gradual Typing?
+##### What is Decidable about Gradual Typing?
 Zeina Migeed, Jens Palsberg
 POPL 2020, ACM
 https://dl.acm.org/doi/10.1145/3371097
@@ -977,6 +983,24 @@ https://dl.acm.org/doi/abs/10.1145/3434334
 Koen Jacobs, Amin Timany, Dominique Devriese
 POPL 2021
 https://dl.acm.org/doi/abs/10.1145/3434288
+
+##### Deep and Shallow Types
+Ben Greenman
+Ph.D. Thesis, Northeastern University
+November 2020
+http://ccs.neu.edu/home/types/resources/pdf/g-dissertation-2020.pdf
+
+##### Towards Efficient Gradual Typing Via Monotonic References And Coercions
+Deyaaeldeen Almahallawi
+Ph.D. Thesis, Indiana University
+May 2020
+https://www.dropbox.com/s/oiui3q0l76z5pbo/deyaa-dissertation.pdf?dl=1
+
+##### A Semantic Foundation for Sound Gradual Typing
+Max New
+Ph.D. Thesis, Northeastern University
+2020
+http://maxsnew.com/docs/dissertation.pdf
 
 
 # Early Work on Interoperation

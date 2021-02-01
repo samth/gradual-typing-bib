@@ -1002,6 +1002,15 @@ Ph.D. Thesis, Northeastern University
 2020
 http://maxsnew.com/docs/dissertation.pdf
 
+##### Taming type annotations in gradual typing
+John Peter Campora and Sheng Chen
+OOPSLA 2020
+https://doi.org/10.1145/3428259
+
+##### Gradual verification of recursive heap data structures
+Jenna Wise, Johannes Bader, Cameron Wong, Jonathan Aldrich, Éric Tanter, Joshua Sunshine
+OOPSLA 2020
+https://doi.org/10.1145/3428296
 
 # Early Work on Interoperation
 

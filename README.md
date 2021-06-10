@@ -1289,3 +1289,8 @@ http://frenchy64.github.io/papers/esop16-short.pdf
 ##### Occurrence Typing Modulo Theories
 Andrew M. Kent, David Kempe, and Sam Tobin-Hochstadt.
 In Proceedings of the ACM SIGPLAN 2016 conference on Programming Language Design and Implementation (PLDI '16)  
+
+##### A Gradual Type System for Elixir
+Mauricio Cassola, Agustín Talagorria, Alberto Pardo, Marcos Viera
+In SBLP '20: Proceedings of the 24th Brazilian Symposium on Context-Oriented Programming and Advanced Modularity, October 2020, Pages 17–24
+https://doi.org/10.1145/3427081.3427084

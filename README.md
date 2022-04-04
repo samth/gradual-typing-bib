@@ -1012,6 +1012,42 @@ Jenna Wise, Johannes Bader, Cameron Wong, Jonathan Aldrich, Éric Tanter, Joshua
 OOPSLA 2020
 https://doi.org/10.1145/3428296
 
+##### Where to Start: Studying Type Annotation Practices in Python
+W. Jin, D. Zhong, Z. Ding, M. Fan and T. Liu
+ASE 2021
+https://doi.org/10.1109/ASE51524.2021.9678947
+
+##### Label dependent lambda calculus and gradual typing
+Weili Fu, Fabian Krause, Peter Thiemann
+OOPSLA 2021
+https://doi.org/10.1145/3485485
+
+##### GATE: Gradual Effect Types
+Philip Wadler
+ISoLA 2021: Leveraging Applications of Formal Methods, Verification and Validation
+https://doi.org/10.1007/978-3-030-89159-6_21
+
+##### A Transient Semantics for Typed Racket
+Ben Greenman, Lukas Lazarek, Christos Dimoulas, Matthias Felleisen
+2021
+https://doi.org/10.48550/arXiv.2111.10411
+
+##### Transitioning from structural to nominal code with efficient gradual typing
+Muehlboeck, Fabian, and Ross Tate.
+OOPSLA 2021
+https://doi.org/10.1145/3485504
+
+##### Gradually structured data
+Stefan Malewski, Michael Greenberg, Éric Tanter
+OOPSLA 2021
+https://doi.org/10.1145/3485503
+
+##### A Reasonably Gradual Type Theory
+Kenji Maillard, Meven Lennon-Bertrand, Nicolas Tabareau, Éric Tanter
+2022
+https://hal.inria.fr/hal-03596652/
+
+
 # Early Work on Interoperation
 
 These papers all consider the challenges of interoperability between typed and untyped languages, which is at the core of the gradual typing project.  Papers about type checking untyped languages that do not consider interoperation appear in the next section.

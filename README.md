@@ -96,7 +96,7 @@ http://www.eecs.northwestern.edu/~robby/pubs/papers/scheme2007-wf.pdf
 
 Lars T Hansen
 Adobe Systems Technical Report, November 2007  
-http://www.ecmascript.org/es4/spec/evolutionary-programming-tutorial.pdf
+http://archives.ecma-international.org/2007/TG1/tc39-tg1-2007-045.pdf
 
 ##### Status report: specifying JavaScript with ML
 

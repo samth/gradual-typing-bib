@@ -78,7 +78,7 @@ In Proceedings of the Eighth Symposium on Trends in Functional Programming, TFP 
 Jeremy G. Siek and Walid Taha.  
 In ECOOP 2007, volume 4609 of
 LCNS, pages 2–27. Springer Verlag, August 2007.  
-http://ecee.colorado.edu/~siek/gradual-obj.pdf
+http://aszt.inf.elte.hu/~gsd/s/cikkek/concepts/2007/gradual-obj.pdf
 
 ##### Advanced Macrology and the Implementation of Typed Scheme.
 
